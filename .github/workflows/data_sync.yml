@@ -1,0 +1,32 @@
+name: V-Link Data Daily Sync
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # 北京时间凌晨5点运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Sync Engine
+        run: python scripts/sync_engine.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "V-Link Bot"
+          git config --global user.email "bot@vlink.com"
+          git add public/data/database.json
+          git commit -m "chore: auto-update song database $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
