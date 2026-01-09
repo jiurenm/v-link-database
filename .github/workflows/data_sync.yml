@@ -1,5 +1,8 @@
 name: V-Link Data Daily Sync
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 21 * * *' # 北京时间凌晨5点运行
@@ -25,8 +28,13 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "V-Link Bot"
-          git config --global user.email "bot@vlink.com"
-          git add public/data/database.json
-          git commit -m "chore: auto-update song database $(date +'%Y-%m-%d')" || echo "No changes"
-          git push
+          git config user.name "V-Link Bot"
+          git config user.email "bot@vlink.com"
+
+          if [[ `git status --porcelain` ]]; then
+            git add public/data/database.json
+            git commit -m "chore: auto-update song database $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
