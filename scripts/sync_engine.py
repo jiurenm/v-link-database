@@ -6,17 +6,11 @@ import os
 
 # --- 核心映射配置 ---
 CHARACTER_DB = {
-    # 25時
     "宵崎奏": "25時", "東雲絵名": "25時", "暁山瑞希": "25時", "朝比奈まふゆ": "25時",
-    # Leo/need
     "星乃一歌": "Leo/need", "天馬咲希": "Leo/need", "望月穂波": "Leo/need", "日野森志歩": "Leo/need",
-    # MMJ
     "花里みのり": "MMJ", "桐谷遥": "MMJ", "桃井愛莉": "MMJ", "日野森雫": "MMJ",
-    # VBS
     "小豆沢こはね": "VBS", "白石杏": "VBS", "東雲彰人": "VBS", "青柳冬弥": "VBS",
-    # WxS
     "天馬司": "WxS", "凤えむ": "WxS", "草薙寧々": "WxS", "神代類": "WxS",
-    # Virtual Singers
     "初音ミク": "Virtual Singer", "镜音リン": "Virtual Singer", "镜音レン": "Virtual Singer", 
     "巡音ルカ": "Virtual Singer", "MEIKO": "Virtual Singer", "KAITO": "Virtual Singer"
 }
@@ -26,12 +20,9 @@ KNOWN_GROUPS = [
     "Leo/need", "MORE MORE JUMP！"
 ]
 
-# --- 常量 ---
 COMPOSER_BLACKLIST = ["MV", "字幕", "世界计划", "収录", "主题曲", "游戏"]
 
-# --- 工具函数 ---
 def extract_brackets(raw_title):
-    """提取所有中括号内容"""
     return re.findall(r'【(.*?)】', raw_title)
 
 class VLinkSyncEngine:
@@ -41,35 +32,63 @@ class VLinkSyncEngine:
             'mid': mid,
             'season_id': season_id,
             'sort_reverse': 'false',
-            'page_size': 30, # 实际运行建议设为30
+            'page_size': 30,
             'page_num': 1
         }
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
         self.songs_map = {}
+        
+        # --- 新增：载入本地抓取的 Meta 数据 ---
+        self.meta_db = self.load_meta_db()
+        self.manual_mapping = self.load_manual_mapping()
+
+    def load_manual_mapping(self):
+        path = './data/mapping.json'
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return {}
+
+    def load_meta_db(self):
+        """载入由 sync_wiki.py 生成的元数据"""
+        path = './data/songs_meta.json'
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        print("⚠️ 警告：未找到 ./data/songs_meta.json，将无法匹配难度数据")
+        return {}
+
+    def find_meta_info(self, title):
+        """在 meta_db 中匹配歌名，尝试直接匹配和归一化匹配"""
+        search_title = self.manual_mapping.get(title, title)
+
+        # 1. 直接匹配
+        if search_title in self.meta_db:
+            return search_title, self.meta_db[search_title]
+        
+        clean_t = search_title.replace(" ", "").lower()
+        for jp_name, info in self.meta_db.items():
+            if jp_name.replace(" ", "").lower() == clean_t:
+                return jp_name, info
+                
+        return search_title, None
 
     def clean_title_and_artist(self, raw_title):
-        """解析标题，提取干净歌名和P主"""
         brackets = extract_brackets(raw_title)
         artist = "Unknown Producer"
         
-        # 找作曲者中括号
         for b in brackets:
             if any(x in b for x in COMPOSER_BLACKLIST):
                 continue
-            if "×" in b or "*" in b:  # 作曲者常用 × 或 *
+            if "×" in b or "*" in b:
                 artist = b
                 break
 
-        # 提取正文标题
         title_body = re.sub(r'【.*?】', '', raw_title)
-        title_body = re.sub(r'（.*?）|\(.*?\)', '', title_body)  # 去括号注释
-        title_body = re.sub(r'／.*$', '', title_body).strip()  # 去尾部版本说明
-
-        # 特殊标题归一
-        if title_body in ("世界", "セカイ"):
-            title_body = "セカイ (世界)"
+        title_body = re.sub(r'（.*?）|\(.*?\)', '', title_body)
+        title_body = re.sub(r'／.*$', '', title_body).strip()
 
         for group in KNOWN_GROUPS:
             if artist.startswith(group):
@@ -79,14 +98,12 @@ class VLinkSyncEngine:
         return title_body, artist
 
     def parse_vocalists(self, raw_title):
-        """解析演唱人员并判定主团体"""
         brackets = extract_brackets(raw_title)
         vocal_bracket = None
         
         for b in brackets:
             if "字幕" in b or "MV" in b or "世界计划" in b:
                 continue
-            # 演唱者一定包含 × 或角色名
             if any(v in b for v in CHARACTER_DB):
                 vocal_bracket = b
                 break
@@ -105,7 +122,7 @@ class VLinkSyncEngine:
         vocalists.extend(singers)
 
         main_group = next((v for v in vocalists if v in KNOWN_GROUPS), "Other")
-        groups_found = [CHARACTER_DB[v] for v in vocalists if v in CHARACTER_DB and CHARACTER_DB[v] != "Virtual Singer"]
+        groups_found = [CHARACTER_DB[v] for v in vocalists if v in CHARACTER_DB if CHARACTER_DB[v] != "Virtual Singer"]
         vocal_type = "Sekai" if groups_found else "Virtual Singer"
 
         return vocalists, main_group, vocal_type
@@ -118,68 +135,80 @@ class VLinkSyncEngine:
             self.params['page_num'] = current_page
             print(f"📡 正在拉取第 {current_page} 页数据...")
             
-            resp = requests.get(self.api_url, params=self.params, headers=self.headers).json()
-            if resp['code'] != 0: 
-                print("⚠️ API 请求失败或返回异常")
-                break
-            
-            data = resp['data']
-            total_pages = (data['page']['total'] // self.params['page_size']) + 1
-            
-            for arc in data['archives']:
-                raw_title = arc['title']
-                title, artist = self.clean_title_and_artist(raw_title)
-                vocalists, main_group, vocal_type = self.parse_vocalists(raw_title)
-                v_type_label = '3D' if '3DMV' in raw_title.upper() else '2D'
+            try:
+                resp = requests.get(self.api_url, params=self.params, headers=self.headers).json()
+                if resp['code'] != 0: 
+                    print("⚠️ API 请求失败")
+                    break
                 
-                # 聚合逻辑：以标题作为 key
-                if title not in self.songs_map:
-                    self.songs_map[title] = {
-                        "id": f"pjsk_{arc['aid']}",
-                        "title": title,
-                        "artist": artist,
-                        "is_pjsk": any(k in raw_title for k in ["世界计划", "SEKAI", "プロジェクトセカイ"]),
-                        "total_views": 0,
-                        "cover_url": None,  # 初始化
-                        "pjsk_meta": None,
-                        "versions": []
-                    }
+                data = resp['data']
+                total_pages = (data['page']['total'] // self.params['page_size']) + 1
+                
+                for arc in data['archives']:
+                    raw_title = arc['title']
+                    title, artist = self.clean_title_and_artist(raw_title)
                     
-                    if self.songs_map[title]["is_pjsk"]:
-                        self.songs_map[title]["pjsk_meta"] = {
-                            "main_group": main_group,
-                            "vocalist_type": "Full" if len(set(vocalists)) > 1 else "Unit",
-                            "difficulty_master": 0
+                    # --- 匹配 Meta 数据 ---
+                    std_title, meta_info = self.find_meta_info(title)
+                    
+                    if title not in self.songs_map:
+                        vocalists, main_group, vocal_type = self.parse_vocalists(raw_title)
+                        v_type_label = '3D' if '3DMV' in raw_title.upper() else '2D'
+                        
+                        self.songs_map[std_title] = {
+                            "id": f"pjsk_{arc['aid']}",
+                            "wiki_id": meta_info.get("wiki_id") if meta_info else None, # 注入 Wiki ID
+                            "title": std_title,
+                            "artist": artist,
+                            "is_pjsk": True,
+                            "total_views": 0,
+                            "cover_url": None,
+                            "pjsk_meta": None,
+                            "versions": []
                         }
+                        
+                        if self.songs_map[std_title]["is_pjsk"]:
+                            # 优先使用 Wiki 爬到的 Group 信息
+                            final_group = meta_info.get("group") if meta_info else main_group
+                            
+                            self.songs_map[std_title]["pjsk_meta"] = {
+                                "main_group": final_group,
+                                "vocalist_type": "Full" if len(set(vocalists)) > 1 else "Unit",
+                                "difficulty": meta_info.get("difficulty") if meta_info else None
+                            }
 
-                # 更新数据
-                self.songs_map[title]["total_views"] += arc['stat']['view']
-                self.songs_map[title]["versions"].append({
-                    "type": v_type_label,
-                    "label": f"{v_type_label} MV",
-                    "bvid": arc['bvid'],
-                    "duration": arc['duration'],
-                    "vocalists": vocalists,
-                    "vocal_type": vocal_type,
-                    "views": arc['stat']['view']
-                })
+                    # 更新播放量和版本
+                    v_type_label = '3D' if '3DMV' in raw_title.upper() else '2D'
+                    vocalists, _, vocal_type = self.parse_vocalists(raw_title)
+                    
+                    self.songs_map[std_title]["total_views"] += arc['stat']['view']
+                    self.songs_map[std_title]["versions"].append({
+                        "type": v_type_label,
+                        "label": f"{v_type_label} MV",
+                        "bvid": arc['bvid'],
+                        "duration": arc['duration'],
+                        "vocalists": vocalists,
+                        "vocal_type": vocal_type,
+                        "views": arc['stat']['view']
+                    })
 
-                if v_type_label == '2D':
-                    self.songs_map[title]["cover_url"] = arc['pic']  # 2D 始终覆盖
-                elif v_type_label == '3D' and not self.songs_map[title]["cover_url"]:
-                    self.songs_map[title]["cover_url"] = arc['pic']  # 只有没有封面时才用 3D
-            
-            current_page += 1
-            time.sleep(1) # 频率限制
+                    if v_type_label == '2D':
+                        self.songs_map[std_title]["cover_url"] = arc['pic']
+                    elif v_type_label == '3D' and not self.songs_map[std_title]["cover_url"]:
+                        self.songs_map[std_title]["cover_url"] = arc['pic']
+                
+                current_page += 1
+                time.sleep(1)
+            except Exception as e:
+                print(f"❌ 运行中发生错误: {e}")
+                break
 
         # 写入文件
         if len(self.songs_map) > 0:
             os.makedirs('./public/data', exist_ok=True)
             with open('./public/data/database.json', 'w', encoding='utf-8') as f:
                 json.dump(list(self.songs_map.values()), f, ensure_ascii=False, indent=2)
-            print(f"✅ 处理完成，共计 {len(self.songs_map)} 首曲目已存入 database.json")
-        else:
-            print("⚠️  没有数据，跳过文件写入")
+            print(f"✅ 处理完成，共计 {len(self.songs_map)} 首曲目")
 
 if __name__ == "__main__":
     VLinkSyncEngine().run()

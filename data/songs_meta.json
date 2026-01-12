@@ -1,0 +1,7514 @@
+{
+  "Tell Your World": {
+    "wiki_id": "708ecb0c47",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "25"
+    }
+  },
+  "ネクストネスト": {
+    "wiki_id": "7d35a92f0b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "メルト": {
+    "wiki_id": "faaf43e975",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "初音ミクの消失": {
+    "wiki_id": "9d9c2eb72e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "22",
+      "expert": "30",
+      "master": "35",
+      "append": "-"
+    }
+  },
+  "Blessing": {
+    "wiki_id": "Blessing",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "alive": {
+    "wiki_id": "alive",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ロキ": {
+    "wiki_id": "60dcc0957a",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "28"
+    }
+  },
+  "テオ": {
+    "wiki_id": "da2aba2da6",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ヒバナ -Reloaded-": {
+    "wiki_id": "1224d46582",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "28",
+      "master": "32",
+      "append": "34"
+    }
+  },
+  "ハッピーシンセサイザ": {
+    "wiki_id": "409696fa68",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "Nostalogic": {
+    "wiki_id": "Nostalogic",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ツギハギスタッカート": {
+    "wiki_id": "125602b1f9",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "劣等上等": {
+    "wiki_id": "557bbcb0d6",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ドクター＝ファンクビート": {
+    "wiki_id": "5cbca0f22d",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "フラジール": {
+    "wiki_id": "b116e05171",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "ブリキノダンス": {
+    "wiki_id": "e657c29e81",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "スイートマジック": {
+    "wiki_id": "d95d0b4ef0",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "27",
+      "append": "25"
+    }
+  },
+  "ぼうけんのしょがきえました！": {
+    "wiki_id": "a4e4c48976",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "シャルル": {
+    "wiki_id": "19b7f1baba",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "ハロ／ハワユ": {
+    "wiki_id": "f4444fc93b",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "15",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "自傷無色": {
+    "wiki_id": "64f196fd56",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "17",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "needLe": {
+    "wiki_id": "needLe",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "アイドル新鋭隊": {
+    "wiki_id": "724fc29866",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Ready Steady": {
+    "wiki_id": "70a8913ac7",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "16",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "セカイはまだ始まってすらいない": {
+    "wiki_id": "54ca244e45",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "悔やむと書いてミライ": {
+    "wiki_id": "2a05aa7169",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "セカイ": {
+    "wiki_id": "cf689d0d42",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "27",
+      "append": "28"
+    }
+  },
+  "ワーワーワールド": {
+    "wiki_id": "21093610fa",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "アスノヨゾラ哨戒班": {
+    "wiki_id": "90417f70c3",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ニア": {
+    "wiki_id": "c4dda20d0e",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "Just Be Friends": {
+    "wiki_id": "46500dfeae",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "脱法ロック": {
+    "wiki_id": "b65b663e4b",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "命に嫌われている": {
+    "wiki_id": "513cbd140f",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ワールドイズマイン": {
+    "wiki_id": "1e1e52f9ec",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ダンスロボットダンス": {
+    "wiki_id": "49807ac46d",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Hand in Hand": {
+    "wiki_id": "eacf216a62",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "夜咄ディセイブ": {
+    "wiki_id": "e634a8eebe",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Gimme×Gimme": {
+    "wiki_id": "cc7ceb4401",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ビバハピ": {
+    "wiki_id": "9407db7652",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ジャンキーナイトタウンオーケストラ": {
+    "wiki_id": "6061239b36",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ミラクルペイント": {
+    "wiki_id": "f861f75291",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "on the rocks": {
+    "wiki_id": "606355a091",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "携帯恋話": {
+    "wiki_id": "ac9ef734b8",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "39みゅーじっく！": {
+    "wiki_id": "f809908795",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "27"
+    }
+  },
+  "青く駆けろ！": {
+    "wiki_id": "9ef1d49cd0",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "30"
+    }
+  },
+  "ステラ": {
+    "wiki_id": "bbb8f882f7",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "Leia - Remind": {
+    "wiki_id": "27c8b4e676",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ジャックポットサッドガール": {
+    "wiki_id": "ac4a117c38",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "メルティランドナイトメア": {
+    "wiki_id": "be40b34be7",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "乙女解剖": {
+    "wiki_id": "8fbf720ab4",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "potatoになっていく": {
+    "wiki_id": "d565f12ae8",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "25"
+    }
+  },
+  "ローリンガール": {
+    "wiki_id": "1e5eba2530",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "モア！ジャンプ！モア！": {
+    "wiki_id": "b62e7120ae",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "30"
+    }
+  },
+  "裏表ラバーズ": {
+    "wiki_id": "34f590600e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "アンノウン・マザーグース": {
+    "wiki_id": "ac692e516a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "愛されなくても君がいる": {
+    "wiki_id": "feea2d9d42",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ウミユリ海底譚": {
+    "wiki_id": "236a0ddcca",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Forward": {
+    "wiki_id": "Forward",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "独りんぼエンヴィー": {
+    "wiki_id": "37bbece9b6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "ニジイロストーリーズ": {
+    "wiki_id": "24a5993794",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ODDS＆ENDS": {
+    "wiki_id": "80fcf1f768",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ドラマツルギー": {
+    "wiki_id": "7f816a99a8",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "グリーンライツ・セレナーデ": {
+    "wiki_id": "a96f1e1ddb",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "恋愛裁判": {
+    "wiki_id": "ddd270b23b",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "22",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "＊ハロー、プラネット。": {
+    "wiki_id": "acc6939ecf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "10",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "千本桜": {
+    "wiki_id": "865bdc036e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "20",
+      "expert": "26",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ECHO": {
+    "wiki_id": "ECHO",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "29"
+    }
+  },
+  "チュルリラ・チュルリラ・ダッダッダ！": {
+    "wiki_id": "0f07b65171",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ブレス・ユア・ブレス": {
+    "wiki_id": "9beb9cb846",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "とても痛い痛がりたい": {
+    "wiki_id": "552b54374a",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "23",
+      "master": "28",
+      "append": "30"
+    }
+  },
+  "霽れを待つ": {
+    "wiki_id": "6eebc0dde3",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ワールズエンド・ダンスホール": {
+    "wiki_id": "2ab22f753f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ヒビカセ": {
+    "wiki_id": "0bea77586c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Color of Drops": {
+    "wiki_id": "d8bf0439ac",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "26"
+    }
+  },
+  "RAD DOGS": {
+    "wiki_id": "RAD DOGS",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "32"
+    }
+  },
+  "ミルククラウン・オン・ソーネチカ": {
+    "wiki_id": "9cee720d06",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "タイムマシン": {
+    "wiki_id": "a1e4877a85",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "drop pop candy": {
+    "wiki_id": "4dc2d1b2e5",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ポジティブ☆ダンスタイム": {
+    "wiki_id": "80810d6f00",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Brand New Day": {
+    "wiki_id": "d8b81cd0c9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "28",
+      "master": "32",
+      "append": "35"
+    }
+  },
+  "限りなく灰色へ": {
+    "wiki_id": "5054a60c23",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ワンスアポンアドリーム": {
+    "wiki_id": "85d1397ebe",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "ボッカデラベリタ": {
+    "wiki_id": "d71504a307",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "みくみくにしてあげる♪【してやんよ】": {
+    "wiki_id": "8c0e834235",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "威風堂々": {
+    "wiki_id": "c8fa452278",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "from Y to Y": {
+    "wiki_id": "bfab5523fc",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "初音ミクの激唱": {
+    "wiki_id": "871bc229c6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "30",
+      "master": "34",
+      "append": "-"
+    }
+  },
+  "天使のクローバー": {
+    "wiki_id": "0d13c36a4d",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "お気に召すまま": {
+    "wiki_id": "5c57bda305",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "どりーみんチュチュ": {
+    "wiki_id": "cdec2e8093",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "アイディスマイル": {
+    "wiki_id": "d53b368f5d",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "26"
+    }
+  },
+  "「１」": {
+    "wiki_id": "3fe7c2faac",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "28"
+    }
+  },
+  "花を唄う": {
+    "wiki_id": "f4ef8dfe1f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "夜に駆ける": {
+    "wiki_id": "7a222f2116",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "幽霊東京": {
+    "wiki_id": "ab5c5ae531",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "シネマ": {
+    "wiki_id": "4e3ae95e52",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "KING": {
+    "wiki_id": "KING",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
+      "append": "28"
+    }
+  },
+  "アイノマテリアル": {
+    "wiki_id": "f17212d9c8",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "いかないで": {
+    "wiki_id": "26c62ae300",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "27"
+    }
+  },
+  "ロミオとシンデレラ": {
+    "wiki_id": "073da37f2e",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "泡沫未来": {
+    "wiki_id": "ffa0c81786",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "30"
+    }
+  },
+  "トンデモワンダーズ": {
+    "wiki_id": "4f77daec39",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "33"
+    }
+  },
+  "カナデトモスソラ": {
+    "wiki_id": "a5b4f5e5f6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "24"
+    }
+  },
+  "トラフィック・ジャム": {
+    "wiki_id": "024fdec90a",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "フロムトーキョー": {
+    "wiki_id": "84f00f6d2f",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Beat Eater": {
+    "wiki_id": "Beat Eater",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "28"
+    }
+  },
+  "六兆年と一夜物語": {
+    "wiki_id": "c5fc2ebb4c",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "29",
+      "master": "35",
+      "append": "35"
+    }
+  },
+  "地球最後の告白を": {
+    "wiki_id": "58f2522b18",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "32"
+    }
+  },
+  "ビターチョコデコレーション": {
+    "wiki_id": "1b50c8537e",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "25",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "そうだった！！": {
+    "wiki_id": "701f5e704d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "カゲロウデイズ": {
+    "wiki_id": "245ba9ef5d",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "33"
+    }
+  },
+  "アイスドロップ": {
+    "wiki_id": "68d0d75bd3",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "Glory Steady Go!": {
+    "wiki_id": "96cfcacc28",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "チルドレンレコード": {
+    "wiki_id": "fceb6b094d",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "magic number": {
+    "wiki_id": "c885160018",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "流星のパルス": {
+    "wiki_id": "288fb7cc9c",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "カトラリー": {
+    "wiki_id": "3c051677c6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "再生": {
+    "wiki_id": "6621f713c6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "群青讃歌": {
+    "wiki_id": "babee1c459",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "29"
+    }
+  },
+  "炉心融解": {
+    "wiki_id": "2a89fa5938",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ロストワンの号哭": {
+    "wiki_id": "e6d99b6984",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "マシンガンポエムドール": {
+    "wiki_id": "b8388403b3",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "23",
+      "expert": "31",
+      "master": "35",
+      "append": "-"
+    }
+  },
+  "ベノム": {
+    "wiki_id": "0a26a410cd",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "拝啓ドッペルゲンガー": {
+    "wiki_id": "b8f139a6a6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "28",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "テレキャスタービーボーイ": {
+    "wiki_id": "031a9065ca",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "31"
+    }
+  },
+  "トキヲ・ファンカ": {
+    "wiki_id": "98de5b3aca",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "悪魔の踊り方": {
+    "wiki_id": "9a4551a1a9",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "だれかの心臓になれたなら": {
+    "wiki_id": "597bdb185c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "マシュマリー": {
+    "wiki_id": "b9992ab732",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "11",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "右肩の蝶": {
+    "wiki_id": "3901106b74",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ray": {
+    "wiki_id": "ray",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "Hello,world!": {
+    "wiki_id": "37ef376c3f",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "しっくおぶはうす！": {
+    "wiki_id": "1ddfe66cb3",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ショウタイム・ルーラー": {
+    "wiki_id": "ca6f43c92f",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "31",
+      "append": "31"
+    }
+  },
+  "Happy Halloween": {
+    "wiki_id": "2693473ae8",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "25",
+      "master": "31",
+      "append": "26"
+    }
+  },
+  "ロウワー": {
+    "wiki_id": "3eb586d6a9",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "31",
+      "append": "30"
+    }
+  },
+  "初音天地開闢神話": {
+    "wiki_id": "fc19ce99f2",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "オルターエゴ": {
+    "wiki_id": "c16b1a70e0",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "STAGE OF SEKAI": {
+    "wiki_id": "921e01d341",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "からくりピエロ": {
+    "wiki_id": "1cf051723d",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ワールドワイドワンダー": {
+    "wiki_id": "4840fa7c9e",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "悪ノ娘": {
+    "wiki_id": "496fd87b7a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "悪ノ召使": {
+    "wiki_id": "fcd1cb860e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "去り人達のワルツ": {
+    "wiki_id": "8108b8f801",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ラストスコア": {
+    "wiki_id": "5682530864",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "フィクサー": {
+    "wiki_id": "66ea9185d3",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ミライ": {
+    "wiki_id": "8129214b9f",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ゴーストルール": {
+    "wiki_id": "74368dd80a",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "ヴィラン": {
+    "wiki_id": "a4f63bf769",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "サンドリヨン 10th Anniversary": {
+    "wiki_id": "10647bcd3b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "少女レイ": {
+    "wiki_id": "b0af258987",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "27"
+    }
+  },
+  "ガランド": {
+    "wiki_id": "f2df0f48f8",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "エンドマークに希望と涙を添えて": {
+    "wiki_id": "bdbc7356b0",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "35",
+      "append": "-"
+    }
+  },
+  "the EmpErroR": {
+    "wiki_id": "f9c7e2cb5f",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "36",
+      "append": "-"
+    }
+  },
+  "Don't Fight The Music": {
+    "wiki_id": "65891874d8",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "30",
+      "master": "35",
+      "append": "-"
+    }
+  },
+  "にっこり^^調査隊のテーマ": {
+    "wiki_id": "d7a5107fea",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "トリコロージュ": {
+    "wiki_id": "2881e6f526",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "心拍数♯0822": {
+    "wiki_id": "b2083c155f",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "うっせぇわ": {
+    "wiki_id": "a38ccc0817",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "踊": {
+    "wiki_id": "踊",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "君色マリンスノウ": {
+    "wiki_id": "b83ee0f452",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "28",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "愛して愛して愛して": {
+    "wiki_id": "b5fe578a57",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Flyer!": {
+    "wiki_id": "Flyer!",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "30"
+    }
+  },
+  "Peaky Peaky": {
+    "wiki_id": "6c3b534e4a",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ジウダス": {
+    "wiki_id": "8d7c153a7c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ナンセンス文学": {
+    "wiki_id": "3119b11039",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "11",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "心予報": {
+    "wiki_id": "2a39ca91f3",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "僕らまだアンダーグラウンド": {
+    "wiki_id": "6135e8c6eb",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Miku": {
+    "wiki_id": "Miku",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "メタモリボン": {
+    "wiki_id": "6d8b3e9064",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "いーあるふぁんくらぶ": {
+    "wiki_id": "d9e1273faf",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "26"
+    }
+  },
+  "雨とペトラ": {
+    "wiki_id": "6e46175897",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ノマド": {
+    "wiki_id": "938db9bc04",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "25"
+    }
+  },
+  "マトリョシカ": {
+    "wiki_id": "a2d96bd50a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ドーナツホール 2024*7": {
+    "wiki_id": "4038a83616",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "33"
+    }
+  },
+  "砂の惑星": {
+    "wiki_id": "751ff40a86",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ルカルカ★ナイトフィーバー": {
+    "wiki_id": "2d0119b522",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ピアノ×フォルテ×スキャンダル": {
+    "wiki_id": "dfe1610a76",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "千年の独奏歌": {
+    "wiki_id": "965e24122a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "88☆彡": {
+    "wiki_id": "620e703ca2",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "32"
+    }
+  },
+  "ONESELF": {
+    "wiki_id": "ONESELF",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "30",
+      "append": "33"
+    }
+  },
+  "PaⅢ.SENSATION": {
+    "wiki_id": "ac4659af28",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ダーリンダンス": {
+    "wiki_id": "c8233626ca",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "オーダーメイド": {
+    "wiki_id": "6c05c6b8e0",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "21",
+      "master": "26",
+      "append": "24"
+    }
+  },
+  "アイデンティティ": {
+    "wiki_id": "002d1ed7ec",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "青色絵具": {
+    "wiki_id": "b24b1b4ad5",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "コスモスパイス": {
+    "wiki_id": "68112834fa",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "徳川カップヌードル禁止令": {
+    "wiki_id": "790cf63224",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "サラマンダー": {
+    "wiki_id": "556f04fa0d",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "イフ": {
+    "wiki_id": "995bbc0921",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "27",
+      "append": "29"
+    }
+  },
+  "ブラック★ロックシューター": {
+    "wiki_id": "e3b0171ebf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "妄想感傷代償連盟": {
+    "wiki_id": "69e57bc872",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "26"
+    }
+  },
+  "リモコン": {
+    "wiki_id": "09f9d8a074",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "月光": {
+    "wiki_id": "0c0836e2f5",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "神のまにまに": {
+    "wiki_id": "5e25c5b193",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Awake Now": {
+    "wiki_id": "Awake Now",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "29"
+    }
+  },
+  "阿吽のビーツ": {
+    "wiki_id": "7ea5bd1092",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "23",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "バグ": {
+    "wiki_id": "61ed79dd19",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "32",
+      "append": "31"
+    }
+  },
+  "グッバイ宣言": {
+    "wiki_id": "f275a7c437",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "27"
+    }
+  },
+  "ヴァンパイア": {
+    "wiki_id": "47e35ab8d2",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "27"
+    }
+  },
+  "未完成讃歌": {
+    "wiki_id": "2ea5a6a177",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "星空のメロディー": {
+    "wiki_id": "bd07e2eccf",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "脳漿炸裂ガール": {
+    "wiki_id": "23b4976f06",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "28",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ぼくらの16bit戦争": {
+    "wiki_id": "d137c91ce7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "メリュー": {
+    "wiki_id": "bcd9336452",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "エイリアンエイリアン": {
+    "wiki_id": "16b3c47985",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "街": {
+    "wiki_id": "街",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "てらてら": {
+    "wiki_id": "a98eba9551",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "フロイライン＝ビブリォチカ": {
+    "wiki_id": "f9bcf7df7a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "踊れオーケストラ": {
+    "wiki_id": "0956a5733c",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "パラソルサイダー": {
+    "wiki_id": "83fc546151",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ロストエンファウンド": {
+    "wiki_id": "46bcc47086",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "YY": {
+    "wiki_id": "YY",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "それでもいいんだよ": {
+    "wiki_id": "7b958015f4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "君の夜をくれ": {
+    "wiki_id": "4a062fb774",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "21",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "フューチャー・イヴ": {
+    "wiki_id": "c5a16aaf16",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "Voices": {
+    "wiki_id": "Voices",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ジェヘナ": {
+    "wiki_id": "0d6502e77b",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "31"
+    }
+  },
+  "Calc.": {
+    "wiki_id": "Calc.",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "虚ろを扇ぐ": {
+    "wiki_id": "4dc4f3212e",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "30"
+    }
+  },
+  "Journey": {
+    "wiki_id": "Journey",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "32"
+    }
+  },
+  "天ノ弱": {
+    "wiki_id": "fe39916017",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "アンハッピーリフレイン": {
+    "wiki_id": "b1135e2398",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "フォニイ": {
+    "wiki_id": "35e8b6d010",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ダブルラリアット": {
+    "wiki_id": "5771e1c3b8",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "28"
+    }
+  },
+  "インビジブル": {
+    "wiki_id": "0df66850ea",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "28",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "エゴロック": {
+    "wiki_id": "740c4401ab",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Bad ∞ End ∞ Night": {
+    "wiki_id": "6df827e293",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "トリノコシティ": {
+    "wiki_id": "147fcf6f73",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "こちら、幸福安心委員会です。": {
+    "wiki_id": "2603fcb84e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "DAYBREAK FRONTLINE": {
+    "wiki_id": "861fcfc28c",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "ÅMARA(大未来電脳)": {
+    "wiki_id": "d7ee0e739d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "19",
+      "expert": "28",
+      "master": "34",
+      "append": "-"
+    }
+  },
+  "DREAM PLACE": {
+    "wiki_id": "eed7ed77ee",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "泥中に咲く": {
+    "wiki_id": "3e77d4471a",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "いちにのさんで": {
+    "wiki_id": "1367856d24",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "24"
+    }
+  },
+  "帝国少女": {
+    "wiki_id": "438fbbf77d",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Change me": {
+    "wiki_id": "Change me",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ラブカ？": {
+    "wiki_id": "6e09daa3a0",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "the WALL": {
+    "wiki_id": "the WALL",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Iなんです": {
+    "wiki_id": "7119c35dce",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "33"
+    }
+  },
+  "パラジクロロベンゼン": {
+    "wiki_id": "c5357f4b0b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "星屑ユートピア": {
+    "wiki_id": "8fd1035749",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "フレー": {
+    "wiki_id": "a25cad5eb5",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "あったかいと": {
+    "wiki_id": "4a2b457efb",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "フロート・プランナー": {
+    "wiki_id": "9f0acf672e",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ノンブレス・オブリージュ": {
+    "wiki_id": "05cdd84734",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ロンリーユニバース": {
+    "wiki_id": "0eed5262f4",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "陽だまりのセツナ": {
+    "wiki_id": "d8a789cd57",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "仮死化": {
+    "wiki_id": "895643776e",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "What's up? Pop!": {
+    "wiki_id": "1fe51710f2",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "22",
+      "expert": "31",
+      "master": "37",
+      "append": "-"
+    }
+  },
+  "腐れ外道とチョコレゐト": {
+    "wiki_id": "98de18e479",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "30",
+      "master": "35",
+      "append": "-"
+    }
+  },
+  "夜もすがら君想ふ": {
+    "wiki_id": "c29565f063",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ネトゲ廃人シュプレヒコール": {
+    "wiki_id": "b53ce4eb25",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "カンタレラ": {
+    "wiki_id": "ce3b5820fd",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "FREELY TOMORROW": {
+    "wiki_id": "4bdd55a91b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "気まぐれメルシィ": {
+    "wiki_id": "a2a1de07f5",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "それがあなたの幸せとしても": {
+    "wiki_id": "8b43041c51",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "リンちゃんなう！": {
+    "wiki_id": "0dd0ea18a7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "フェレス": {
+    "wiki_id": "789e3d0594",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "夜明けと蛍": {
+    "wiki_id": "e1c3465591",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "25"
+    }
+  },
+  "星空オーケストラ": {
+    "wiki_id": "582969a684",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Flyway": {
+    "wiki_id": "Flyway",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "30"
+    }
+  },
+  "p.h.": {
+    "wiki_id": "p.h.",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Goodbye": {
+    "wiki_id": "Goodbye",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "SnowMix♪": {
+    "wiki_id": "bf33b6b8e7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "星界ちゃんと可不ちゃんのおつかい合騒曲": {
+    "wiki_id": "e4fa62545d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "29",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "天使の翼。": {
+    "wiki_id": "7b95983db4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Copycat": {
+    "wiki_id": "Copycat",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "レイニースノードロップ": {
+    "wiki_id": "2b16030b83",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "アイロニ": {
+    "wiki_id": "da4da839ad",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "1925": {
+    "wiki_id": "1925",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "私は、私達は": {
+    "wiki_id": "f926d2ab90",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ひつじがいっぴき": {
+    "wiki_id": "5c3e31b52f",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Hello, Worker": {
+    "wiki_id": "93081d349f",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Where shall we go?": {
+    "wiki_id": "50ae57bfe5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "21",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "ココロ": {
+    "wiki_id": "efbf62a8cf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ストロボラスト": {
+    "wiki_id": "1d4fe251bb",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "パレットには君がいっぱい": {
+    "wiki_id": "95ecab3ae5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Q": {
+    "wiki_id": "Q",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ヤミナベ!!!!": {
+    "wiki_id": "6caecd05c9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "37",
+      "append": "-"
+    }
+  },
+  "Booo!": {
+    "wiki_id": "Booo!",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "39": {
+    "wiki_id": "39",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Mr. Showtime": {
+    "wiki_id": "7a1e47afcd",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "エゴイスト": {
+    "wiki_id": "a0c574bab8",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "エピローグに君はいない": {
+    "wiki_id": "c7464617a8",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "Highlight": {
+    "wiki_id": "Highlight",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "アトラクトライト": {
+    "wiki_id": "bf10b4ed8c",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ザムザ": {
+    "wiki_id": "0e67d0ff73",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "30"
+    }
+  },
+  "トラッシュ・アンド・トラッシュ！": {
+    "wiki_id": "413c45c6a7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Vampire's ∞ pathoS": {
+    "wiki_id": "a35e741a36",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Be The MUSIC!": {
+    "wiki_id": "ce969146fb",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "20",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "METEOR": {
+    "wiki_id": "METEOR",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "インタビュア": {
+    "wiki_id": "be7fd52de6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "私の恋はヘルファイア": {
+    "wiki_id": "d547e43814",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "スノーマン": {
+    "wiki_id": "7e3f4eecbf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "深海少女": {
+    "wiki_id": "108da71d15",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "魔法みたいなミュージック！": {
+    "wiki_id": "f264e8cc0b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "相生": {
+    "wiki_id": "ac802af1f3",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "名も無き革命": {
+    "wiki_id": "3abce82e13",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "おこちゃま戦争": {
+    "wiki_id": "d1a1686076",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "絶え間なく藍色": {
+    "wiki_id": "09ebd9dbfd",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "命ばっかり": {
+    "wiki_id": "cc82ab0453",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ももいろの鍵": {
+    "wiki_id": "2bf4978f08",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "キティ": {
+    "wiki_id": "59418ba57c",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "20",
+      "expert": "28",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "快晴": {
+    "wiki_id": "14271c5944",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "悪食娘コンチータ": {
+    "wiki_id": "0a8531b5ad",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "眠らせ姫からの贈り物": {
+    "wiki_id": "e8a321d3bc",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "円尾坂の仕立屋": {
+    "wiki_id": "e3422ab566",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "悪徳のジャッジメント": {
+    "wiki_id": "51a6e01dd6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Sharing The World": {
+    "wiki_id": "f180398da2",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "セツナトリップ": {
+    "wiki_id": "0f84bf3762",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "20",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "シャンティ": {
+    "wiki_id": "1422e8940b",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "エターナルアリア": {
+    "wiki_id": "42fd80414a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "19",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Blue Star": {
+    "wiki_id": "Blue Star",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "箱庭のコラル": {
+    "wiki_id": "0844c3fc4b",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "29"
+    }
+  },
+  "人生": {
+    "wiki_id": "716100c10c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "23",
+      "expert": "31",
+      "master": "37",
+      "append": "-"
+    }
+  },
+  "Wonder Style": {
+    "wiki_id": "b4e358ef79",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "下剋上": {
+    "wiki_id": "e098d0a23c",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "嗚呼、素晴らしきニャン生": {
+    "wiki_id": "5ca5acf549",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "スターダストメドレー": {
+    "wiki_id": "059b8bbbed",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "20",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "チームメイト": {
+    "wiki_id": "8c580f7afe",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "glow": {
+    "wiki_id": "glow",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "22",
+      "master": "26",
+      "append": "25"
+    }
+  },
+  "とても素敵な六月でした": {
+    "wiki_id": "e4b43e63a7",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "UNDERWATER": {
+    "wiki_id": "UNDERWATER",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "きゅうくらりん": {
+    "wiki_id": "eaeb5859f3",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Afterglow": {
+    "wiki_id": "Afterglow",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "太陽系デスコ": {
+    "wiki_id": "bd4099deb8",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "心拍ペアリング": {
+    "wiki_id": "049a9441ae",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "演劇": {
+    "wiki_id": "acd7cf0533",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "星を繋ぐ": {
+    "wiki_id": "be45eb67e3",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "27"
+    }
+  },
+  "脳内革命ガール": {
+    "wiki_id": "9fdb0850bc",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Decade": {
+    "wiki_id": "Decade",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "我らステインバスターズ！": {
+    "wiki_id": "d3d9c78fe8",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "新人類": {
+    "wiki_id": "06ee224e67",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ずんだパーリナイ": {
+    "wiki_id": "17507939a4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Disco No.39": {
+    "wiki_id": "010ade1a6b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "サマータイムレコード": {
+    "wiki_id": "56278a5045",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "リアライズ": {
+    "wiki_id": "1e9d87d983",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "キラピピ★キラピカ": {
+    "wiki_id": "aa93b2d5e4",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ボトルケーキ": {
+    "wiki_id": "8aa9768212",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "心做し": {
+    "wiki_id": "f8890341e6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "ブループラネット": {
+    "wiki_id": "ea85d1eab9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "HERO": {
+    "wiki_id": "HERO",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "CIRCUS PANIC!!!": {
+    "wiki_id": "f5e3af18aa",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "白い雪のプリンセスは": {
+    "wiki_id": "f23503d050",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Un-Lock": {
+    "wiki_id": "Un-Lock",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ラッキー☆オーブ": {
+    "wiki_id": "083c0c9431",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "NEO": {
+    "wiki_id": "NEO",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "32"
+    }
+  },
+  "アイムマイン": {
+    "wiki_id": "23d95f7776",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "26"
+    }
+  },
+  "天樂": {
+    "wiki_id": "5bd97e0cff",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "まにまに": {
+    "wiki_id": "65283281e9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "メランコリック": {
+    "wiki_id": "2adecf57dc",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "豚になってyeah yeah": {
+    "wiki_id": "ea3596716d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "恋は戦争": {
+    "wiki_id": "53a5c1a143",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "デビルじゃないもん": {
+    "wiki_id": "de618256cc",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "すきなことだけでいいです": {
+    "wiki_id": "9373865630",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "番凩": {
+    "wiki_id": "d4bd2cdc12",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "神っぽいな": {
+    "wiki_id": "16b5f9137f",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Dear": {
+    "wiki_id": "Dear",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "CR詠ZY": {
+    "wiki_id": "72e00a9bb8",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "19",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Cool Me Down": {
+    "wiki_id": "e07b48d075",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "悪役にキスシーンを": {
+    "wiki_id": "d7e828b813",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "我儘姫": {
+    "wiki_id": "8aad795eef",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "purpose": {
+    "wiki_id": "purpose",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "はぐ": {
+    "wiki_id": "39317b67d5",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "トワイライトライト": {
+    "wiki_id": "d61d750014",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "22",
+      "master": "26",
+      "append": "27"
+    }
+  },
+  "春嵐": {
+    "wiki_id": "02be3396f4",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "14",
+      "hard": "20",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ARQETYPE": {
+    "wiki_id": "ARQETYPE",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "On&On": {
+    "wiki_id": "9e54d46e55",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "キュートなカノジョ": {
+    "wiki_id": "3b593c760c",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "フィラメントフィーバー": {
+    "wiki_id": "ff9d7752b3",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "さよならプリンセス": {
+    "wiki_id": "5680c2632c",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Beyond the way": {
+    "wiki_id": "9f94b2148c",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "ショウタイム×オーディエンス": {
+    "wiki_id": "d635f3aea4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "難聴系男子が倒せない": {
+    "wiki_id": "2e3b12b031",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "オーバーコード": {
+    "wiki_id": "1bd42ed5cb",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "スロウダウナー": {
+    "wiki_id": "586c719f64",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "初めての恋が終わる時": {
+    "wiki_id": "f7bd5a3278",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "25時の情熱": {
+    "wiki_id": "db36fbf93d",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "22",
+      "master": "25",
+      "append": "-"
+    }
+  },
+  "金木犀": {
+    "wiki_id": "ef3219c54e",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "一千光年": {
+    "wiki_id": "017b276ba6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "強風オールバック": {
+    "wiki_id": "d7794a0c2d",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ヒアソビ": {
+    "wiki_id": "6fcc5a9b56",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "エンヴィーベイビー": {
+    "wiki_id": "89957a1072",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "『んっあっあっ。』": {
+    "wiki_id": "eb8cbfe481",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "くうになる": {
+    "wiki_id": "26de9da6ab",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ハイドアンド・シーク": {
+    "wiki_id": "de3e795b51",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "folern": {
+    "wiki_id": "folern",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "21",
+      "expert": "30",
+      "master": "32",
+      "append": "35"
+    }
+  },
+  "MOTTO!!!": {
+    "wiki_id": "0ab3d14d40",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "29"
+    }
+  },
+  "Sage": {
+    "wiki_id": "Sage",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "21",
+      "expert": "29",
+      "master": "32",
+      "append": "36"
+    }
+  },
+  "心泥夢(syndrome)": {
+    "wiki_id": "5d98a811dd",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "サイバーパンクデッドボーイ": {
+    "wiki_id": "a0497f6f12",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "MarbleBlue.": {
+    "wiki_id": "MarbleBlue.",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "30",
+      "master": "33",
+      "append": "37"
+    }
+  },
+  "マーシャル・マキシマイザー": {
+    "wiki_id": "0f4af5bc89",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "え？あぁ、そう。": {
+    "wiki_id": "97648fd453",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "リレイアウター": {
+    "wiki_id": "69b707d0b0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "おどロボ": {
+    "wiki_id": "3c37f54269",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "世界を照らすテトラッド": {
+    "wiki_id": "3d14e4d063",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "20",
+      "expert": "27",
+      "master": "31",
+      "append": "30"
+    }
+  },
+  "ハッピーチートデー": {
+    "wiki_id": "f7caf3aab5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "十六歳の心臓": {
+    "wiki_id": "5359a17c73",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "20",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "limbo": {
+    "wiki_id": "limbo",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "レグルス": {
+    "wiki_id": "124bb5cbbb",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "30"
+    }
+  },
+  "古書屋敷殺人事件": {
+    "wiki_id": "222bf76912",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "JUMPIN’ OVER !": {
+    "wiki_id": "abc0eba204",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ラグトレイン": {
+    "wiki_id": "e0ca9572f6",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "25"
+    }
+  },
+  "インテグラル": {
+    "wiki_id": "39c88dbf84",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "ド屑": {
+    "wiki_id": "95d02d73f0",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "明鏡止水": {
+    "wiki_id": "c503de4c80",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ハジメテノオト": {
+    "wiki_id": "a0de1c8229",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "flos": {
+    "wiki_id": "flos",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "アコトバ": {
+    "wiki_id": "8a33aa9d6f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "19",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "幽光、1/fのゆらめき": {
+    "wiki_id": "bc9f874db0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "嬢王": {
+    "wiki_id": "42fc65ee68",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "24",
+      "expert": "31",
+      "master": "33",
+      "append": "36"
+    }
+  },
+  "1000年生きてる": {
+    "wiki_id": "68b8260d62",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "18",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "幾望の月": {
+    "wiki_id": "b41e3664eb",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "blender": {
+    "wiki_id": "blender",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "えれくとりっく・えんじぇぅ": {
+    "wiki_id": "f2fef56536",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "レッドランドマーカー": {
+    "wiki_id": "09b341d009",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "あいのうた": {
+    "wiki_id": "7059137dee",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ガーネットの涙": {
+    "wiki_id": "d85c8c1b89",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "だんだん早くなる": {
+    "wiki_id": "6b11a0723e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "私は雨": {
+    "wiki_id": "d6d9d6d1c3",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "酔いどれ知らず": {
+    "wiki_id": "a23842bcf0",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "おぎゃりないざー": {
+    "wiki_id": "779ff2fbb1",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    }
+  },
+  "シルバーコレクター": {
+    "wiki_id": "3f7ea1406d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "すれすれ": {
+    "wiki_id": "25f4d48918",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "烈火": {
+    "wiki_id": "92974e2f87",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "超最終鬼畜妹フランドール・Ｓ": {
+    "wiki_id": "0ef9ab95e2",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "28",
+      "master": "32",
+      "append": "35"
+    }
+  },
+  "Bad Apple!! feat.SEKAI": {
+    "wiki_id": "6d70551a28",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "11",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "31"
+    }
+  },
+  "Help me, ERINNNNNN!!": {
+    "wiki_id": "7768e4556a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "32"
+    }
+  },
+  "おちゃめ機能": {
+    "wiki_id": "5f06f205cb",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ときめきジェットコースター": {
+    "wiki_id": "9e5c9e4d14",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "東京テディベア": {
+    "wiki_id": "040f21de24",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "28",
+      "master": "31",
+      "append": "34"
+    }
+  },
+  "熱異常": {
+    "wiki_id": "05d3129de1",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "I know 愛脳.": {
+    "wiki_id": "c8395ece4c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "20",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "だめにんげんだ!": {
+    "wiki_id": "3c2f324ae7",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "オペラ！スペースオペラ！": {
+    "wiki_id": "866cbf4927",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "抜錨": {
+    "wiki_id": "feb2ce42ac",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "きょうもハレバレ": {
+    "wiki_id": "92c84c7320",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Supernova": {
+    "wiki_id": "Supernova",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "27"
+    }
+  },
+  "エンパープル": {
+    "wiki_id": "eaaab4f488",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "30"
+    }
+  },
+  "合成するミライ": {
+    "wiki_id": "deaeb096d7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "LEADER": {
+    "wiki_id": "LEADER",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ポッピンキャンディ☆フィーバー！": {
+    "wiki_id": "b46821ca50",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ULTRA C": {
+    "wiki_id": "ULTRA C",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ダイジョブですか？": {
+    "wiki_id": "b75f7732ee",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    }
+  },
+  "成敗いたAAAAAす！": {
+    "wiki_id": "f3506a2054",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "林檎売りの泡沫少女": {
+    "wiki_id": "d033d69fa2",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "メリーゴーラウンド": {
+    "wiki_id": "28a410dd6c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "マインドブランド": {
+    "wiki_id": "f3291d8e62",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "イガク": {
+    "wiki_id": "7c4acb1c59",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "20",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "あちこちデートさん": {
+    "wiki_id": "5fbb502b49",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "キラー": {
+    "wiki_id": "4d37b258e3",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "33"
+    }
+  },
+  "WAVE": {
+    "wiki_id": "WAVE",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "彗星ノ銀河": {
+    "wiki_id": "4347900940",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "21",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "夏夜ノ唄": {
+    "wiki_id": "65ea019400",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "QUEEN": {
+    "wiki_id": "QUEEN",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "アンテナ39": {
+    "wiki_id": "5e15a52c97",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ちがう!!!": {
+    "wiki_id": "59af5bd71f",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "スーパーヒーロー": {
+    "wiki_id": "4d1e665bb9",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "20",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "カルチャ": {
+    "wiki_id": "a5ca12ae59",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "レイヤーノート": {
+    "wiki_id": "f9c493d25a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "21",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "それでも僕らは歌うことをやめない": {
+    "wiki_id": "d8e500e15a",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Unpoison": {
+    "wiki_id": "Unpoison",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "熱風": {
+    "wiki_id": "6a5f42fe69",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "29",
+      "append": "31"
+    }
+  },
+  "モザイクロール (Reloaded)": {
+    "wiki_id": "213fa721fc",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "メズマライザー": {
+    "wiki_id": "5dffee8533",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "20",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "如月アテンション": {
+    "wiki_id": "e5b06aa6a0",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "メインキャラクター": {
+    "wiki_id": "609a19fb66",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "コールボーイ": {
+    "wiki_id": "9aef4324bd",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "きみとぼくのレゾナンス": {
+    "wiki_id": "8e84173cd5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "転生林檎": {
+    "wiki_id": "fd70dd2755",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "20",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Blackjack": {
+    "wiki_id": "Blackjack",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Shadow Shadow": {
+    "wiki_id": "1631ce1ea5",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "生命性シンドロウム": {
+    "wiki_id": "026ea757a2",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "29",
+      "master": "33",
+      "append": "36"
+    }
+  },
+  "化けの花": {
+    "wiki_id": "757db438bb",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "キャットフード": {
+    "wiki_id": "6656be1e7f",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "メモリア": {
+    "wiki_id": "3da7c13cd3",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    }
+  },
+  "脳天": {
+    "wiki_id": "04578e6cf5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "フューエル": {
+    "wiki_id": "a01ed89dfc",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "その音が鳴るなら": {
+    "wiki_id": "0abdd30d29",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "妄想アスパルテーム": {
+    "wiki_id": "66fe64de59",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "キャットラビング": {
+    "wiki_id": "e47778f004",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ぼくのかみさま": {
+    "wiki_id": "015cbe3c5a",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "27"
+    }
+  },
+  "パリィ": {
+    "wiki_id": "1c6335da7d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "みかぼし": {
+    "wiki_id": "80309af939",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "余花にみとれて": {
+    "wiki_id": "7438645dd2",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "21",
+      "master": "25",
+      "append": "-"
+    }
+  },
+  "シークレット・シーカー": {
+    "wiki_id": "3eb87d1062",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "はしる! とおく! とどく!": {
+    "wiki_id": "38e603f8ac",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "花溺れ": {
+    "wiki_id": "7a6ca28d74",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "はじまりの未来": {
+    "wiki_id": "19f8c83d87",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "混沌ブギ": {
+    "wiki_id": "e57a3cb60b",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
+      "append": "33"
+    }
+  },
+  "アンヘル": {
+    "wiki_id": "3ac99d3d7b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "33"
+    }
+  },
+  "プロトディスコ": {
+    "wiki_id": "ec87f85ce2",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "32",
+      "append": "34"
+    }
+  },
+  "CH4NGE": {
+    "wiki_id": "CH4NGE",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "snooze": {
+    "wiki_id": "snooze",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "32",
+      "append": "33"
+    }
+  },
+  "ワールド・ランプシェード [reunion]": {
+    "wiki_id": "aee3653f1c",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "のだ": {
+    "wiki_id": "264c75b065",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "33"
+    }
+  },
+  "サイハテ": {
+    "wiki_id": "417f33d5af",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Henceforth": {
+    "wiki_id": "Henceforth",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "厨病激発ボーイ": {
+    "wiki_id": "f92019ae4b",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ヘイヴン": {
+    "wiki_id": "18848130aa",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "夏に透明": {
+    "wiki_id": "5b5092ad0e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "パンダヒーロー": {
+    "wiki_id": "ab51d56d55",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "結ンデ開イテ羅刹ト骸": {
+    "wiki_id": "450241c642",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ファイアダンス": {
+    "wiki_id": "83229ff28c",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "そこに在る、光。": {
+    "wiki_id": "567a4f12b4",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "Worlders": {
+    "wiki_id": "Worlders",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "FUN!!": {
+    "wiki_id": "FUN!!",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "終焉逃避行": {
+    "wiki_id": "3c4a3123da",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "スマイル*シンフォニー": {
+    "wiki_id": "e4f9f34ba6",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "SToRY": {
+    "wiki_id": "SToRY",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "クリスタルスノウ": {
+    "wiki_id": "da7e29cb41",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "ハローセカイ": {
+    "wiki_id": "6bc7b77393",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "アンチユー": {
+    "wiki_id": "9e51e9b732",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ルルブ": {
+    "wiki_id": "dcf775abd4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "フュージョン": {
+    "wiki_id": "44c7f90961",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "30",
+      "append": "34"
+    }
+  },
+  "ルーマー": {
+    "wiki_id": "a508712a44",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Fire◎Flower (Rerec)": {
+    "wiki_id": "36bb0c54c0",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "三日月ステップ": {
+    "wiki_id": "f201dc2887",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "オーバーライド": {
+    "wiki_id": "e6cdecef16",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Packaged": {
+    "wiki_id": "Packaged",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "ライアーダンサー": {
+    "wiki_id": "8f0e518206",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "プラネットヒーロー": {
+    "wiki_id": "d5b0afe3e9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "透明エレジー": {
+    "wiki_id": "440995b73c",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "D/N/A": {
+    "wiki_id": "D/N/A",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ドレミファロンド": {
+    "wiki_id": "2e40c08804",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "Sympathy": {
+    "wiki_id": "Sympathy",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    }
+  },
+  "Call!!": {
+    "wiki_id": "Call!!",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "吉原ラメント 再来盤": {
+    "wiki_id": "595ec40084",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "マンハッタン": {
+    "wiki_id": "e0d578769d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "クイーンオブハート": {
+    "wiki_id": "1306aeb23d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "バレリーコ": {
+    "wiki_id": "ef25b82544",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "花に風": {
+    "wiki_id": "26dccfec5b",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "スーサイドパレヱド": {
+    "wiki_id": "37cd748160",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "32"
+    }
+  },
+  "星宙メランコリア": {
+    "wiki_id": "c212dda834",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "回る空うさぎ": {
+    "wiki_id": "6dd95a5517",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "21",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "オールセーブチャレンジ": {
+    "wiki_id": "3172a54fd6",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "チルノのパーフェクトさんすう学園": {
+    "wiki_id": "eff03b4c05",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "33"
+    }
+  },
+  "とうほう☆ワンダーランド": {
+    "wiki_id": "e3bbf22592",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "32"
+    }
+  },
+  "超ナイト・オブ・ナイツ": {
+    "wiki_id": "f5c0e9693a",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "20",
+      "expert": "27",
+      "master": "33",
+      "append": "36"
+    }
+  },
+  "虚無さん": {
+    "wiki_id": "d4089b2340",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "紗痲": {
+    "wiki_id": "4c2f620d7e",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "失敗作少女": {
+    "wiki_id": "0762f1a596",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "フィッシュアンドTips": {
+    "wiki_id": "c4fb00296a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Connecting": {
+    "wiki_id": "Connecting",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "エンヴィキャットウォーク": {
+    "wiki_id": "fb098580fa",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "イレヴンス": {
+    "wiki_id": "f42c3f3cee",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "光線歌": {
+    "wiki_id": "50883d0b48",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "テトリス": {
+    "wiki_id": "c41eb18173",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "29"
+    }
+  },
+  "このふざけた素晴らしき世界は、僕の為にある": {
+    "wiki_id": "c4dfe318dd",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "モニタリング": {
+    "wiki_id": "3121f90bb8",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "庭師のおはなしによると": {
+    "wiki_id": "7510249460",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Twilight Melody": {
+    "wiki_id": "00408eccac",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "M@GICAL☆CURE! LOVE ♥ SHOT!": {
+    "wiki_id": "e661bfe2b1",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "20",
+      "expert": "28",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Hello Builder": {
+    "wiki_id": "ad5cae237b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "imaginary love story": {
+    "wiki_id": "a761042d28",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "Intergalactic Bound": {
+    "wiki_id": "d02eaf5857",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "笑えたらえーやん！": {
+    "wiki_id": "b05a84e84f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "アイリッド": {
+    "wiki_id": "f8df21cd0f",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "透明なパレット": {
+    "wiki_id": "624ff3940d",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "エクスプロウル": {
+    "wiki_id": "2de950b367",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ありのままのストーリーを": {
+    "wiki_id": "bce4c09ab7",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "28"
+    }
+  },
+  "生きる": {
+    "wiki_id": "485de9ed97",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "32"
+    }
+  },
+  "花弁、それにまつわる音声": {
+    "wiki_id": "bcea09e1d5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "マリオネットダンサー": {
+    "wiki_id": "23416f2aae",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Life Will Change": {
+    "wiki_id": "1b098ad671",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "アクセラレイト": {
+    "wiki_id": "110d184e17",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "32"
+    }
+  },
+  "Surges": {
+    "wiki_id": "Surges",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "リリィララ": {
+    "wiki_id": "e7154cd7c9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "SAN値直葬": {
+    "wiki_id": "4fd9083e2a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "21",
+      "expert": "28",
+      "master": "33",
+      "append": "36"
+    }
+  },
+  "飾って": {
+    "wiki_id": "19d66a30e8",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ラストラス": {
+    "wiki_id": "76bab7b45d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "サヨナラ天国また来て地獄": {
+    "wiki_id": "a8603fe373",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "8.32": {
+    "wiki_id": "8.32",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "あの夏が飽和する。": {
+    "wiki_id": "7af54932f7",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "深海シティアンダーグラウンド": {
+    "wiki_id": "0b57002136",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ブラッドドール": {
+    "wiki_id": "89196f3583",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "偽物人間40号": {
+    "wiki_id": "26a3cfb901",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ペンタトニック": {
+    "wiki_id": "56c90bff4b",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "31"
+    }
+  },
+  "おどりゃんせ": {
+    "wiki_id": "70edd688b6",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "少女A": {
+    "wiki_id": "b62d41c2f9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "東京サマーセッション": {
+    "wiki_id": "272d3ead1a",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ヴィーナス": {
+    "wiki_id": "ce8ca937e7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ハウトゥー世界征服": {
+    "wiki_id": "18d706d7dd",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "げんてん": {
+    "wiki_id": "ba14e37525",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "人マニア": {
+    "wiki_id": "e0dd01df8e",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "㋰責任集合体": {
+    "wiki_id": "4fa0891045",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ロストアンブレラ": {
+    "wiki_id": "da9901f58d",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ホワイトハッピー": {
+    "wiki_id": "39c84577e0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ネクラチューンサーカス": {
+    "wiki_id": "2b6cf97b04",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "24",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    }
+  },
+  "カレシのジュード": {
+    "wiki_id": "f599576bbc",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "パメラ": {
+    "wiki_id": "9bfcbf72b5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "スター": {
+    "wiki_id": "c1b95f5ffb",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "あなたの空が泣くのなら": {
+    "wiki_id": "593e2a8b8e",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "21",
+      "master": "25",
+      "append": "-"
+    }
+  },
+  "アベリア": {
+    "wiki_id": "b1d0256fed",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ルマ": {
+    "wiki_id": "ed160cc58c",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ロケットサイダー": {
+    "wiki_id": "39bf0278af",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "その絵の名前は": {
+    "wiki_id": "a4a170b62b",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "15",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    }
+  },
+  "金時計": {
+    "wiki_id": "765ac2348d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "19",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "征け": {
+    "wiki_id": "300450496e",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "ファイター": {
+    "wiki_id": "6824c2dc3c",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "IMAWANOKIWA": {
+    "wiki_id": "IMAWANOKIWA",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "20",
+      "expert": "28",
+      "master": "32",
+      "append": "35"
+    }
+  },
+  "怪獣になりたい": {
+    "wiki_id": "403f6f67f5",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "10",
+      "normal": "16",
+      "hard": "25",
+      "expert": "32",
+      "master": "35",
+      "append": "38"
+    }
+  },
+  "0.0000034": {
+    "wiki_id": "0.0000034",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "24",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    }
+  },
+  "花結び": {
+    "wiki_id": "75dafe5362",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "電光刹歌": {
+    "wiki_id": "495cced1bd",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "28",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ウィーアーピコピコハンマーズ!!!!": {
+    "wiki_id": "4d422ae7e4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "32",
+      "append": "-"
+    }
+  },
+  "ジェットブラック": {
+    "wiki_id": "04f24f4890",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "トレジャーガーデン": {
+    "wiki_id": "df632071af",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "最愛人生ランナー": {
+    "wiki_id": "d41ceddb2a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "い～やい～やい～や": {
+    "wiki_id": "52a4630a1c",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ドリーム・キス": {
+    "wiki_id": "f2dc4b851c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Polar Star": {
+    "wiki_id": "Polar Star",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "16",
+      "expert": "24",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "ぼかろころしあむ": {
+    "wiki_id": "ebaed7d9ed",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "ヤンキーボーイ・ヤンキーガール": {
+    "wiki_id": "2b5340ea10",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "魔法少女とチョコレゐト": {
+    "wiki_id": "a43ea99356",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "上弦の月": {
+    "wiki_id": "39df3a2c8d",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "惑星ループ": {
+    "wiki_id": "c45324eac7",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "28"
+    }
+  },
+  "黒塗り世界宛て書簡": {
+    "wiki_id": "8e63d0634f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    }
+  },
+  "君が飛び降りるのならば": {
+    "wiki_id": "a76e108ebe",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "17",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "鎖の少女-Re Alive-": {
+    "wiki_id": "bb233fc0ce",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "Internet Junk Junkie": {
+    "wiki_id": "9cb92909bf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    }
+  },
+  "どんな結末がお望みだい？": {
+    "wiki_id": "de408f6e84",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "Chu! Future☆Express!": {
+    "wiki_id": "b2f5bb1f6a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "New Worlds": {
+    "wiki_id": "New Worlds",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  }
+}
