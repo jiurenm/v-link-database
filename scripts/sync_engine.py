@@ -4,6 +4,8 @@ import json
 import time
 import os
 
+from wbi import getWbiKeys, encWbi
+
 # --- 核心映射配置 ---
 CHARACTER_DB = {
     "宵崎奏": "25時", "東雲絵名": "25時", "暁山瑞希": "25時", "朝比奈まふゆ": "25時",
@@ -28,6 +30,9 @@ def extract_brackets(raw_title):
 class VLinkSyncEngine:
     def __init__(self, mid="13148307", season_id="1547037"):
         self.api_url = "https://api.bilibili.com/x/polymer/web-space/seasons_archives_list"
+
+        self.img_key, self.sub_key = getWbiKeys()
+
         self.params = {
             'mid': mid,
             'season_id': season_id,
@@ -136,7 +141,12 @@ class VLinkSyncEngine:
             print(f"📡 正在拉取第 {current_page} 页数据...")
             
             try:
-                resp = requests.get(self.api_url, params=self.params, headers=self.headers).json()
+                signed = encWbi(
+                    params=self.params,
+                    img_key=self.img_key,
+                    sub_key=self.sub_key
+                )
+                resp = requests.get(self.api_url, params=signed, headers=self.headers).json()
                 if resp['code'] != 0: 
                     print("⚠️ API 请求失败")
                     break
