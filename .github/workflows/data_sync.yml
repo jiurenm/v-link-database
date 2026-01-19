@@ -30,11 +30,12 @@ jobs:
         run: |
           git config user.name "V-Link Bot"
           git config user.email "bot@vlink.com"
-
-          if [[ `git status --porcelain` ]]; then
+          
+          # 只检查目标文件是否有变动
+          if git diff --quiet public/data/database.json; then
+            echo "No changes detected in database.json"
+          else
             git add public/data/database.json
             git commit -m "chore: auto-update song database $(date +'%Y-%m-%d')"
             git push
-          else
-            echo "No changes to commit"
           fi
