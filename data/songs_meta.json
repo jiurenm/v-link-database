@@ -152,7 +152,7 @@
       "hard": "18",
       "expert": "25",
       "master": "30",
-      "append": "-"
+      "append": "30"
     }
   },
   "ドクター＝ファンクビート": {
@@ -7472,6 +7472,30 @@
       "hard": "20",
       "expert": "28",
       "master": "33",
+      "append": "-"
+    }
+  },
+  "幸福刑": {
+    "wiki_id": "bb874f3eab",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "透過する温度": {
+    "wiki_id": "687d243020",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
       "append": "-"
     }
   },
