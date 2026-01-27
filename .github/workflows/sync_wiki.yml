@@ -1,0 +1,41 @@
+name: V-Link Wiki Sync
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 22 */3 * *' # 每3天的北京时间凌晨6点运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  sync_wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Sync Wiki
+        run: python scripts/sync_wiki.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "V-Link Bot"
+          git config user.email "bot@vlink.com"
+          
+          # 只检查目标文件是否有变动
+          if git diff --quiet data/songs_meta.json; then
+            echo "No changes detected in songs_meta.json"
+          else
+            git add data/songs_meta.json
+            git commit -m "chore: auto-update wiki metadata $(date +'%Y-%m-%d')"
+            git push
+          fi

@@ -38,7 +38,7 @@ def getWbiKeys() -> tuple[str, str]:
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
         'Referer': 'https://www.bilibili.com/'
     }
-    resp = requests.get('https://api.bilibili.com/x/web-interface/nav', headers=headers)
+    resp = requests.get('https://api.bilibili.com/x/web-interface/nav', headers=headers, timeout=10)
     resp.raise_for_status()
     json_content = resp.json()
     img_url: str = json_content['data']['wbi_img']['img_url']

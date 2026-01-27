@@ -174,7 +174,8 @@ class VLinkSyncEngine:
                             "total_views": 0,
                             "cover_url": None,
                             "pjsk_meta": None,
-                            "versions": []
+                            "versions": [],
+                            "updated_at": arc.get('ctime', 0)
                         }
                         
                         if self.songs_map[std_title]["is_pjsk"]:
@@ -192,6 +193,7 @@ class VLinkSyncEngine:
                     vocalists, _, vocal_type = self.parse_vocalists(raw_title)
                     
                     self.songs_map[std_title]["total_views"] += arc['stat']['view']
+                    ctime = arc.get('ctime', 0)
                     self.songs_map[std_title]["versions"].append({
                         "type": v_type_label,
                         "label": f"{v_type_label} MV",
@@ -199,8 +201,16 @@ class VLinkSyncEngine:
                         "duration": arc['duration'],
                         "vocalists": vocalists,
                         "vocal_type": vocal_type,
-                        "views": arc['stat']['view']
+                        "views": arc['stat']['view'],
+                        "ctime": ctime
                     })
+                    
+                    # 更新 updated_at 为所有版本中最新的 ctime
+                    max_ctime = max(
+                        [v.get('ctime', 0) for v in self.songs_map[std_title]["versions"]],
+                        default=0
+                    )
+                    self.songs_map[std_title]["updated_at"] = max_ctime
 
                     if v_type_label == '2D':
                         self.songs_map[std_title]["cover_url"] = arc['pic']
