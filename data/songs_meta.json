@@ -7499,6 +7499,18 @@
       "append": "-"
     }
   },
+  "好き！雪！本気マジック": {
+    "wiki_id": "5c7822b047",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
