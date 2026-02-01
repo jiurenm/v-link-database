@@ -7511,6 +7511,18 @@
       "append": "-"
     }
   },
+  "Snow Fairy Story": {
+    "wiki_id": "dfc58ed0ae",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
