@@ -48,6 +48,24 @@ class VLinkSyncEngine:
         # --- 新增：载入本地抓取的 Meta 数据 ---
         self.meta_db = self.load_meta_db()
         self.manual_mapping = self.load_manual_mapping()
+        self.bvid_type_override = self.load_bvid_type_override()
+        self.title_blacklist = self.load_title_blacklist()
+
+    def load_title_blacklist(self):
+        """载入标题过滤关键词：标题包含任一关键词的稿件不写入 database"""
+        path = './data/title_blacklist.json'
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return []
+
+    def load_bvid_type_override(self):
+        """载入 bvid -> 2D/3D 覆盖（作者标题标错时用）"""
+        path = './data/bvid_type_override.json'
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return {}
 
     def load_manual_mapping(self):
         path = './data/mapping.json'
@@ -156,6 +174,8 @@ class VLinkSyncEngine:
                 
                 for arc in data['archives']:
                     raw_title = arc['title']
+                    if any(kw in raw_title for kw in self.title_blacklist):
+                        continue
                     title, artist = self.clean_title_and_artist(raw_title)
                     
                     # --- 匹配 Meta 数据 ---
@@ -163,7 +183,7 @@ class VLinkSyncEngine:
                     
                     if title not in self.songs_map:
                         vocalists, main_group, vocal_type = self.parse_vocalists(raw_title)
-                        v_type_label = '3D' if '3DMV' in raw_title.upper() else '2D'
+                        v_type_label = self.bvid_type_override.get(arc['bvid']) or ('3D' if '3DMV' in raw_title.upper() else '2D')
                         
                         self.songs_map[std_title] = {
                             "id": f"pjsk_{arc['aid']}",
@@ -188,15 +208,22 @@ class VLinkSyncEngine:
                                 "difficulty": meta_info.get("difficulty") if meta_info else None
                             }
 
-                    # 更新播放量和版本
-                    v_type_label = '3D' if '3DMV' in raw_title.upper() else '2D'
+                    # 更新播放量和版本（bvid 覆盖优先，用于作者标题标错的情况）
+                    v_type_label = self.bvid_type_override.get(arc['bvid']) or ('3D' if '3DMV' in raw_title.upper() else '2D')
                     vocalists, _, vocal_type = self.parse_vocalists(raw_title)
                     
                     self.songs_map[std_title]["total_views"] += arc['stat']['view']
                     ctime = arc.get('ctime', 0)
+                    version_label = f"{v_type_label} MV" + (" 重制版" if "重制版" in raw_title else "")
+                    if ("虚拟歌手" in raw_title and "ver" in raw_title.lower()) or arc["bvid"] in ["BV15qR2YiESp", "BV1em411Q7nR", "BV15T4y1276S"]:
+                        version_label += " 虚拟歌姬ver"
+                    if "联动" in raw_title:
+                        version_label += " 联动"
+                    if "愚人节" in raw_title:
+                        version_label += " 愚人节"
                     self.songs_map[std_title]["versions"].append({
                         "type": v_type_label,
-                        "label": f"{v_type_label} MV",
+                        "label": version_label,
                         "bvid": arc['bvid'],
                         "duration": arc['duration'],
                         "vocalists": vocalists,
@@ -225,6 +252,8 @@ class VLinkSyncEngine:
 
         # 写入文件
         if len(self.songs_map) > 0:
+            for song in self.songs_map.values():
+                song["versions"].sort(key=lambda v: (0 if v.get("type") == "2D" else 1, -(v.get("ctime") or 0)))
             os.makedirs('./public/data', exist_ok=True)
             with open('./public/data/database.json', 'w', encoding='utf-8') as f:
                 json.dump(list(self.songs_map.values()), f, ensure_ascii=False, indent=2)
@@ -232,3 +261,6 @@ class VLinkSyncEngine:
 
 if __name__ == "__main__":
     VLinkSyncEngine().run()
+
+# 【ワンダーランズ×ショウタイム × KAITO】トンデモワンダーズ（不可思议的Wonders）【3DMV／『世界计划多彩舞台』主题原创曲 SEKAI ver.】
+# 【PJS字幕组 特效字幕】【Vivid BAD SQUAD×初音ミク】RAD DOGS【八王子P】
