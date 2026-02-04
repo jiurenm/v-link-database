@@ -7523,6 +7523,42 @@
       "append": "-"
     }
   },
+  "雪がとける前に": {
+    "wiki_id": "8d577ac9e6",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "スターナイトスノウ": {
+    "wiki_id": "7fdd5db79a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "四角い地球を丸くする": {
+    "wiki_id": "169fb5ed12",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
