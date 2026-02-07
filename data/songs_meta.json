@@ -7559,6 +7559,42 @@
       "append": "-"
     }
   },
+  "アイ": {
+    "wiki_id": "9531ff8444",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
+  "ぽかぽかの星": {
+    "wiki_id": "d02778abfa",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "Fondant Step": {
+    "wiki_id": "bc8fc89c72",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "26",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
