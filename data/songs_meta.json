@@ -464,7 +464,7 @@
       "hard": "17",
       "expert": "24",
       "master": "29",
-      "append": "-"
+      "append": "31"
     }
   },
   "ジャンキーナイトタウンオーケストラ": {
@@ -7592,6 +7592,18 @@
       "hard": "16",
       "expert": "23",
       "master": "26",
+      "append": "-"
+    }
+  },
+  "SHIAWASE FOR YOU!": {
+    "wiki_id": "9cd2fe5ab4",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "30",
       "append": "-"
     }
   },
