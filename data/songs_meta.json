@@ -7607,6 +7607,18 @@
       "append": "-"
     }
   },
+  "アリア": {
+    "wiki_id": "70df6dcd97",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "17",
+      "expert": "23",
+      "master": "29",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
