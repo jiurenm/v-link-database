@@ -7619,6 +7619,42 @@
       "append": "-"
     }
   },
+  "幕を下ろそう、パレードへ": {
+    "wiki_id": "8dd83ca654",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    }
+  },
+  "Ribbon": {
+    "wiki_id": "Ribbon",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    }
+  },
+  "ハオ": {
+    "wiki_id": "d4893e78c3",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
