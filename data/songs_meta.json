@@ -7655,6 +7655,30 @@
       "append": "-"
     }
   },
+  "このまんまでいこう": {
+    "wiki_id": "6c77c5b553",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    }
+  },
+  "とびだせ！わんだぴょい": {
+    "wiki_id": "9f081695f2",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
