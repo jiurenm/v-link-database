@@ -184,12 +184,13 @@ class VLinkSyncEngine:
                     if title not in self.songs_map:
                         vocalists, main_group, vocal_type = self.parse_vocalists(raw_title)
                         v_type_label = self.bvid_type_override.get(arc['bvid']) or ('3D' if '3DMV' in raw_title.upper() else '2D')
-                        
+                        # 优先使用 Wiki 抓取的 P主（作曲），无则用标题括号里的 artist
+                        final_artist = (meta_info.get("composer") if meta_info else None) or artist
                         self.songs_map[std_title] = {
                             "id": f"pjsk_{arc['aid']}",
                             "wiki_id": meta_info.get("wiki_id") if meta_info else None, # 注入 Wiki ID
                             "title": std_title,
-                            "artist": artist,
+                            "artist": final_artist,
                             "is_pjsk": True,
                             "total_views": 0,
                             "cover_url": None,
@@ -197,15 +198,13 @@ class VLinkSyncEngine:
                             "versions": [],
                             "updated_at": arc.get('ctime', 0)
                         }
-                        
                         if self.songs_map[std_title]["is_pjsk"]:
-                            # 优先使用 Wiki 爬到的 Group 信息
                             final_group = meta_info.get("group") if meta_info else main_group
-                            
                             self.songs_map[std_title]["pjsk_meta"] = {
                                 "main_group": final_group,
                                 "vocalist_type": "Full" if len(set(vocalists)) > 1 else "Unit",
-                                "difficulty": meta_info.get("difficulty") if meta_info else None
+                                "difficulty": meta_info.get("difficulty") if meta_info else None,
+                                "vocalists": meta_info.get("sekai_singer") if meta_info else None
                             }
 
                     # 更新播放量和版本（bvid 覆盖优先，用于作者标题标错的情况）

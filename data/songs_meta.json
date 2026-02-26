@@ -9,7 +9,11 @@
       "expert": "22",
       "master": "26",
       "append": "25"
-    }
+    },
+    "lyricist": "kz",
+    "composer": "kz",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ネクストネスト": {
     "wiki_id": "7d35a92f0b",
@@ -21,7 +25,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "さつき が てんこもり",
+    "composer": "さつき が てんこもり",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "メルト": {
     "wiki_id": "faaf43e975",
@@ -33,7 +41,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "初音ミクの消失": {
     "wiki_id": "9d9c2eb72e",
@@ -45,7 +57,11 @@
       "expert": "30",
       "master": "35",
       "append": "-"
-    }
+    },
+    "lyricist": "cosMo＠暴走P",
+    "composer": "cosMo＠暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Blessing": {
     "wiki_id": "Blessing",
@@ -57,7 +73,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "alive": {
     "wiki_id": "alive",
@@ -69,7 +89,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "市瀬るぽ",
+    "composer": "市瀬るぽ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ロキ": {
     "wiki_id": "60dcc0957a",
@@ -81,7 +105,11 @@
       "expert": "24",
       "master": "29",
       "append": "28"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "テオ": {
     "wiki_id": "da2aba2da6",
@@ -93,7 +121,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "Sakurai",
+    "composer": "Omoi",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "ヒバナ -Reloaded-": {
     "wiki_id": "1224d46582",
@@ -105,7 +137,11 @@
       "expert": "28",
       "master": "32",
       "append": "34"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "ハッピーシンセサイザ": {
     "wiki_id": "409696fa68",
@@ -117,7 +153,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "EasyPop",
+    "composer": "EasyPop",
+    "sekai_singer": "花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "Nostalogic": {
     "wiki_id": "Nostalogic",
@@ -129,7 +169,11 @@
       "expert": "23",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "yuukiss",
+    "composer": "yuukiss",
+    "sekai_singer": "MEIKO,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "ツギハギスタッカート": {
     "wiki_id": "125602b1f9",
@@ -141,7 +185,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "とあ",
+    "composer": "とあ",
+    "sekai_singer": "初音ミク,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "劣等上等": {
     "wiki_id": "557bbcb0d6",
@@ -153,7 +201,11 @@
       "expert": "25",
       "master": "30",
       "append": "30"
-    }
+    },
+    "lyricist": "Reol",
+    "composer": "Giga",
+    "sekai_singer": "鏡音リン,鏡音レン,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "ドクター＝ファンクビート": {
     "wiki_id": "5cbca0f22d",
@@ -165,7 +217,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "nyanyannya（大天才P）",
+    "composer": "nyanyannya（大天才P）",
+    "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "フラジール": {
     "wiki_id": "b116e05171",
@@ -177,7 +233,11 @@
       "expert": "24",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": "東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ブリキノダンス": {
     "wiki_id": "e657c29e81",
@@ -189,7 +249,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "日向電工",
+    "composer": "日向電工",
+    "sekai_singer": "鏡音レン,天馬司,神代類",
+    "detail_fetched": true
   },
   "スイートマジック": {
     "wiki_id": "d95d0b4ef0",
@@ -201,7 +265,11 @@
       "expert": "24",
       "master": "27",
       "append": "25"
-    }
+    },
+    "lyricist": "Junky",
+    "composer": "Junky",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ぼうけんのしょがきえました！": {
     "wiki_id": "a4e4c48976",
@@ -213,7 +281,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "シャルル": {
     "wiki_id": "19b7f1baba",
@@ -225,7 +297,11 @@
       "expert": "23",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "sekai_singer": "東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ハロ／ハワユ": {
     "wiki_id": "f4444fc93b",
@@ -237,7 +313,11 @@
       "expert": "22",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ナノウ",
+    "composer": "ナノウ",
+    "sekai_singer": "初音ミク,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "自傷無色": {
     "wiki_id": "64f196fd56",
@@ -249,7 +329,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "ササノマリイ",
+    "composer": "ササノマリイ",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ",
+    "detail_fetched": true
   },
   "needLe": {
     "wiki_id": "needLe",
@@ -261,7 +345,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "星乃一歌,天馬咲希,望月穂波,日野森志歩,初音ミク",
+    "detail_fetched": true
   },
   "アイドル新鋭隊": {
     "wiki_id": "724fc29866",
@@ -273,7 +361,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Mitchie M",
+    "composer": "Mitchie M",
+    "sekai_singer": "花里みのり,桐谷遥,桃井愛莉,日野森雫,初音ミク",
+    "detail_fetched": true
   },
   "Ready Steady": {
     "wiki_id": "70a8913ac7",
@@ -285,7 +377,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "Giga",
+    "sekai_singer": "小豆沢こはね,白石杏,東雲彰人,青柳冬弥,初音ミク",
+    "detail_fetched": true
   },
   "セカイはまだ始まってすらいない": {
     "wiki_id": "54ca244e45",
@@ -297,7 +393,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "天馬司,鳳えむ,草薙寧々,神代類,初音ミク",
+    "detail_fetched": true
   },
   "悔やむと書いてミライ": {
     "wiki_id": "2a05aa7169",
@@ -309,7 +409,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "まふまふ",
+    "composer": "まふまふ",
+    "sekai_singer": "宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希,初音ミク",
+    "detail_fetched": true
   },
   "セカイ": {
     "wiki_id": "cf689d0d42",
@@ -321,7 +425,11 @@
       "expert": "23",
       "master": "27",
       "append": "28"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "堀江晶太(kemu)",
+    "sekai_singer": "星乃一歌,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "ワーワーワールド": {
     "wiki_id": "21093610fa",
@@ -333,7 +441,11 @@
       "expert": "24",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "Mitchie M",
+    "composer": "Giga & Mitchie M",
+    "sekai_singer": "花里みのり,小豆沢こはね,初音ミク",
+    "detail_fetched": true
   },
   "アスノヨゾラ哨戒班": {
     "wiki_id": "90417f70c3",
@@ -345,7 +457,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "星乃一歌",
+    "detail_fetched": true
   },
   "ニア": {
     "wiki_id": "c4dda20d0e",
@@ -357,7 +473,11 @@
       "expert": "22",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "夏代孝明",
+    "composer": "夏代孝明",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥",
+    "detail_fetched": true
   },
   "Just Be Friends": {
     "wiki_id": "46500dfeae",
@@ -369,7 +489,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Dixie Flatline",
+    "composer": "Dixie Flatline",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "脱法ロック": {
     "wiki_id": "b65b663e4b",
@@ -381,7 +505,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": "鏡音レン,天馬司,神代類",
+    "detail_fetched": true
   },
   "命に嫌われている": {
     "wiki_id": "513cbd140f",
@@ -393,7 +521,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "カンザキイオリ",
+    "composer": "カンザキイオリ",
+    "sekai_singer": "初音ミク,宵崎奏",
+    "detail_fetched": true
   },
   "ワールドイズマイン": {
     "wiki_id": "1e1e52f9ec",
@@ -405,7 +537,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ダンスロボットダンス": {
     "wiki_id": "49807ac46d",
@@ -417,7 +553,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "初音ミク,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "Hand in Hand": {
     "wiki_id": "eacf216a62",
@@ -429,7 +569,11 @@
       "expert": "23",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "kz",
+    "composer": "kz",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "夜咄ディセイブ": {
     "wiki_id": "e634a8eebe",
@@ -441,7 +585,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "鏡音レン,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Gimme×Gimme": {
     "wiki_id": "cc7ceb4401",
@@ -453,7 +601,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "八王子P / Giga",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ビバハピ": {
     "wiki_id": "9407db7652",
@@ -465,7 +617,11 @@
       "expert": "24",
       "master": "29",
       "append": "31"
-    }
+    },
+    "lyricist": "Mitchie M",
+    "composer": "Mitchie M",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ジャンキーナイトタウンオーケストラ": {
     "wiki_id": "6061239b36",
@@ -477,7 +633,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ミラクルペイント": {
     "wiki_id": "f861f75291",
@@ -489,7 +649,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "on the rocks": {
     "wiki_id": "606355a091",
@@ -501,7 +665,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "携帯恋話": {
     "wiki_id": "ac9ef734b8",
@@ -513,7 +681,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "まふまふ",
+    "composer": "まふまふ",
+    "sekai_singer": "初音ミク,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "39みゅーじっく！": {
     "wiki_id": "f809908795",
@@ -525,7 +697,11 @@
       "expert": "23",
       "master": "28",
       "append": "27"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "青く駆けろ！": {
     "wiki_id": "9ef1d49cd0",
@@ -537,7 +713,11 @@
       "expert": "24",
       "master": "27",
       "append": "30"
-    }
+    },
+    "lyricist": "まらしぃ",
+    "composer": "まらしぃ",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "ステラ": {
     "wiki_id": "bbb8f882f7",
@@ -549,7 +729,11 @@
       "expert": "26",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "天馬咲希,初音ミク,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "Leia - Remind": {
     "wiki_id": "27c8b4e676",
@@ -561,7 +745,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆよゆっぺ",
+    "composer": "ゆよゆっぺ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ジャックポットサッドガール": {
     "wiki_id": "ac4a117c38",
@@ -573,7 +761,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "朝比奈まふゆ,初音ミク,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "メルティランドナイトメア": {
     "wiki_id": "be40b34be7",
@@ -585,7 +777,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "はるまきごはん",
+    "composer": "はるまきごはん",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "乙女解剖": {
     "wiki_id": "8fbf720ab4",
@@ -597,7 +793,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "potatoになっていく": {
     "wiki_id": "d565f12ae8",
@@ -609,7 +809,11 @@
       "expert": "24",
       "master": "29",
       "append": "25"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": "神代類,初音ミク,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "ローリンガール": {
     "wiki_id": "1e5eba2530",
@@ -621,7 +825,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "モア！ジャンプ！モア！": {
     "wiki_id": "b62e7120ae",
@@ -633,7 +841,11 @@
       "expert": "26",
       "master": "31",
       "append": "30"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "桃井愛莉,初音ミク,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "裏表ラバーズ": {
     "wiki_id": "34f590600e",
@@ -645,7 +857,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "wowaka",
+    "composer": "wowaka",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アンノウン・マザーグース": {
     "wiki_id": "ac692e516a",
@@ -657,7 +873,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "wowaka",
+    "composer": "wowaka",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "愛されなくても君がいる": {
     "wiki_id": "feea2d9d42",
@@ -669,7 +889,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ウミユリ海底譚": {
     "wiki_id": "236a0ddcca",
@@ -681,7 +905,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "n-buna",
+    "composer": "n-buna",
+    "sekai_singer": "初音ミク,星乃一歌,望月穂波",
+    "detail_fetched": true
   },
   "Forward": {
     "wiki_id": "Forward",
@@ -693,7 +921,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "R Sound Design",
+    "composer": "R Sound Design",
+    "sekai_singer": "白石杏,初音ミク,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "独りんぼエンヴィー": {
     "wiki_id": "37bbece9b6",
@@ -705,7 +937,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "koyori",
+    "composer": "koyori",
+    "sekai_singer": "初音ミク,宵崎奏,暁山瑞希",
+    "detail_fetched": true
   },
   "ニジイロストーリーズ": {
     "wiki_id": "24a5993794",
@@ -717,7 +953,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": "草薙寧々,MEIKO,KAITO,神代類",
+    "detail_fetched": true
   },
   "ODDS＆ENDS": {
     "wiki_id": "80fcf1f768",
@@ -729,7 +969,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ドラマツルギー": {
     "wiki_id": "7f816a99a8",
@@ -741,7 +985,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "グリーンライツ・セレナーデ": {
     "wiki_id": "a96f1e1ddb",
@@ -753,7 +1001,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "恋愛裁判": {
     "wiki_id": "ddd270b23b",
@@ -765,7 +1017,11 @@
       "expert": "22",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "初音ミク,花里みのり,桃井愛莉",
+    "detail_fetched": true
   },
   "＊ハロー、プラネット。": {
     "wiki_id": "acc6939ecf",
@@ -777,7 +1033,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "千本桜": {
     "wiki_id": "865bdc036e",
@@ -789,7 +1049,11 @@
       "expert": "26",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "黒うさ",
+    "composer": "黒うさ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ECHO": {
     "wiki_id": "ECHO",
@@ -801,7 +1065,11 @@
       "expert": "23",
       "master": "26",
       "append": "29"
-    }
+    },
+    "lyricist": "Crusher P",
+    "composer": "Crusher P",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "チュルリラ・チュルリラ・ダッダッダ！": {
     "wiki_id": "0f07b65171",
@@ -813,7 +1081,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "和田たけあき(くらげP)",
+    "composer": "和田たけあき(くらげP)",
+    "sekai_singer": "天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ブレス・ユア・ブレス": {
     "wiki_id": "9beb9cb846",
@@ -825,7 +1097,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "和田たけあき",
+    "composer": "和田たけあき",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "とても痛い痛がりたい": {
     "wiki_id": "552b54374a",
@@ -837,7 +1113,11 @@
       "expert": "23",
       "master": "28",
       "append": "30"
-    }
+    },
+    "lyricist": "EZFG",
+    "composer": "EZFG",
+    "sekai_singer": "初音ミク,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "霽れを待つ": {
     "wiki_id": "6eebc0dde3",
@@ -849,7 +1129,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "望月穂波,初音ミク,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
   },
   "ワールズエンド・ダンスホール": {
     "wiki_id": "2ab22f753f",
@@ -861,7 +1145,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "wowaka",
+    "composer": "wowaka",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ヒビカセ": {
     "wiki_id": "0bea77586c",
@@ -873,7 +1161,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "れをる",
+    "composer": "ギガ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Color of Drops": {
     "wiki_id": "d8bf0439ac",
@@ -885,7 +1177,11 @@
       "expert": "23",
       "master": "28",
       "append": "26"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "日野森雫,巡音ルカ,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "RAD DOGS": {
     "wiki_id": "RAD DOGS",
@@ -897,7 +1193,11 @@
       "expert": "26",
       "master": "30",
       "append": "32"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "八王子P",
+    "sekai_singer": "青柳冬弥,初音ミク,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "ミルククラウン・オン・ソーネチカ": {
     "wiki_id": "9cee720d06",
@@ -909,7 +1209,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ユジー",
+    "composer": "ユジー",
+    "sekai_singer": "初音ミク,花里みのり,日野森雫",
+    "detail_fetched": true
   },
   "タイムマシン": {
     "wiki_id": "a1e4877a85",
@@ -921,7 +1225,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "164",
+    "composer": "40mP",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希",
+    "detail_fetched": true
   },
   "drop pop candy": {
     "wiki_id": "4dc2d1b2e5",
@@ -933,7 +1241,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "れをる",
+    "composer": "ギガ",
+    "sekai_singer": "鏡音リン,巡音ルカ,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "ポジティブ☆ダンスタイム": {
     "wiki_id": "80810d6f00",
@@ -945,7 +1257,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "キノシタ",
+    "composer": "キノシタ",
+    "sekai_singer": "鏡音リン,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "Brand New Day": {
     "wiki_id": "d8b81cd0c9",
@@ -957,7 +1273,11 @@
       "expert": "28",
       "master": "32",
       "append": "35"
-    }
+    },
+    "lyricist": "いるかアイス",
+    "composer": "いるかアイス",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "限りなく灰色へ": {
     "wiki_id": "5054a60c23",
@@ -969,7 +1289,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "sekai_singer": "東雲絵名,鏡音リン,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "ワンスアポンアドリーム": {
     "wiki_id": "85d1397ebe",
@@ -981,7 +1305,11 @@
       "expert": "22",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "YASUHIRO(康寛)",
+    "composer": "YASUHIRO(康寛)",
+    "sekai_singer": "鳳えむ,鏡音レン,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ボッカデラベリタ": {
     "wiki_id": "d71504a307",
@@ -993,7 +1321,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "柊キライ",
+    "composer": "柊キライ",
+    "sekai_singer": "朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "みくみくにしてあげる♪【してやんよ】": {
     "wiki_id": "8c0e834235",
@@ -1005,7 +1337,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "ika_mo",
+    "composer": "ika_mo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "威風堂々": {
     "wiki_id": "c8fa452278",
@@ -1017,7 +1353,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "梅とら",
+    "composer": "梅とら",
+    "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "from Y to Y": {
     "wiki_id": "bfab5523fc",
@@ -1029,7 +1369,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ジミーサムP",
+    "composer": "ジミーサムP",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "初音ミクの激唱": {
     "wiki_id": "871bc229c6",
@@ -1041,7 +1385,11 @@
       "expert": "30",
       "master": "34",
       "append": "-"
-    }
+    },
+    "lyricist": "GAiA",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "天使のクローバー": {
     "wiki_id": "0d13c36a4d",
@@ -1053,7 +1401,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "DIVELA",
+    "composer": "DIVELA",
+    "sekai_singer": "花里みのり,鏡音リン,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "お気に召すまま": {
     "wiki_id": "5c57bda305",
@@ -1065,7 +1417,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "鏡音レン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "どりーみんチュチュ": {
     "wiki_id": "cdec2e8093",
@@ -1077,7 +1433,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アイディスマイル": {
     "wiki_id": "d53b368f5d",
@@ -1089,7 +1449,11 @@
       "expert": "25",
       "master": "28",
       "append": "26"
-    }
+    },
+    "lyricist": "とあ",
+    "composer": "とあ",
+    "sekai_singer": "暁山瑞希,MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "「１」": {
     "wiki_id": "3fe7c2faac",
@@ -1101,7 +1465,11 @@
       "expert": "23",
       "master": "27",
       "append": "28"
-    }
+    },
+    "lyricist": "164",
+    "composer": "164",
+    "sekai_singer": "日野森志歩,巡音ルカ,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "花を唄う": {
     "wiki_id": "f4ef8dfe1f",
@@ -1113,7 +1481,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "シノ",
+    "composer": "シノ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "夜に駆ける": {
     "wiki_id": "7a222f2116",
@@ -1125,7 +1497,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Ayase",
+    "composer": "Ayase",
+    "sekai_singer": "初音ミク,宵崎奏",
+    "detail_fetched": true
   },
   "幽霊東京": {
     "wiki_id": "ab5c5ae531",
@@ -1137,7 +1513,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Ayase",
+    "composer": "Ayase",
+    "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "シネマ": {
     "wiki_id": "4e3ae95e52",
@@ -1149,7 +1529,11 @@
       "expert": "24",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "Ayase",
+    "composer": "Ayase",
+    "sekai_singer": "東雲彰人,KAITO,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "KING": {
     "wiki_id": "KING",
@@ -1161,7 +1545,11 @@
       "expert": "25",
       "master": "30",
       "append": "28"
-    }
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "天馬司,神代類",
+    "detail_fetched": true
   },
   "アイノマテリアル": {
     "wiki_id": "f17212d9c8",
@@ -1173,7 +1561,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "Junky",
+    "composer": "Junky",
+    "sekai_singer": "桐谷遥,MEIKO,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "いかないで": {
     "wiki_id": "26c62ae300",
@@ -1185,7 +1577,11 @@
       "expert": "25",
       "master": "29",
       "append": "27"
-    }
+    },
+    "lyricist": "想太",
+    "composer": "想太",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希",
+    "detail_fetched": true
   },
   "ロミオとシンデレラ": {
     "wiki_id": "073da37f2e",
@@ -1197,7 +1593,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "sekai_singer": "初音ミク,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "泡沫未来": {
     "wiki_id": "ffa0c81786",
@@ -1209,7 +1609,11 @@
       "expert": "25",
       "master": "30",
       "append": "30"
-    }
+    },
+    "lyricist": "加賀（ネギシャワーＰ）",
+    "composer": "加賀（ネギシャワーＰ）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "トンデモワンダーズ": {
     "wiki_id": "4f77daec39",
@@ -1221,7 +1625,11 @@
       "expert": "27",
       "master": "32",
       "append": "33"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": "天馬司,KAITO,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "カナデトモスソラ": {
     "wiki_id": "a5b4f5e5f6",
@@ -1233,7 +1641,11 @@
       "expert": "22",
       "master": "26",
       "append": "24"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "トラフィック・ジャム": {
     "wiki_id": "024fdec90a",
@@ -1245,7 +1657,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "煮ル果実",
+    "composer": "煮ル果実",
+    "sekai_singer": "鏡音リン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "フロムトーキョー": {
     "wiki_id": "84f00f6d2f",
@@ -1257,7 +1673,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "夏代孝明",
+    "composer": "夏代孝明・渡辺拓也",
+    "sekai_singer": "天馬咲希,初音ミク,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "Beat Eater": {
     "wiki_id": "Beat Eater",
@@ -1269,7 +1689,11 @@
       "expert": "25",
       "master": "29",
       "append": "28"
-    }
+    },
+    "lyricist": "ポリスピカデリー",
+    "composer": "ポリスピカデリー",
+    "sekai_singer": "小豆沢こはね,鏡音レン,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "六兆年と一夜物語": {
     "wiki_id": "c5fc2ebb4c",
@@ -1281,7 +1705,11 @@
       "expert": "29",
       "master": "35",
       "append": "35"
-    }
+    },
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "地球最後の告白を": {
     "wiki_id": "58f2522b18",
@@ -1293,7 +1721,11 @@
       "expert": "25",
       "master": "31",
       "append": "32"
-    }
+    },
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "sekai_singer": "巡音ルカ,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "ビターチョコデコレーション": {
     "wiki_id": "1b50c8537e",
@@ -1305,7 +1737,11 @@
       "expert": "25",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "そうだった！！": {
     "wiki_id": "701f5e704d",
@@ -1317,7 +1753,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "タケノコ少年",
+    "composer": "タケノコ少年",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "カゲロウデイズ": {
     "wiki_id": "245ba9ef5d",
@@ -1329,7 +1769,11 @@
       "expert": "27",
       "master": "31",
       "append": "33"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "アイスドロップ": {
     "wiki_id": "68d0d75bd3",
@@ -1341,7 +1785,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "sekai_singer": "桃井愛莉,鏡音レン,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "Glory Steady Go!": {
     "wiki_id": "96cfcacc28",
@@ -1353,7 +1801,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "キノシタ",
+    "composer": "キノシタ",
+    "sekai_singer": "草薙寧々,巡音ルカ,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "チルドレンレコード": {
     "wiki_id": "fceb6b094d",
@@ -1365,7 +1817,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "鏡音レン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "magic number": {
     "wiki_id": "c885160018",
@@ -1377,7 +1833,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "伊東 健人",
+    "composer": "伊東 健人",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "流星のパルス": {
     "wiki_id": "288fb7cc9c",
@@ -1389,7 +1849,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": "星乃一歌,MEIKO,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "カトラリー": {
     "wiki_id": "3c051677c6",
@@ -1401,7 +1865,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "有機酸",
+    "composer": "有機酸",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ",
+    "detail_fetched": true
   },
   "再生": {
     "wiki_id": "6621f713c6",
@@ -1413,7 +1881,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "ピコン",
+    "composer": "ピコン",
+    "sekai_singer": "朝比奈まふゆ,鏡音リン,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "群青讃歌": {
     "wiki_id": "babee1c459",
@@ -1425,7 +1897,11 @@
       "expert": "24",
       "master": "27",
       "append": "29"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "炉心融解": {
     "wiki_id": "2a89fa5938",
@@ -1437,7 +1913,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "kuma(alfred)",
+    "composer": "iroha(sasaki)",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ロストワンの号哭": {
     "wiki_id": "e6d99b6984",
@@ -1449,7 +1929,11 @@
       "expert": "26",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": "鏡音リン,星乃一歌,日野森志歩",
+    "detail_fetched": true
   },
   "マシンガンポエムドール": {
     "wiki_id": "b8388403b3",
@@ -1461,7 +1945,11 @@
       "expert": "31",
       "master": "35",
       "append": "-"
-    }
+    },
+    "lyricist": "cosMo@暴走P",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ベノム": {
     "wiki_id": "0a26a410cd",
@@ -1473,7 +1961,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": "東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "拝啓ドッペルゲンガー": {
     "wiki_id": "b8f139a6a6",
@@ -1485,7 +1977,11 @@
       "expert": "28",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "テレキャスタービーボーイ": {
     "wiki_id": "031a9065ca",
@@ -1497,7 +1993,11 @@
       "expert": "25",
       "master": "29",
       "append": "31"
-    }
+    },
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "sekai_singer": "鏡音レン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "トキヲ・ファンカ": {
     "wiki_id": "98de5b3aca",
@@ -1509,7 +2009,11 @@
       "expert": "25",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "takamatt",
+    "composer": "takamatt",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "悪魔の踊り方": {
     "wiki_id": "9a4551a1a9",
@@ -1521,7 +2025,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "キタニタツヤ",
+    "composer": "キタニタツヤ",
+    "sekai_singer": "鏡音リン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "だれかの心臓になれたなら": {
     "wiki_id": "597bdb185c",
@@ -1533,7 +2041,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "マシュマリー": {
     "wiki_id": "b9992ab732",
@@ -1545,7 +2057,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "MIMI",
+    "composer": "MIMI",
+    "sekai_singer": "初音ミク,花里みのり,桃井愛莉",
+    "detail_fetched": true
   },
   "右肩の蝶": {
     "wiki_id": "3901106b74",
@@ -1557,7 +2073,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "水野悠良",
+    "composer": "のりぴー",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ray": {
     "wiki_id": "ray",
@@ -1569,7 +2089,11 @@
       "expert": "24",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "藤原 基央",
+    "composer": "藤原 基央",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "Hello,world!": {
     "wiki_id": "37ef376c3f",
@@ -1581,7 +2105,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "藤原 基央",
+    "composer": "藤原 基央",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "しっくおぶはうす！": {
     "wiki_id": "1ddfe66cb3",
@@ -1593,7 +2121,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "オゾン",
+    "composer": "オゾン",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ショウタイム・ルーラー": {
     "wiki_id": "ca6f43c92f",
@@ -1605,7 +2137,11 @@
       "expert": "25",
       "master": "31",
       "append": "31"
-    }
+    },
+    "lyricist": "烏屋茶房",
+    "composer": "烏屋茶房",
+    "sekai_singer": "神代類,鏡音リン,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "Happy Halloween": {
     "wiki_id": "2693473ae8",
@@ -1617,7 +2153,11 @@
       "expert": "25",
       "master": "31",
       "append": "26"
-    }
+    },
+    "lyricist": "Junky",
+    "composer": "Junky",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ロウワー": {
     "wiki_id": "3eb586d6a9",
@@ -1629,7 +2169,11 @@
       "expert": "26",
       "master": "31",
       "append": "30"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": "暁山瑞希,MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "初音天地開闢神話": {
     "wiki_id": "fc19ce99f2",
@@ -1641,7 +2185,11 @@
       "expert": "28",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "cosMo@暴走P",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "オルターエゴ": {
     "wiki_id": "c16b1a70e0",
@@ -1653,7 +2201,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Misumi",
+    "composer": "Misumi",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "STAGE OF SEKAI": {
     "wiki_id": "921e01d341",
@@ -1665,7 +2217,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "針原翼（はりーP）",
+    "composer": "針原翼（はりーP）",
+    "sekai_singer": "望月穂波,鏡音レン,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
   },
   "からくりピエロ": {
     "wiki_id": "1cf051723d",
@@ -1677,7 +2233,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ワールドワイドワンダー": {
     "wiki_id": "4840fa7c9e",
@@ -1689,7 +2249,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "TOKOTOKO",
+    "composer": "TOKOTOKO",
+    "sekai_singer": "花里みのり,KAITO,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "悪ノ娘": {
     "wiki_id": "496fd87b7a",
@@ -1701,7 +2265,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "悪ノ召使": {
     "wiki_id": "fcd1cb860e",
@@ -1713,7 +2281,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "去り人達のワルツ": {
     "wiki_id": "8108b8f801",
@@ -1725,7 +2297,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ラストスコア": {
     "wiki_id": "5682530864",
@@ -1737,7 +2313,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "せきこみごはん",
+    "composer": "せきこみごはん",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フィクサー": {
     "wiki_id": "66ea9185d3",
@@ -1749,7 +2329,11 @@
       "expert": "26",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": "天馬司,神代類",
+    "detail_fetched": true
   },
   "ミライ": {
     "wiki_id": "8129214b9f",
@@ -1761,7 +2345,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "有機酸",
+    "composer": "有機酸",
+    "sekai_singer": "青柳冬弥,巡音ルカ,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "ゴーストルール": {
     "wiki_id": "74368dd80a",
@@ -1773,7 +2361,11 @@
       "expert": "27",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,星乃一歌",
+    "detail_fetched": true
   },
   "ヴィラン": {
     "wiki_id": "a4f63bf769",
@@ -1785,7 +2377,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "てにをは",
+    "composer": "てにをは",
+    "sekai_singer": "朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "サンドリヨン 10th Anniversary": {
     "wiki_id": "10647bcd3b",
@@ -1797,7 +2393,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "orange",
+    "composer": "Dios/シグナルP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "少女レイ": {
     "wiki_id": "b0af258987",
@@ -1809,7 +2409,11 @@
       "expert": "24",
       "master": "27",
       "append": "27"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": "初音ミク,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "ガランド": {
     "wiki_id": "f2df0f48f8",
@@ -1821,7 +2425,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ピコン",
+    "composer": "ピコン",
+    "sekai_singer": "鏡音レン,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "エンドマークに希望と涙を添えて": {
     "wiki_id": "bdbc7356b0",
@@ -1833,7 +2441,11 @@
       "expert": "31",
       "master": "35",
       "append": "-"
-    }
+    },
+    "lyricist": "-",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "the EmpErroR": {
     "wiki_id": "f9c7e2cb5f",
@@ -1845,7 +2457,11 @@
       "expert": "31",
       "master": "36",
       "append": "-"
-    }
+    },
+    "lyricist": "-",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Don't Fight The Music": {
     "wiki_id": "65891874d8",
@@ -1857,7 +2473,11 @@
       "expert": "30",
       "master": "35",
       "append": "-"
-    }
+    },
+    "lyricist": "-",
+    "composer": "黒魔",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "にっこり^^調査隊のテーマ": {
     "wiki_id": "d7a5107fea",
@@ -1869,7 +2489,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "じーざす",
+    "composer": "じーざす",
+    "sekai_singer": "鳳えむ,初音ミク,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "トリコロージュ": {
     "wiki_id": "2881e6f526",
@@ -1881,7 +2505,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "煮ル果実",
+    "composer": "煮ル果実",
+    "sekai_singer": "宵崎奏,初音ミク,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "心拍数♯0822": {
     "wiki_id": "b2083c155f",
@@ -1893,7 +2521,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "蝶々P",
+    "composer": "蝶々P",
+    "sekai_singer": "初音ミク,星乃一歌,望月穂波",
+    "detail_fetched": true
   },
   "うっせぇわ": {
     "wiki_id": "a38ccc0817",
@@ -1905,7 +2537,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "踊": {
     "wiki_id": "踊",
@@ -1917,7 +2553,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "Giga、TeddyLoid",
+    "sekai_singer": "小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "君色マリンスノウ": {
     "wiki_id": "b83ee0f452",
@@ -1929,7 +2569,11 @@
       "expert": "28",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "カルロス袴田(サイゼP)",
+    "composer": "カルロス袴田(サイゼP)",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "愛して愛して愛して": {
     "wiki_id": "b5fe578a57",
@@ -1941,7 +2585,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "きくお",
+    "composer": "きくお",
+    "sekai_singer": "初音ミク,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "Flyer!": {
     "wiki_id": "Flyer!",
@@ -1953,7 +2601,11 @@
       "expert": "24",
       "master": "29",
       "append": "30"
-    }
+    },
+    "lyricist": "Chinozo",
+    "composer": "Chinozo",
+    "sekai_singer": "小豆沢こはね,鏡音レン,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Peaky Peaky": {
     "wiki_id": "6c3b534e4a",
@@ -1965,7 +2617,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": "日野森志歩,KAITO,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "ジウダス": {
     "wiki_id": "8d7c153a7c",
@@ -1977,7 +2633,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "すこやか大聖堂",
+    "composer": "すこやか大聖堂",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ナンセンス文学": {
     "wiki_id": "3119b11039",
@@ -1989,7 +2649,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "鏡音レン,天馬司,神代類",
+    "detail_fetched": true
   },
   "心予報": {
     "wiki_id": "2a39ca91f3",
@@ -2001,7 +2665,11 @@
       "expert": "24",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "僕らまだアンダーグラウンド": {
     "wiki_id": "6135e8c6eb",
@@ -2013,7 +2681,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "初音ミク,星乃一歌,日野森志歩",
+    "detail_fetched": true
   },
   "Miku": {
     "wiki_id": "Miku",
@@ -2025,7 +2697,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Peter B, Ary W, Josh K, David M, & Stella M",
+    "composer": "Anamanaguchi",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "メタモリボン": {
     "wiki_id": "6d8b3e9064",
@@ -2037,7 +2713,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "emon(Tes.)・Tudiken",
+    "composer": "emon(Tes.)",
+    "sekai_singer": "日野森雫,鏡音リン,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "いーあるふぁんくらぶ": {
     "wiki_id": "d9e1273faf",
@@ -2049,7 +2729,11 @@
       "expert": "24",
       "master": "28",
       "append": "26"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "雨とペトラ": {
     "wiki_id": "6e46175897",
@@ -2061,7 +2745,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "sekai_singer": "鏡音レン,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ノマド": {
     "wiki_id": "938db9bc04",
@@ -2073,7 +2761,11 @@
       "expert": "23",
       "master": "26",
       "append": "25"
-    }
+    },
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "sekai_singer": "東雲絵名,鏡音リン,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "マトリョシカ": {
     "wiki_id": "a2d96bd50a",
@@ -2085,7 +2777,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ドーナツホール 2024*7": {
     "wiki_id": "4038a83616",
@@ -2097,7 +2793,11 @@
       "expert": "25",
       "master": "29",
       "append": "33"
-    }
+    },
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "砂の惑星": {
     "wiki_id": "751ff40a86",
@@ -2109,7 +2809,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ルカルカ★ナイトフィーバー": {
     "wiki_id": "2d0119b522",
@@ -2121,7 +2825,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "SAM（samfree）",
+    "composer": "SAM（samfree）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ピアノ×フォルテ×スキャンダル": {
     "wiki_id": "dfe1610a76",
@@ -2133,7 +2841,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "千年の独奏歌": {
     "wiki_id": "965e24122a",
@@ -2145,7 +2857,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "yanagi",
+    "composer": "yanagi",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "88☆彡": {
     "wiki_id": "620e703ca2",
@@ -2157,7 +2873,11 @@
       "expert": "26",
       "master": "29",
       "append": "32"
-    }
+    },
+    "lyricist": "まらしぃ",
+    "composer": "まらしぃ、堀江晶太(kemu)",
+    "sekai_singer": "天馬司,KAITO,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ONESELF": {
     "wiki_id": "ONESELF",
@@ -2169,7 +2889,11 @@
       "expert": "27",
       "master": "30",
       "append": "33"
-    }
+    },
+    "lyricist": "Twinfield",
+    "composer": "Twinfield",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "PaⅢ.SENSATION": {
     "wiki_id": "ac4659af28",
@@ -2181,7 +2905,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "牛肉",
+    "composer": "雄之助",
+    "sekai_singer": "初音ミク,鏡音リン,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "ダーリンダンス": {
     "wiki_id": "c8233626ca",
@@ -2193,7 +2921,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥",
+    "detail_fetched": true
   },
   "オーダーメイド": {
     "wiki_id": "6c05c6b8e0",
@@ -2205,7 +2937,11 @@
       "expert": "21",
       "master": "26",
       "append": "24"
-    }
+    },
+    "lyricist": "傘村トータ（LIVE LAB.）",
+    "composer": "傘村トータ（LIVE LAB.）",
+    "sekai_singer": "星乃一歌,巡音ルカ,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "アイデンティティ": {
     "wiki_id": "002d1ed7ec",
@@ -2217,7 +2953,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "初音ミク,宵崎奏",
+    "detail_fetched": true
   },
   "青色絵具": {
     "wiki_id": "b24b1b4ad5",
@@ -2229,7 +2969,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "くじら",
+    "composer": "くじら",
+    "sekai_singer": "初音ミク,日野森志歩,日野森雫",
+    "detail_fetched": true
   },
   "コスモスパイス": {
     "wiki_id": "68112834fa",
@@ -2241,7 +2985,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,天馬咲希,天馬司",
+    "detail_fetched": true
   },
   "徳川カップヌードル禁止令": {
     "wiki_id": "790cf63224",
@@ -2253,7 +3001,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Mitchie M",
+    "composer": "Mitchie M",
+    "sekai_singer": "鏡音レン,KAITO,草薙寧々,ネネロボ,ミクダヨー",
+    "detail_fetched": true
   },
   "サラマンダー": {
     "wiki_id": "556f04fa0d",
@@ -2265,7 +3017,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,東雲絵名,東雲彰人",
+    "detail_fetched": true
   },
   "イフ": {
     "wiki_id": "995bbc0921",
@@ -2277,7 +3033,11 @@
       "expert": "23",
       "master": "27",
       "append": "29"
-    }
+    },
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "sekai_singer": "桐谷遥,初音ミク,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ブラック★ロックシューター": {
     "wiki_id": "e3b0171ebf",
@@ -2289,7 +3049,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "妄想感傷代償連盟": {
     "wiki_id": "69e57bc872",
@@ -2301,7 +3065,11 @@
       "expert": "23",
       "master": "27",
       "append": "26"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,宵崎奏,東雲絵名",
+    "detail_fetched": true
   },
   "リモコン": {
     "wiki_id": "09f9d8a074",
@@ -2313,7 +3081,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "じーざす",
+    "composer": "じーざす",
+    "sekai_singer": "鏡音リン,鏡音レン,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "月光": {
     "wiki_id": "0c0836e2f5",
@@ -2325,7 +3097,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "キタニタツヤ / はるまきごはん",
+    "composer": "キタニタツヤ / はるまきごはん",
+    "sekai_singer": "東雲彰人,MEIKO,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "神のまにまに": {
     "wiki_id": "5e25c5b193",
@@ -2337,7 +3113,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "れるりり",
+    "composer": "れるりり",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Awake Now": {
     "wiki_id": "Awake Now",
@@ -2349,7 +3129,11 @@
       "expert": "24",
       "master": "30",
       "append": "29"
-    }
+    },
+    "lyricist": "牛肉",
+    "composer": "雄之助",
+    "sekai_singer": "白石杏,初音ミク,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "阿吽のビーツ": {
     "wiki_id": "7ea5bd1092",
@@ -2361,7 +3145,11 @@
       "expert": "23",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "羽生まゐご",
+    "composer": "羽生まゐご",
+    "sekai_singer": "東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "バグ": {
     "wiki_id": "61ed79dd19",
@@ -2373,7 +3161,11 @@
       "expert": "26",
       "master": "32",
       "append": "31"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": "朝比奈まふゆ,鏡音レン,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "グッバイ宣言": {
     "wiki_id": "f275a7c437",
@@ -2385,7 +3177,11 @@
       "expert": "26",
       "master": "30",
       "append": "27"
-    }
+    },
+    "lyricist": "Chinozo",
+    "composer": "Chinozo",
+    "sekai_singer": "天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ヴァンパイア": {
     "wiki_id": "47e35ab8d2",
@@ -2397,7 +3193,11 @@
       "expert": "25",
       "master": "30",
       "append": "27"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "未完成讃歌": {
     "wiki_id": "2ea5a6a177",
@@ -2409,7 +3209,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "しゃいと",
+    "composer": "しゃいと",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "星空のメロディー": {
     "wiki_id": "bd07e2eccf",
@@ -2421,7 +3225,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ぽりふぉ",
+    "composer": "ぽりふぉ",
+    "sekai_singer": "草薙寧々,MEIKO,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "脳漿炸裂ガール": {
     "wiki_id": "23b4976f06",
@@ -2433,7 +3241,11 @@
       "expert": "28",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "れるりり",
+    "composer": "れるりり",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ぼくらの16bit戦争": {
     "wiki_id": "d137c91ce7",
@@ -2445,7 +3257,11 @@
       "expert": "28",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "メリュー": {
     "wiki_id": "bcd9336452",
@@ -2457,7 +3273,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "n-buna",
+    "composer": "n-buna",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ",
+    "detail_fetched": true
   },
   "エイリアンエイリアン": {
     "wiki_id": "16b3c47985",
@@ -2469,7 +3289,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "初音ミク,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "街": {
     "wiki_id": "街",
@@ -2481,7 +3305,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "jon-YAKITORY",
+    "composer": "jon-YAKITORY",
+    "sekai_singer": "白石杏,鏡音リン,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "てらてら": {
     "wiki_id": "a98eba9551",
@@ -2493,7 +3321,11 @@
       "expert": "24",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "和田たけあき",
+    "composer": "和田たけあき",
+    "sekai_singer": "天馬咲希,初音ミク,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "フロイライン＝ビブリォチカ": {
     "wiki_id": "f9bcf7df7a",
@@ -2505,7 +3337,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "nyanyannya（大天才P）",
+    "composer": "nyanyannya（大天才P）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "踊れオーケストラ": {
     "wiki_id": "0956a5733c",
@@ -2517,7 +3353,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "YASUHIRO(康寛)",
+    "composer": "YASUHIRO(康寛)",
+    "sekai_singer": "巡音ルカ,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "パラソルサイダー": {
     "wiki_id": "83fc546151",
@@ -2529,7 +3369,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ナナホシ管弦楽団",
+    "composer": "岩見 陸",
+    "sekai_singer": "桃井愛莉,巡音ルカ,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "ロストエンファウンド": {
     "wiki_id": "46bcc47086",
@@ -2541,7 +3385,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "YY": {
     "wiki_id": "YY",
@@ -2553,7 +3401,11 @@
       "expert": "25",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "23.exe",
+    "composer": "23.exe",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "それでもいいんだよ": {
     "wiki_id": "7b958015f4",
@@ -2565,7 +3417,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Ponchi♪",
+    "composer": "Ponchi♪",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "君の夜をくれ": {
     "wiki_id": "4a062fb774",
@@ -2577,7 +3433,11 @@
       "expert": "21",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "古川本舗",
+    "composer": "古川本舗",
+    "sekai_singer": "暁山瑞希,巡音ルカ,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "フューチャー・イヴ": {
     "wiki_id": "c5a16aaf16",
@@ -2589,7 +3449,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Voices": {
     "wiki_id": "Voices",
@@ -2601,7 +3465,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆよゆっぺ",
+    "composer": "ゆよゆっぺ",
+    "sekai_singer": "日野森志歩,鏡音リン,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "ジェヘナ": {
     "wiki_id": "0d6502e77b",
@@ -2613,7 +3481,11 @@
       "expert": "25",
       "master": "31",
       "append": "31"
-    }
+    },
+    "lyricist": "wotaku",
+    "composer": "wotaku",
+    "sekai_singer": "初音ミク,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Calc.": {
     "wiki_id": "Calc.",
@@ -2625,7 +3497,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ジミーサムP",
+    "composer": "ジミーサムP",
+    "sekai_singer": "初音ミク,星乃一歌,日野森志歩",
+    "detail_fetched": true
   },
   "虚ろを扇ぐ": {
     "wiki_id": "4dc4f3212e",
@@ -2637,7 +3513,11 @@
       "expert": "23",
       "master": "27",
       "append": "30"
-    }
+    },
+    "lyricist": "獅子志司",
+    "composer": "獅子志司",
+    "sekai_singer": "青柳冬弥,KAITO,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "Journey": {
     "wiki_id": "Journey",
@@ -2649,7 +3529,11 @@
       "expert": "25",
       "master": "29",
       "append": "32"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "天ノ弱": {
     "wiki_id": "fe39916017",
@@ -2661,7 +3545,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "164",
+    "composer": "164",
+    "sekai_singer": "星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "アンハッピーリフレイン": {
     "wiki_id": "b1135e2398",
@@ -2673,7 +3561,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "wowaka",
+    "composer": "wowaka",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フォニイ": {
     "wiki_id": "35e8b6d010",
@@ -2685,7 +3577,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ツミキ",
+    "composer": "ツミキ",
+    "sekai_singer": "MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ダブルラリアット": {
     "wiki_id": "5771e1c3b8",
@@ -2697,7 +3593,11 @@
       "expert": "23",
       "master": "27",
       "append": "28"
-    }
+    },
+    "lyricist": "アゴアニキ",
+    "composer": "アゴアニキ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "インビジブル": {
     "wiki_id": "0df66850ea",
@@ -2709,7 +3609,11 @@
       "expert": "28",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "エゴロック": {
     "wiki_id": "740c4401ab",
@@ -2721,7 +3625,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "sekai_singer": "鏡音レン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Bad ∞ End ∞ Night": {
     "wiki_id": "6df827e293",
@@ -2733,7 +3641,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ひとしずく×やま△",
+    "composer": "ひとしずく×やま△",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "トリノコシティ": {
     "wiki_id": "147fcf6f73",
@@ -2745,7 +3657,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "初音ミク,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "こちら、幸福安心委員会です。": {
     "wiki_id": "2603fcb84e",
@@ -2757,7 +3673,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "鳥居羊",
+    "composer": "うたたP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "DAYBREAK FRONTLINE": {
     "wiki_id": "861fcfc28c",
@@ -2769,7 +3689,11 @@
       "expert": "25",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ÅMARA(大未来電脳)": {
     "wiki_id": "d7ee0e739d",
@@ -2781,7 +3705,11 @@
       "expert": "28",
       "master": "34",
       "append": "-"
-    }
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "DREAM PLACE": {
     "wiki_id": "eed7ed77ee",
@@ -2793,7 +3721,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "EasyPop",
+    "composer": "EasyPop",
+    "sekai_singer": "花里みのり,MEIKO,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "泥中に咲く": {
     "wiki_id": "3e77d4471a",
@@ -2805,7 +3737,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "針原翼（はりーP）",
+    "composer": "針原翼（はりーP）",
+    "sekai_singer": "初音ミク,宵崎奏,暁山瑞希",
+    "detail_fetched": true
   },
   "いちにのさんで": {
     "wiki_id": "1367856d24",
@@ -2817,7 +3753,11 @@
       "expert": "22",
       "master": "26",
       "append": "24"
-    }
+    },
+    "lyricist": "nogumi",
+    "composer": "nogumi",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "帝国少女": {
     "wiki_id": "438fbbf77d",
@@ -2829,7 +3769,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "R Sound Design",
+    "composer": "R Sound Design",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "Change me": {
     "wiki_id": "Change me",
@@ -2841,7 +3785,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "shu-t",
+    "composer": "shu-t",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ラブカ？": {
     "wiki_id": "6e09daa3a0",
@@ -2853,7 +3801,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "柊キライ",
+    "composer": "柊キライ",
+    "sekai_singer": "MEIKO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "the WALL": {
     "wiki_id": "the WALL",
@@ -2865,7 +3817,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "buzzG",
+    "composer": "buzzG",
+    "sekai_singer": "星乃一歌,初音ミク,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "Iなんです": {
     "wiki_id": "7119c35dce",
@@ -2877,7 +3833,11 @@
       "expert": "26",
       "master": "31",
       "append": "33"
-    }
+    },
+    "lyricist": "れるりり",
+    "composer": "れるりり",
+    "sekai_singer": "東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "パラジクロロベンゼン": {
     "wiki_id": "c5357f4b0b",
@@ -2889,7 +3849,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ガルナ（オワタP）",
+    "composer": "ガルナ（オワタP）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "星屑ユートピア": {
     "wiki_id": "8fd1035749",
@@ -2901,7 +3865,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "otetsu",
+    "composer": "otetsu",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フレー": {
     "wiki_id": "a25cad5eb5",
@@ -2913,7 +3881,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "HoneyWorks",
+    "composer": "HoneyWorks",
+    "sekai_singer": "初音ミク,星乃一歌,日野森志歩",
+    "detail_fetched": true
   },
   "あったかいと": {
     "wiki_id": "4a2b457efb",
@@ -2925,7 +3897,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フロート・プランナー": {
     "wiki_id": "9f0acf672e",
@@ -2937,7 +3913,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Heavenz",
+    "composer": "Heavenz",
+    "sekai_singer": "桐谷遥,鏡音リン,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ノンブレス・オブリージュ": {
     "wiki_id": "05cdd84734",
@@ -2949,7 +3929,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ロンリーユニバース": {
     "wiki_id": "0eed5262f4",
@@ -2961,7 +3945,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥",
+    "detail_fetched": true
   },
   "陽だまりのセツナ": {
     "wiki_id": "d8a789cd57",
@@ -2973,7 +3961,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "赤乃わい",
+    "composer": "赤乃わい",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "仮死化": {
     "wiki_id": "895643776e",
@@ -2985,7 +3977,11 @@
       "expert": "23",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "遼遼",
+    "composer": "遼遼",
+    "sekai_singer": "東雲彰人,MEIKO,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "What's up? Pop!": {
     "wiki_id": "1fe51710f2",
@@ -2997,7 +3993,11 @@
       "expert": "31",
       "master": "37",
       "append": "-"
-    }
+    },
+    "lyricist": "Capchii",
+    "composer": "Capchii",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "腐れ外道とチョコレゐト": {
     "wiki_id": "98de18e479",
@@ -3009,7 +4009,11 @@
       "expert": "30",
       "master": "35",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "夜もすがら君想ふ": {
     "wiki_id": "c29565f063",
@@ -3021,7 +4025,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "TOKOTOKO",
+    "composer": "TOKOTOKO",
+    "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "ネトゲ廃人シュプレヒコール": {
     "wiki_id": "b53ce4eb25",
@@ -3033,7 +4041,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "さつき が てんこもり",
+    "composer": "さつき が てんこもり",
+    "sekai_singer": "初音ミク,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "カンタレラ": {
     "wiki_id": "ce3b5820fd",
@@ -3045,7 +4057,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "黒うさ",
+    "composer": "黒うさ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "FREELY TOMORROW": {
     "wiki_id": "4bdd55a91b",
@@ -3057,7 +4073,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ЯIRE, Mitchie M",
+    "composer": "Mitchie M",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "気まぐれメルシィ": {
     "wiki_id": "a2a1de07f5",
@@ -3069,7 +4089,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "八王子P/q*Left",
+    "composer": "八王子P",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "それがあなたの幸せとしても": {
     "wiki_id": "8b43041c51",
@@ -3081,7 +4105,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "Heavenz",
+    "composer": "Heavenz",
+    "sekai_singer": "巡音ルカ,宵崎奏,東雲絵名",
+    "detail_fetched": true
   },
   "リンちゃんなう！": {
     "wiki_id": "0dd0ea18a7",
@@ -3093,7 +4121,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "sezu",
+    "composer": "ガルナ（オワタP）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フェレス": {
     "wiki_id": "789e3d0594",
@@ -3105,7 +4137,11 @@
       "expert": "26",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "栗山夕璃（蜂屋ななし）",
+    "composer": "栗山夕璃（蜂屋ななし）",
+    "sekai_singer": "初音ミク,MEIKO,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "夜明けと蛍": {
     "wiki_id": "e1c3465591",
@@ -3117,7 +4153,11 @@
       "expert": "22",
       "master": "26",
       "append": "25"
-    }
+    },
+    "lyricist": "n-buna",
+    "composer": "n-buna",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "星空オーケストラ": {
     "wiki_id": "582969a684",
@@ -3129,7 +4169,11 @@
       "expert": "23",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "水野あつ",
+    "composer": "水野あつ",
+    "sekai_singer": "鳳えむ,巡音ルカ,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Flyway": {
     "wiki_id": "Flyway",
@@ -3141,7 +4185,11 @@
       "expert": "24",
       "master": "29",
       "append": "30"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": "望月穂波,鏡音レン,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
   },
   "p.h.": {
     "wiki_id": "p.h.",
@@ -3153,7 +4201,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "SEVENTHLINKS",
+    "composer": "SEVENTHLINKS",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Goodbye": {
     "wiki_id": "Goodbye",
@@ -3165,7 +4217,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "CircusP",
+    "composer": "CircusP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "SnowMix♪": {
     "wiki_id": "bf33b6b8e7",
@@ -3177,7 +4233,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "まらしぃ",
+    "composer": "まらしぃ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "星界ちゃんと可不ちゃんのおつかい合騒曲": {
     "wiki_id": "e4fa62545d",
@@ -3189,7 +4249,11 @@
       "expert": "29",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "南ノ南",
+    "composer": "南ノ南",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "天使の翼。": {
     "wiki_id": "7b95983db4",
@@ -3201,7 +4265,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "A4。",
+    "composer": "A4。",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Copycat": {
     "wiki_id": "Copycat",
@@ -3213,7 +4281,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "CircusP",
+    "composer": "CircusP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "レイニースノードロップ": {
     "wiki_id": "2b16030b83",
@@ -3225,7 +4297,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "帷子ゆき",
+    "composer": "Re:nG",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アイロニ": {
     "wiki_id": "da4da839ad",
@@ -3237,7 +4313,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "1925": {
     "wiki_id": "1925",
@@ -3249,7 +4329,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "T-POCKET",
+    "composer": "T-POCKET",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "私は、私達は": {
     "wiki_id": "f926d2ab90",
@@ -3261,7 +4345,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Guiano",
+    "composer": "Guiano",
+    "sekai_singer": "日野森雫,鏡音レン,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "ひつじがいっぴき": {
     "wiki_id": "5c3e31b52f",
@@ -3273,7 +4361,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Peg",
+    "composer": "Peg",
+    "sekai_singer": "小豆沢こはね,MEIKO,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Hello, Worker": {
     "wiki_id": "93081d349f",
@@ -3285,7 +4377,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ハヤシケイ",
+    "composer": "ハヤシケイ",
+    "sekai_singer": "巡音ルカ,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "Where shall we go?": {
     "wiki_id": "50ae57bfe5",
@@ -3297,7 +4393,11 @@
       "expert": "21",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "めろくる",
+    "composer": "めろくる",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ココロ": {
     "wiki_id": "efbf62a8cf",
@@ -3309,7 +4409,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "トラボルタ",
+    "composer": "トラボルタ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ストロボラスト": {
     "wiki_id": "1d4fe251bb",
@@ -3321,7 +4425,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "パレットには君がいっぱい": {
     "wiki_id": "95ecab3ae5",
@@ -3333,7 +4441,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Q": {
     "wiki_id": "Q",
@@ -3345,7 +4457,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ヤミナベ!!!!": {
     "wiki_id": "6caecd05c9",
@@ -3357,7 +4473,11 @@
       "expert": "31",
       "master": "37",
       "append": "-"
-    }
+    },
+    "lyricist": "cosMo@暴走P",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Booo!": {
     "wiki_id": "Booo!",
@@ -3369,7 +4489,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "TOKOTOKO（西沢さんP）",
+    "composer": "TOKOTOKO（西沢さんP）",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "39": {
     "wiki_id": "39",
@@ -3381,7 +4505,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Mr. Showtime": {
     "wiki_id": "7a1e47afcd",
@@ -3393,7 +4521,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ひとしずく×やま△",
+    "composer": "ひとしずく×やま△",
+    "sekai_singer": "天馬司,巡音ルカ,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "エゴイスト": {
     "wiki_id": "a0c574bab8",
@@ -3405,7 +4537,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "大沼パセリ",
+    "composer": "大沼パセリ",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "エピローグに君はいない": {
     "wiki_id": "c7464617a8",
@@ -3417,7 +4553,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "佐藤原材料",
+    "composer": "佐藤原材料",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Highlight": {
     "wiki_id": "Highlight",
@@ -3429,7 +4569,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アトラクトライト": {
     "wiki_id": "bf10b4ed8c",
@@ -3441,7 +4585,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": "鏡音レン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "ザムザ": {
     "wiki_id": "0e67d0ff73",
@@ -3453,7 +4601,11 @@
       "expert": "25",
       "master": "30",
       "append": "30"
-    }
+    },
+    "lyricist": "てにをは",
+    "composer": "てにをは",
+    "sekai_singer": "宵崎奏,KAITO,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "トラッシュ・アンド・トラッシュ！": {
     "wiki_id": "413c45c6a7",
@@ -3465,7 +4617,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "和田たけあき(くらげP)",
+    "composer": "和田たけあき(くらげP)",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Vampire's ∞ pathoS": {
     "wiki_id": "a35e741a36",
@@ -3477,7 +4633,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ひとしずく×やま△",
+    "composer": "ひとしずく×やま△",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Be The MUSIC!": {
     "wiki_id": "ce969146fb",
@@ -3489,7 +4649,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "キノシタ",
+    "composer": "キノシタ",
+    "sekai_singer": "「All Music MIKUdemy」一同",
+    "detail_fetched": true
   },
   "METEOR": {
     "wiki_id": "METEOR",
@@ -3501,7 +4665,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "DIVELA",
+    "composer": "DIVELA",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "インタビュア": {
     "wiki_id": "be7fd52de6",
@@ -3513,7 +4681,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "クワガタP",
+    "composer": "クワガタP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "私の恋はヘルファイア": {
     "wiki_id": "d547e43814",
@@ -3525,7 +4697,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "SLAVE.V-V-R",
+    "composer": "SLAVE.V-V-R",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "スノーマン": {
     "wiki_id": "7e3f4eecbf",
@@ -3537,7 +4713,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "深海少女": {
     "wiki_id": "108da71d15",
@@ -3549,7 +4729,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆうゆ",
+    "composer": "ゆうゆ",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "魔法みたいなミュージック！": {
     "wiki_id": "f264e8cc0b",
@@ -3561,7 +4745,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "相生": {
     "wiki_id": "ac802af1f3",
@@ -3573,7 +4761,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "やいり",
+    "composer": "やいり",
+    "sekai_singer": "天馬咲希,MEIKO,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "名も無き革命": {
     "wiki_id": "3abce82e13",
@@ -3585,7 +4777,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "シアン・キノ",
+    "composer": "シアン・キノ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "おこちゃま戦争": {
     "wiki_id": "d1a1686076",
@@ -3597,7 +4793,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "れをる",
+    "composer": "ギガ",
+    "sekai_singer": "鏡音リン,鏡音レン,天馬司,草薙寧々",
+    "detail_fetched": true
   },
   "絶え間なく藍色": {
     "wiki_id": "09ebd9dbfd",
@@ -3609,7 +4809,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "獅子志司",
+    "composer": "獅子志司",
+    "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "命ばっかり": {
     "wiki_id": "cc82ab0453",
@@ -3621,7 +4825,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": "MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ももいろの鍵": {
     "wiki_id": "2bf4978f08",
@@ -3633,7 +4841,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": "桃井愛莉,巡音ルカ,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "キティ": {
     "wiki_id": "59418ba57c",
@@ -3645,7 +4857,11 @@
       "expert": "28",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ツミキ",
+    "composer": "ツミキ",
+    "sekai_singer": "暁山瑞希,鏡音レン,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "快晴": {
     "wiki_id": "14271c5944",
@@ -3657,7 +4873,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "MEIKO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "悪食娘コンチータ": {
     "wiki_id": "0a8531b5ad",
@@ -3669,7 +4889,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "眠らせ姫からの贈り物": {
     "wiki_id": "e8a321d3bc",
@@ -3681,7 +4905,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "円尾坂の仕立屋": {
     "wiki_id": "e3422ab566",
@@ -3693,7 +4921,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "悪徳のジャッジメント": {
     "wiki_id": "51a6e01dd6",
@@ -3705,7 +4937,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Sharing The World": {
     "wiki_id": "f180398da2",
@@ -3717,7 +4953,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "BIGHEAD",
+    "composer": "BIGHEAD",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "セツナトリップ": {
     "wiki_id": "0f84bf3762",
@@ -3729,7 +4969,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "Last Note.",
+    "composer": "Last Note.",
+    "sekai_singer": "鏡音リン,花里みのり,桃井愛莉",
+    "detail_fetched": true
   },
   "シャンティ": {
     "wiki_id": "1422e8940b",
@@ -3741,7 +4985,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "wotaku",
+    "composer": "wotaku",
+    "sekai_singer": "KAITO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "エターナルアリア": {
     "wiki_id": "42fd80414a",
@@ -3753,7 +5001,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Adeliae",
+    "composer": "Adeliae",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Blue Star": {
     "wiki_id": "Blue Star",
@@ -3765,7 +5017,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "八王子P",
+    "composer": "八王子P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "箱庭のコラル": {
     "wiki_id": "0844c3fc4b",
@@ -3777,7 +5033,11 @@
       "expert": "23",
       "master": "27",
       "append": "29"
-    }
+    },
+    "lyricist": "koyori",
+    "composer": "koyori",
+    "sekai_singer": "草薙寧々,KAITO,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "人生": {
     "wiki_id": "716100c10c",
@@ -3789,7 +5049,11 @@
       "expert": "31",
       "master": "37",
       "append": "-"
-    }
+    },
+    "lyricist": "gcmstyle（アンメルツP）",
+    "composer": "gcmstyle（アンメルツP）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Wonder Style": {
     "wiki_id": "b4e358ef79",
@@ -3801,7 +5065,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "colate",
+    "composer": "colate",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "下剋上": {
     "wiki_id": "e098d0a23c",
@@ -3813,7 +5081,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Misumi",
+    "composer": "Misumi",
+    "sekai_singer": "白石杏,鏡音リン,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "嗚呼、素晴らしきニャン生": {
     "wiki_id": "5ca5acf549",
@@ -3825,7 +5097,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Nem",
+    "composer": "Nem",
+    "sekai_singer": "鏡音レン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "スターダストメドレー": {
     "wiki_id": "059b8bbbed",
@@ -3837,7 +5113,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "きさら",
+    "composer": "きさら",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "チームメイト": {
     "wiki_id": "8c580f7afe",
@@ -3849,7 +5129,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "HoneyWorks",
+    "composer": "HoneyWorks",
+    "sekai_singer": "花里みのり,鏡音レン,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "glow": {
     "wiki_id": "glow",
@@ -3861,7 +5145,11 @@
       "expert": "22",
       "master": "26",
       "append": "25"
-    }
+    },
+    "lyricist": "keeno",
+    "composer": "keeno",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "とても素敵な六月でした": {
     "wiki_id": "e4b43e63a7",
@@ -3873,7 +5161,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Eight",
+    "composer": "Eight",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "UNDERWATER": {
     "wiki_id": "UNDERWATER",
@@ -3885,7 +5177,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Hylen",
+    "composer": "Hylen",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "きゅうくらりん": {
     "wiki_id": "eaeb5859f3",
@@ -3897,7 +5193,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": "MEIKO,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "Afterglow": {
     "wiki_id": "Afterglow",
@@ -3909,7 +5209,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ジミーサムP",
+    "composer": "ジミーサムP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "太陽系デスコ": {
     "wiki_id": "bd4099deb8",
@@ -3921,7 +5225,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "心拍ペアリング": {
     "wiki_id": "049a9441ae",
@@ -3933,7 +5241,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "雪乃イト",
+    "composer": "雪乃イト",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "演劇": {
     "wiki_id": "acd7cf0533",
@@ -3945,7 +5257,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ナノウ",
+    "composer": "ナノウ",
+    "sekai_singer": "朝比奈まふゆ,巡音ルカ,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "星を繋ぐ": {
     "wiki_id": "be45eb67e3",
@@ -3957,7 +5273,11 @@
       "expert": "24",
       "master": "28",
       "append": "27"
-    }
+    },
+    "lyricist": "一二三",
+    "composer": "40mP",
+    "sekai_singer": "星乃一歌,KAITO,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "脳内革命ガール": {
     "wiki_id": "9fdb0850bc",
@@ -3969,7 +5289,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Decade": {
     "wiki_id": "Decade",
@@ -3981,7 +5305,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Dixie Flatline",
+    "composer": "Dixie Flatline",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "我らステインバスターズ！": {
     "wiki_id": "d3d9c78fe8",
@@ -3993,7 +5321,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "真島ゆろ",
+    "composer": "真島ゆろ",
+    "sekai_singer": "初音ミク,鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "新人類": {
     "wiki_id": "06ee224e67",
@@ -4005,7 +5337,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "まらしぃ＆じん",
+    "composer": "まらしぃ＆じん",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ずんだパーリナイ": {
     "wiki_id": "17507939a4",
@@ -4017,7 +5353,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "なみぐる",
+    "composer": "なみぐる",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Disco No.39": {
     "wiki_id": "010ade1a6b",
@@ -4029,7 +5369,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Rulmry.",
+    "composer": "Rulmry.",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "サマータイムレコード": {
     "wiki_id": "56278a5045",
@@ -4041,7 +5385,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "巡音ルカ,星乃一歌,天馬咲希",
+    "detail_fetched": true
   },
   "リアライズ": {
     "wiki_id": "1e9d87d983",
@@ -4053,7 +5401,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "柊マグネタイト / C'Na",
+    "composer": "柊マグネタイト / C'Na",
+    "sekai_singer": "小豆沢こはね,初音ミク,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "キラピピ★キラピカ": {
     "wiki_id": "aa93b2d5e4",
@@ -4065,7 +5417,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "nyanyannya（大天才P）",
+    "composer": "nyanyannya（大天才P）",
+    "sekai_singer": "鳳えむ,MEIKO,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ボトルケーキ": {
     "wiki_id": "8aa9768212",
@@ -4077,7 +5433,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ライブP",
+    "composer": "ライブP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "心做し": {
     "wiki_id": "f8890341e6",
@@ -4089,7 +5449,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "蝶々P",
+    "composer": "蝶々P",
+    "sekai_singer": "鏡音レン,宵崎奏,朝比奈まふゆ",
+    "detail_fetched": true
   },
   "ブループラネット": {
     "wiki_id": "ea85d1eab9",
@@ -4101,7 +5465,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "HERO": {
     "wiki_id": "HERO",
@@ -4113,7 +5481,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Ayase",
+    "composer": "Ayase",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "CIRCUS PANIC!!!": {
     "wiki_id": "f5e3af18aa",
@@ -4125,7 +5497,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "サツキ",
+    "composer": "サツキ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "白い雪のプリンセスは": {
     "wiki_id": "f23503d050",
@@ -4137,7 +5513,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "のぼる↑",
+    "composer": "のぼる↑",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "Un-Lock": {
     "wiki_id": "Un-Lock",
@@ -4149,7 +5529,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "無力P",
+    "composer": "無力P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ラッキー☆オーブ": {
     "wiki_id": "083c0c9431",
@@ -4161,7 +5545,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "emon(Tes.)",
+    "composer": "emon(Tes.)",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "NEO": {
     "wiki_id": "NEO",
@@ -4173,7 +5561,11 @@
       "expert": "25",
       "master": "29",
       "append": "32"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "アイムマイン": {
     "wiki_id": "23d95f7776",
@@ -4185,7 +5577,11 @@
       "expert": "25",
       "master": "29",
       "append": "26"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "天樂": {
     "wiki_id": "5bd97e0cff",
@@ -4197,7 +5593,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆうゆ",
+    "composer": "ゆうゆ",
+    "sekai_singer": "鏡音リン,星乃一歌,日野森志歩",
+    "detail_fetched": true
   },
   "まにまに": {
     "wiki_id": "65283281e9",
@@ -4209,7 +5609,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "メランコリック": {
     "wiki_id": "2adecf57dc",
@@ -4221,7 +5625,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Junky",
+    "composer": "Junky",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "豚になってyeah yeah": {
     "wiki_id": "ea3596716d",
@@ -4233,7 +5641,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "恋は戦争": {
     "wiki_id": "53a5c1a143",
@@ -4245,7 +5657,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "デビルじゃないもん": {
     "wiki_id": "de618256cc",
@@ -4257,7 +5673,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27 x ピノキオピー",
+    "composer": "DECO*27 x ピノキオピー",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "すきなことだけでいいです": {
     "wiki_id": "9373865630",
@@ -4269,7 +5689,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "番凩": {
     "wiki_id": "d4bd2cdc12",
@@ -4281,7 +5705,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "hinayukki@仕事してP",
+    "composer": "hinayukki@仕事してP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "神っぽいな": {
     "wiki_id": "16b5f9137f",
@@ -4293,7 +5721,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Dear": {
     "wiki_id": "Dear",
@@ -4305,7 +5737,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "19 -iku-",
+    "composer": "19 -iku-",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "CR詠ZY": {
     "wiki_id": "72e00a9bb8",
@@ -4317,7 +5753,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "梅とら",
+    "composer": "梅とら",
+    "sekai_singer": "東雲彰人,巡音ルカ,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "Cool Me Down": {
     "wiki_id": "e07b48d075",
@@ -4329,7 +5769,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Mwk",
+    "composer": "Mwk",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "悪役にキスシーンを": {
     "wiki_id": "d7e828b813",
@@ -4341,7 +5785,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "KAITO,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "我儘姫": {
     "wiki_id": "8aad795eef",
@@ -4353,7 +5801,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ふじを",
+    "composer": "ふじを",
+    "sekai_singer": "初音ミク,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "purpose": {
     "wiki_id": "purpose",
@@ -4365,7 +5817,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "sekai_singer": "日野森志歩,鏡音リン,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "はぐ": {
     "wiki_id": "39317b67d5",
@@ -4377,7 +5833,11 @@
       "expert": "24",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "MIMI",
+    "composer": "MIMI",
+    "sekai_singer": "日野森雫,鏡音レン,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "トワイライトライト": {
     "wiki_id": "d61d750014",
@@ -4389,7 +5849,11 @@
       "expert": "22",
       "master": "26",
       "append": "27"
-    }
+    },
+    "lyricist": "とあ",
+    "composer": "とあ",
+    "sekai_singer": "宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希,初音ミク",
+    "detail_fetched": true
   },
   "春嵐": {
     "wiki_id": "02be3396f4",
@@ -4401,7 +5865,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "john",
+    "composer": "john",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ARQETYPE": {
     "wiki_id": "ARQETYPE",
@@ -4413,7 +5881,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Sohbana",
+    "composer": "Sohbana",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "On&On": {
     "wiki_id": "9e54d46e55",
@@ -4425,7 +5897,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "めろくる",
+    "composer": "めろくる",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "キュートなカノジョ": {
     "wiki_id": "3b593c760c",
@@ -4437,7 +5913,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "巡音ルカ,宵崎奏,東雲絵名",
+    "detail_fetched": true
   },
   "フィラメントフィーバー": {
     "wiki_id": "ff9d7752b3",
@@ -4449,7 +5929,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "栗山夕璃",
+    "composer": "栗山夕璃",
+    "sekai_singer": "天馬司,MEIKO,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "さよならプリンセス": {
     "wiki_id": "5680c2632c",
@@ -4461,7 +5945,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Kai",
+    "composer": "Kai",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "Beyond the way": {
     "wiki_id": "9f94b2148c",
@@ -4473,7 +5961,11 @@
       "expert": "25",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "Giga",
+    "sekai_singer": "小豆沢こはね,白石杏,東雲彰人,青柳冬弥,初音ミク",
+    "detail_fetched": true
   },
   "ショウタイム×オーディエンス": {
     "wiki_id": "d635f3aea4",
@@ -4485,7 +5977,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "瀬名航",
+    "composer": "瀬名航",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "難聴系男子が倒せない": {
     "wiki_id": "2e3b12b031",
@@ -4497,7 +5993,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ラマーズＰ",
+    "composer": "ラマーズＰ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "オーバーコード": {
     "wiki_id": "1bd42ed5cb",
@@ -4509,7 +6009,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "いえぬ",
+    "composer": "いえぬ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "スロウダウナー": {
     "wiki_id": "586c719f64",
@@ -4521,7 +6025,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ろくろ",
+    "composer": "ろくろ",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "初めての恋が終わる時": {
     "wiki_id": "f7bd5a3278",
@@ -4533,7 +6041,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ryo",
+    "composer": "ryo",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "25時の情熱": {
     "wiki_id": "db36fbf93d",
@@ -4545,7 +6057,11 @@
       "expert": "22",
       "master": "25",
       "append": "-"
-    }
+    },
+    "lyricist": "カンザキイオリ",
+    "composer": "カンザキイオリ",
+    "sekai_singer": "宵崎奏,KAITO,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "金木犀": {
     "wiki_id": "ef3219c54e",
@@ -4557,7 +6073,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "くじら",
+    "composer": "くじら",
+    "sekai_singer": "鏡音レン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "一千光年": {
     "wiki_id": "017b276ba6",
@@ -4569,7 +6089,11 @@
       "expert": "25",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "強風オールバック": {
     "wiki_id": "d7794a0c2d",
@@ -4581,7 +6105,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆこぴ",
+    "composer": "ゆこぴ",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ヒアソビ": {
     "wiki_id": "6fcc5a9b56",
@@ -4593,7 +6121,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "かめりあ",
+    "composer": "かめりあ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "エンヴィーベイビー": {
     "wiki_id": "89957a1072",
@@ -4605,7 +6137,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "鏡音リン,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "『んっあっあっ。』": {
     "wiki_id": "eb8cbfe481",
@@ -4617,7 +6153,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "SLAVE.V-V-R",
+    "composer": "SLAVE.V-V-R",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "くうになる": {
     "wiki_id": "26de9da6ab",
@@ -4629,7 +6169,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "MIMI",
+    "composer": "MIMI",
+    "sekai_singer": "MEIKO,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ハイドアンド・シーク": {
     "wiki_id": "de3e795b51",
@@ -4641,7 +6185,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "19 -iku-",
+    "composer": "19 -iku-",
+    "sekai_singer": "初音ミク,星乃一歌,望月穂波",
+    "detail_fetched": true
   },
   "folern": {
     "wiki_id": "folern",
@@ -4653,7 +6201,11 @@
       "expert": "30",
       "master": "32",
       "append": "35"
-    }
+    },
+    "lyricist": "-",
+    "composer": "ぬゆり",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "MOTTO!!!": {
     "wiki_id": "0ab3d14d40",
@@ -4665,7 +6217,11 @@
       "expert": "23",
       "master": "27",
       "append": "29"
-    }
+    },
+    "lyricist": "Junky",
+    "composer": "Junky",
+    "sekai_singer": "花里みのり,桐谷遥,桃井愛莉,日野森雫,初音ミク",
+    "detail_fetched": true
   },
   "Sage": {
     "wiki_id": "Sage",
@@ -4677,7 +6233,11 @@
       "expert": "29",
       "master": "32",
       "append": "36"
-    }
+    },
+    "lyricist": "-",
+    "composer": "かめりあ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "心泥夢(syndrome)": {
     "wiki_id": "5d98a811dd",
@@ -4689,7 +6249,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "宮守文学",
+    "composer": "宮守文学",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "サイバーパンクデッドボーイ": {
     "wiki_id": "a0497f6f12",
@@ -4701,7 +6265,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "マイキP",
+    "composer": "マイキP",
+    "sekai_singer": "神代類,鏡音リン,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "MarbleBlue.": {
     "wiki_id": "MarbleBlue.",
@@ -4713,7 +6281,11 @@
       "expert": "30",
       "master": "33",
       "append": "37"
-    }
+    },
+    "lyricist": "-",
+    "composer": "みそみぃる",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "マーシャル・マキシマイザー": {
     "wiki_id": "0f4af5bc89",
@@ -4725,7 +6297,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "柊マグネタイト",
+    "composer": "柊マグネタイト",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "え？あぁ、そう。": {
     "wiki_id": "97648fd453",
@@ -4737,7 +6313,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "蝶々P",
+    "composer": "蝶々P",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "リレイアウター": {
     "wiki_id": "69b707d0b0",
@@ -4749,7 +6329,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "稲葉曇",
+    "composer": "稲葉曇",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "おどロボ": {
     "wiki_id": "3c37f54269",
@@ -4761,7 +6345,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "海茶・多良レイト",
+    "composer": "海茶・多良レイト",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "世界を照らすテトラッド": {
     "wiki_id": "3d14e4d063",
@@ -4773,7 +6361,11 @@
       "expert": "27",
       "master": "31",
       "append": "30"
-    }
+    },
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "sekai_singer": "天馬司,鳳えむ,草薙寧々,神代類,初音ミク",
+    "detail_fetched": true
   },
   "ハッピーチートデー": {
     "wiki_id": "f7caf3aab5",
@@ -4785,7 +6377,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "れるりり",
+    "composer": "れるりり",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "十六歳の心臓": {
     "wiki_id": "5359a17c73",
@@ -4797,7 +6393,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "TakoyakiKZY",
+    "composer": "TakoyakiKZY",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "limbo": {
     "wiki_id": "limbo",
@@ -4809,7 +6409,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "椎乃味醂",
+    "composer": "椎乃味醂",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "レグルス": {
     "wiki_id": "124bb5cbbb",
@@ -4821,7 +6425,11 @@
       "expert": "26",
       "master": "29",
       "append": "30"
-    }
+    },
+    "lyricist": "ゆうゆ",
+    "composer": "ゆうゆ",
+    "sekai_singer": "望月穂波,KAITO,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
   },
   "古書屋敷殺人事件": {
     "wiki_id": "222bf76912",
@@ -4833,7 +6441,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "てにをは",
+    "composer": "てにをは",
+    "sekai_singer": "KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "JUMPIN’ OVER !": {
     "wiki_id": "abc0eba204",
@@ -4845,7 +6457,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "sekai_singer": "花里みのり,初音ミク,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ラグトレイン": {
     "wiki_id": "e0ca9572f6",
@@ -4857,7 +6473,11 @@
       "expert": "23",
       "master": "27",
       "append": "25"
-    }
+    },
+    "lyricist": "稲葉曇",
+    "composer": "稲葉曇",
+    "sekai_singer": "MEIKO,宵崎奏,暁山瑞希",
+    "detail_fetched": true
   },
   "インテグラル": {
     "wiki_id": "39c88dbf84",
@@ -4869,7 +6489,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": "星乃一歌,天馬咲希,望月穂波,日野森志歩,初音ミク",
+    "detail_fetched": true
   },
   "ド屑": {
     "wiki_id": "95d02d73f0",
@@ -4881,7 +6505,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "なきそ",
+    "composer": "なきそ",
+    "sekai_singer": "初音ミク,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "明鏡止水": {
     "wiki_id": "c503de4c80",
@@ -4893,7 +6521,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "旅路",
+    "composer": "旅路",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ハジメテノオト": {
     "wiki_id": "a0de1c8229",
@@ -4905,7 +6537,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "malo",
+    "composer": "malo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "flos": {
     "wiki_id": "flos",
@@ -4917,7 +6553,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "R Sound Design",
+    "composer": "R Sound Design",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "アコトバ": {
     "wiki_id": "8a33aa9d6f",
@@ -4929,7 +6569,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "原口沙輔",
+    "composer": "原口沙輔",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "幽光、1/fのゆらめき": {
     "wiki_id": "bc9f874db0",
@@ -4941,7 +6585,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "卯花ロク",
+    "composer": "卯花ロク",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "嬢王": {
     "wiki_id": "42fc65ee68",
@@ -4953,7 +6601,11 @@
       "expert": "31",
       "master": "33",
       "append": "36"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "八王子P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "1000年生きてる": {
     "wiki_id": "68b8260d62",
@@ -4965,7 +6617,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": "巡音ルカ,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "幾望の月": {
     "wiki_id": "b41e3664eb",
@@ -4977,7 +6633,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "なきゃむりゃ",
+    "composer": "なきゃむりゃ",
+    "sekai_singer": "MEIKO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "blender": {
     "wiki_id": "blender",
@@ -4989,7 +6649,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "こめだわら×R Sound Design",
+    "composer": "こめだわら×R Sound Design",
+    "sekai_singer": "青柳冬弥,MEIKO,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "えれくとりっく・えんじぇぅ": {
     "wiki_id": "f2fef56536",
@@ -5001,7 +6665,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ヤスオ",
+    "composer": "ヤスオ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "レッドランドマーカー": {
     "wiki_id": "09b341d009",
@@ -5013,7 +6681,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Twinfield",
+    "composer": "Twinfield",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "あいのうた": {
     "wiki_id": "7059137dee",
@@ -5025,7 +6697,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "大漠波新",
+    "composer": "大漠波新",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ガーネットの涙": {
     "wiki_id": "d85c8c1b89",
@@ -5037,7 +6713,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "だんだん早くなる": {
     "wiki_id": "6b11a0723e",
@@ -5049,7 +6729,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "私は雨": {
     "wiki_id": "d6d9d6d1c3",
@@ -5061,7 +6745,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "稲葉曇",
+    "composer": "稲葉曇",
+    "sekai_singer": "東雲絵名,鏡音レン,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "酔いどれ知らず": {
     "wiki_id": "a23842bcf0",
@@ -5073,7 +6761,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "おぎゃりないざー": {
     "wiki_id": "779ff2fbb1",
@@ -5085,7 +6777,11 @@
       "expert": "31",
       "master": "34",
       "append": "37"
-    }
+    },
+    "lyricist": "Ponchi♪",
+    "composer": "Ponchi♪",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "シルバーコレクター": {
     "wiki_id": "3f7ea1406d",
@@ -5097,7 +6793,11 @@
       "expert": "26",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "Shu",
+    "composer": "Shu",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "すれすれ": {
     "wiki_id": "25f4d48918",
@@ -5109,7 +6809,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "すこっぷ",
+    "composer": "すこっぷ",
+    "sekai_singer": "天馬咲希,MEIKO,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "烈火": {
     "wiki_id": "92974e2f87",
@@ -5121,7 +6825,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "niki",
+    "composer": "niki",
+    "sekai_singer": "白石杏,巡音ルカ,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "超最終鬼畜妹フランドール・Ｓ": {
     "wiki_id": "0ef9ab95e2",
@@ -5133,7 +6841,11 @@
       "expert": "28",
       "master": "32",
       "append": "35"
-    }
+    },
+    "lyricist": "-",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Bad Apple!! feat.SEKAI": {
     "wiki_id": "6d70551a28",
@@ -5145,7 +6857,11 @@
       "expert": "24",
       "master": "29",
       "append": "31"
-    }
+    },
+    "lyricist": "Haruka",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Help me, ERINNNNNN!!": {
     "wiki_id": "7768e4556a",
@@ -5157,7 +6873,11 @@
       "expert": "26",
       "master": "30",
       "append": "32"
-    }
+    },
+    "lyricist": "ビートまりお",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "おちゃめ機能": {
     "wiki_id": "5f06f205cb",
@@ -5169,7 +6889,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ゴジマジＰ",
+    "composer": "ゴジマジＰ",
+    "sekai_singer": "鏡音レン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ときめきジェットコースター": {
     "wiki_id": "9e5c9e4d14",
@@ -5181,7 +6905,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "picco",
+    "composer": "picco",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "東京テディベア": {
     "wiki_id": "040f21de24",
@@ -5193,7 +6921,11 @@
       "expert": "28",
       "master": "31",
       "append": "34"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "熱異常": {
     "wiki_id": "05d3129de1",
@@ -5205,7 +6937,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": "KAITO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "I know 愛脳.": {
     "wiki_id": "c8395ece4c",
@@ -5217,7 +6953,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "吉田夜世",
+    "composer": "吉田夜世",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "だめにんげんだ!": {
     "wiki_id": "3c2f324ae7",
@@ -5229,7 +6969,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "薄塩指数",
+    "composer": "薄塩指数",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "オペラ！スペースオペラ！": {
     "wiki_id": "866cbf4927",
@@ -5241,7 +6985,11 @@
       "expert": "26",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "鳳えむ,鏡音レン,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "抜錨": {
     "wiki_id": "feb2ce42ac",
@@ -5253,7 +7001,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ナナホシ管弦楽団",
+    "composer": "岩見 陸",
+    "sekai_singer": "巡音ルカ,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "きょうもハレバレ": {
     "wiki_id": "92c84c7320",
@@ -5265,7 +7017,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ふわりP",
+    "composer": "ふわりP",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Supernova": {
     "wiki_id": "Supernova",
@@ -5277,7 +7033,11 @@
       "expert": "24",
       "master": "28",
       "append": "27"
-    }
+    },
+    "lyricist": "春野",
+    "composer": "雄之助、春野",
+    "sekai_singer": "桐谷遥,KAITO,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "エンパープル": {
     "wiki_id": "eaaab4f488",
@@ -5289,7 +7049,11 @@
       "expert": "24",
       "master": "29",
       "append": "30"
-    }
+    },
+    "lyricist": "はるまきごはん",
+    "composer": "はるまきごはん",
+    "sekai_singer": "朝比奈まふゆ,鏡音リン,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "合成するミライ": {
     "wiki_id": "deaeb096d7",
@@ -5301,7 +7065,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "阿修",
+    "composer": "阿修",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "LEADER": {
     "wiki_id": "LEADER",
@@ -5313,7 +7081,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ポッピンキャンディ☆フィーバー！": {
     "wiki_id": "b46821ca50",
@@ -5325,7 +7097,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "キノシタ",
+    "composer": "キノシタ",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ULTRA C": {
     "wiki_id": "ULTRA C",
@@ -5337,7 +7113,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Reol",
+    "composer": "Giga＆TeddyLoid",
+    "sekai_singer": "小豆沢こはね,初音ミク,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ダイジョブですか？": {
     "wiki_id": "b75f7732ee",
@@ -5349,7 +7129,11 @@
       "expert": "31",
       "master": "34",
       "append": "37"
-    }
+    },
+    "lyricist": "cosMo@暴走P",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "成敗いたAAAAAす！": {
     "wiki_id": "f3506a2054",
@@ -5361,7 +7145,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "じーざす",
+    "composer": "じーざす",
+    "sekai_singer": "天馬司,巡音ルカ,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "林檎売りの泡沫少女": {
     "wiki_id": "d033d69fa2",
@@ -5373,7 +7161,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "yukkedoluce",
+    "composer": "yukkedoluce",
+    "sekai_singer": "鏡音レン,星乃一歌,天馬咲希",
+    "detail_fetched": true
   },
   "メリーゴーラウンド": {
     "wiki_id": "28a410dd6c",
@@ -5385,7 +7177,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "加賀（ネギシャワーＰ）",
+    "composer": "加賀（ネギシャワーＰ）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "マインドブランド": {
     "wiki_id": "f3291d8e62",
@@ -5397,7 +7193,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "イガク": {
     "wiki_id": "7c4acb1c59",
@@ -5409,7 +7209,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "原口沙輔",
+    "composer": "原口沙輔",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "あちこちデートさん": {
     "wiki_id": "5fbb502b49",
@@ -5421,7 +7225,11 @@
       "expert": "22",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "駄菓子O型",
+    "composer": "駄菓子O型",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "キラー": {
     "wiki_id": "4d37b258e3",
@@ -5433,7 +7241,11 @@
       "expert": "27",
       "master": "31",
       "append": "33"
-    }
+    },
+    "lyricist": "夏代孝明",
+    "composer": "夏代孝明",
+    "sekai_singer": "桃井愛莉,鏡音リン,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "WAVE": {
     "wiki_id": "WAVE",
@@ -5445,7 +7257,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "niki",
+    "composer": "niki",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "彗星ノ銀河": {
     "wiki_id": "4347900940",
@@ -5457,7 +7273,11 @@
       "expert": "21",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "マツシタレオ",
+    "composer": "マツシタレオ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "夏夜ノ唄": {
     "wiki_id": "65ea019400",
@@ -5469,7 +7289,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "平田義久",
+    "composer": "平田義久",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "QUEEN": {
     "wiki_id": "QUEEN",
@@ -5481,7 +7305,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "MEIKO,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "アンテナ39": {
     "wiki_id": "5e15a52c97",
@@ -5493,7 +7321,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "柊マグネタイト",
+    "composer": "柊マグネタイト",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ちがう!!!": {
     "wiki_id": "59af5bd71f",
@@ -5505,7 +7337,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "カルロス袴田(サイゼP)",
+    "composer": "カルロス袴田(サイゼP)",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "スーパーヒーロー": {
     "wiki_id": "4d1e665bb9",
@@ -5517,7 +7353,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Guiano",
+    "composer": "Guiano",
+    "sekai_singer": "KAITO,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "カルチャ": {
     "wiki_id": "a5ca12ae59",
@@ -5529,7 +7369,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ツミキ",
+    "composer": "ツミキ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "レイヤーノート": {
     "wiki_id": "f9c493d25a",
@@ -5541,7 +7385,11 @@
       "expert": "21",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "吉田ヨシユキ",
+    "composer": "吉田ヨシユキ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "それでも僕らは歌うことをやめない": {
     "wiki_id": "d8e500e15a",
@@ -5553,7 +7401,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "葵木ゴウ",
+    "composer": "葵木ゴウ",
+    "sekai_singer": "星乃一歌,鏡音レン,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "Unpoison": {
     "wiki_id": "Unpoison",
@@ -5565,7 +7417,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "袖野あらわ",
+    "composer": "袖野あらわ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "熱風": {
     "wiki_id": "6a5f42fe69",
@@ -5577,7 +7433,11 @@
       "expert": "23",
       "master": "29",
       "append": "31"
-    }
+    },
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "モザイクロール (Reloaded)": {
     "wiki_id": "213fa721fc",
@@ -5589,7 +7449,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "KAITO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "メズマライザー": {
     "wiki_id": "5dffee8533",
@@ -5601,7 +7465,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "サツキ",
+    "composer": "サツキ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "如月アテンション": {
     "wiki_id": "e5b06aa6a0",
@@ -5613,7 +7481,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "巡音ルカ,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "メインキャラクター": {
     "wiki_id": "609a19fb66",
@@ -5625,7 +7497,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "コールボーイ": {
     "wiki_id": "9aef4324bd",
@@ -5637,7 +7513,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "初音ミク,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "きみとぼくのレゾナンス": {
     "wiki_id": "8e84173cd5",
@@ -5649,7 +7529,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "斜め上P",
+    "composer": "斜め上P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "転生林檎": {
     "wiki_id": "fd70dd2755",
@@ -5661,7 +7545,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Blackjack": {
     "wiki_id": "Blackjack",
@@ -5673,7 +7561,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ゆちゃP",
+    "composer": "ゆちゃP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Shadow Shadow": {
     "wiki_id": "1631ce1ea5",
@@ -5685,7 +7577,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Azari",
+    "composer": "Azari",
+    "sekai_singer": "鏡音レン,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "生命性シンドロウム": {
     "wiki_id": "026ea757a2",
@@ -5697,7 +7593,11 @@
       "expert": "29",
       "master": "33",
       "append": "36"
-    }
+    },
+    "lyricist": "かめりあ",
+    "composer": "かめりあ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "化けの花": {
     "wiki_id": "757db438bb",
@@ -5709,7 +7609,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "なきそ",
+    "composer": "なきそ",
+    "sekai_singer": "暁山瑞希,KAITO,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "キャットフード": {
     "wiki_id": "6656be1e7f",
@@ -5721,7 +7625,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "メモリア": {
     "wiki_id": "3da7c13cd3",
@@ -5733,7 +7641,11 @@
       "expert": "31",
       "master": "34",
       "append": "37"
-    }
+    },
+    "lyricist": "Aira",
+    "composer": "Aira",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "脳天": {
     "wiki_id": "04578e6cf5",
@@ -5745,7 +7657,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ムラタシユウ",
+    "composer": "ムラタシユウ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フューエル": {
     "wiki_id": "a01ed89dfc",
@@ -5757,7 +7673,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "鬱P",
+    "composer": "鬱P",
+    "sekai_singer": "東雲彰人,KAITO,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "その音が鳴るなら": {
     "wiki_id": "0abdd30d29",
@@ -5769,7 +7689,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "石風呂",
+    "composer": "石風呂",
+    "sekai_singer": "天馬咲希,巡音ルカ,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "妄想アスパルテーム": {
     "wiki_id": "66fe64de59",
@@ -5781,7 +7705,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "picco",
+    "composer": "picco",
+    "sekai_singer": "MEIKO,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "キャットラビング": {
     "wiki_id": "e47778f004",
@@ -5793,7 +7721,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "sekai_singer": "巡音ルカ,宵崎奏,東雲絵名",
+    "detail_fetched": true
   },
   "ぼくのかみさま": {
     "wiki_id": "015cbe3c5a",
@@ -5805,7 +7737,11 @@
       "expert": "24",
       "master": "28",
       "append": "27"
-    }
+    },
+    "lyricist": "羽生まゐご",
+    "composer": "羽生まゐご",
+    "sekai_singer": "草薙寧々,鏡音レン,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "パリィ": {
     "wiki_id": "1c6335da7d",
@@ -5817,7 +7753,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "宮守文学",
+    "composer": "宮守文学",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "みかぼし": {
     "wiki_id": "80309af939",
@@ -5829,7 +7769,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "3106。",
+    "composer": "3106。",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "余花にみとれて": {
     "wiki_id": "7438645dd2",
@@ -5841,7 +7785,11 @@
       "expert": "21",
       "master": "25",
       "append": "-"
-    }
+    },
+    "lyricist": "keeno",
+    "composer": "keeno",
+    "sekai_singer": "東雲絵名,MEIKO,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "シークレット・シーカー": {
     "wiki_id": "3eb87d1062",
@@ -5853,7 +7801,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ヤマギシコージ",
+    "composer": "ヤマギシコージ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "はしる! とおく! とどく!": {
     "wiki_id": "38e603f8ac",
@@ -5865,7 +7817,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "薄塩指数",
+    "composer": "薄塩指数",
+    "sekai_singer": "日野森雫,初音ミク,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "花溺れ": {
     "wiki_id": "7a6ca28d74",
@@ -5877,7 +7833,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "shikisai",
+    "composer": "shikisai",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "はじまりの未来": {
     "wiki_id": "19f8c83d87",
@@ -5889,7 +7849,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP × sasakure.UK",
+    "composer": "40mP × sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "混沌ブギ": {
     "wiki_id": "e57a3cb60b",
@@ -5901,7 +7865,11 @@
       "expert": "25",
       "master": "30",
       "append": "33"
-    }
+    },
+    "lyricist": "jon-YAKITORY",
+    "composer": "jon-YAKITORY",
+    "sekai_singer": "KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "アンヘル": {
     "wiki_id": "3ac99d3d7b",
@@ -5913,7 +7881,11 @@
       "expert": "27",
       "master": "31",
       "append": "33"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "プロトディスコ": {
     "wiki_id": "ec87f85ce2",
@@ -5925,7 +7897,11 @@
       "expert": "26",
       "master": "32",
       "append": "34"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "CH4NGE": {
     "wiki_id": "CH4NGE",
@@ -5937,7 +7913,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "q*Left",
+    "composer": "Giga",
+    "sekai_singer": "鏡音リン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "snooze": {
     "wiki_id": "snooze",
@@ -5949,7 +7929,11 @@
       "expert": "26",
       "master": "32",
       "append": "33"
-    }
+    },
+    "lyricist": "wotaku",
+    "composer": "wotaku",
+    "sekai_singer": "鏡音レン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ワールド・ランプシェード [reunion]": {
     "wiki_id": "aee3653f1c",
@@ -5961,7 +7945,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "buzzG",
+    "composer": "buzzG",
+    "sekai_singer": "KAITO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "のだ": {
     "wiki_id": "264c75b065",
@@ -5973,7 +7961,11 @@
       "expert": "25",
       "master": "30",
       "append": "33"
-    }
+    },
+    "lyricist": "大漠波新",
+    "composer": "大漠波新",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "サイハテ": {
     "wiki_id": "417f33d5af",
@@ -5985,7 +7977,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "小林オニキス",
+    "composer": "小林オニキス",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Henceforth": {
     "wiki_id": "Henceforth",
@@ -5997,7 +7993,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "厨病激発ボーイ": {
     "wiki_id": "f92019ae4b",
@@ -6009,7 +8009,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "れるりり",
+    "composer": "れるりり",
+    "sekai_singer": "鏡音レン,天馬司,神代類",
+    "detail_fetched": true
   },
   "ヘイヴン": {
     "wiki_id": "18848130aa",
@@ -6021,7 +8025,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "煮ル果実",
+    "composer": "煮ル果実",
+    "sekai_singer": "青柳冬弥,鏡音レン,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "夏に透明": {
     "wiki_id": "5b5092ad0e",
@@ -6033,7 +8041,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Twinfield",
+    "composer": "Twinfield",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "パンダヒーロー": {
     "wiki_id": "ab51d56d55",
@@ -6045,7 +8057,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "結ンデ開イテ羅刹ト骸": {
     "wiki_id": "450241c642",
@@ -6057,7 +8073,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ファイアダンス": {
     "wiki_id": "83229ff28c",
@@ -6069,7 +8089,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "そこに在る、光。": {
     "wiki_id": "567a4f12b4",
@@ -6081,7 +8105,11 @@
       "expert": "22",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Worlders": {
     "wiki_id": "Worlders",
@@ -6093,7 +8121,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "ALLユニット",
+    "detail_fetched": true
   },
   "FUN!!": {
     "wiki_id": "FUN!!",
@@ -6105,7 +8137,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "終焉逃避行": {
     "wiki_id": "3c4a3123da",
@@ -6117,7 +8153,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "柊マグネタイト",
+    "composer": "柊マグネタイト",
+    "sekai_singer": "巡音ルカ,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "スマイル*シンフォニー": {
     "wiki_id": "e4f9f34ba6",
@@ -6129,7 +8169,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "SToRY": {
     "wiki_id": "SToRY",
@@ -6141,7 +8185,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": "星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "クリスタルスノウ": {
     "wiki_id": "da7e29cb41",
@@ -6153,7 +8201,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ハローセカイ": {
     "wiki_id": "6bc7b77393",
@@ -6165,7 +8217,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アンチユー": {
     "wiki_id": "9e51e9b732",
@@ -6177,7 +8233,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Chinozo",
+    "composer": "Chinozo",
+    "sekai_singer": "桐谷遥,巡音ルカ,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ルルブ": {
     "wiki_id": "dcf775abd4",
@@ -6189,7 +8249,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "藤原ハガネ",
+    "composer": "藤原ハガネ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "フュージョン": {
     "wiki_id": "44c7f90961",
@@ -6201,7 +8265,11 @@
       "expert": "27",
       "master": "30",
       "append": "34"
-    }
+    },
+    "lyricist": "DECO*27 (OTOIRO)",
+    "composer": "DECO*27 (OTOIRO)",
+    "sekai_singer": "DI:Verse (東雲 彰人,青柳 冬弥,天馬 司,神代 類,漣 ジュン,瀬名 泉,守沢 千秋,逆先 夏目)",
+    "detail_fetched": true
   },
   "ルーマー": {
     "wiki_id": "a508712a44",
@@ -6213,7 +8281,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ポリスピカデリー",
+    "composer": "ポリスピカデリー",
+    "sekai_singer": "KAITO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Fire◎Flower (Rerec)": {
     "wiki_id": "36bb0c54c0",
@@ -6225,7 +8297,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": "鏡音レン,KAITO,東雲彰人,青柳冬弥,天馬司,神代類",
+    "detail_fetched": true
   },
   "三日月ステップ": {
     "wiki_id": "f201dc2887",
@@ -6237,7 +8313,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏",
+    "detail_fetched": true
   },
   "オーバーライド": {
     "wiki_id": "e6cdecef16",
@@ -6249,7 +8329,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "吉田夜世",
+    "composer": "吉田夜世",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "Packaged": {
     "wiki_id": "Packaged",
@@ -6261,7 +8345,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "kz",
+    "composer": "kz",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ライアーダンサー": {
     "wiki_id": "8f0e518206",
@@ -6273,7 +8361,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "マサラダ",
+    "composer": "マサラダ",
+    "sekai_singer": "KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "プラネットヒーロー": {
     "wiki_id": "d5b0afe3e9",
@@ -6285,7 +8377,11 @@
       "expert": "28",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "いるかアイス",
+    "composer": "打打だいず",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "透明エレジー": {
     "wiki_id": "440995b73c",
@@ -6297,7 +8393,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "n-buna",
+    "composer": "n-buna",
+    "sekai_singer": "鏡音レン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "D/N/A": {
     "wiki_id": "D/N/A",
@@ -6309,7 +8409,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Azari",
+    "composer": "Azari",
+    "sekai_singer": "宵崎奏,鏡音リン,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ドレミファロンド": {
     "wiki_id": "2e40c08804",
@@ -6321,7 +8425,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "巡音ルカ,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "Sympathy": {
     "wiki_id": "Sympathy",
@@ -6333,7 +8441,11 @@
       "expert": "24",
       "master": "28",
       "append": "29"
-    }
+    },
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "sekai_singer": "日野森志歩,初音ミク,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "Call!!": {
     "wiki_id": "Call!!",
@@ -6345,7 +8457,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "沫尾",
+    "composer": "沫尾",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "吉原ラメント 再来盤": {
     "wiki_id": "595ec40084",
@@ -6357,7 +8473,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "亜沙",
+    "composer": "亜沙",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "マンハッタン": {
     "wiki_id": "e0d578769d",
@@ -6369,7 +8489,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "wotaku",
+    "composer": "wotaku",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "クイーンオブハート": {
     "wiki_id": "1306aeb23d",
@@ -6381,7 +8505,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "奏音69",
+    "composer": "奏音69",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "バレリーコ": {
     "wiki_id": "ef25b82544",
@@ -6393,7 +8521,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "花に風": {
     "wiki_id": "26dccfec5b",
@@ -6405,7 +8537,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "スーサイドパレヱド": {
     "wiki_id": "37cd748160",
@@ -6417,7 +8553,11 @@
       "expert": "26",
       "master": "31",
       "append": "32"
-    }
+    },
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "sekai_singer": "KAITO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "星宙メランコリア": {
     "wiki_id": "c212dda834",
@@ -6429,7 +8569,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "yuichi NAGAO",
+    "composer": "yuichi NAGAO",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "回る空うさぎ": {
     "wiki_id": "6dd95a5517",
@@ -6441,7 +8585,11 @@
       "expert": "21",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "巡音ルカ,花里みのり,日野森雫",
+    "detail_fetched": true
   },
   "オールセーブチャレンジ": {
     "wiki_id": "3172a54fd6",
@@ -6453,7 +8601,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "sekai_singer": "鳳えむ,KAITO,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "チルノのパーフェクトさんすう学園": {
     "wiki_id": "eff03b4c05",
@@ -6465,7 +8617,11 @@
       "expert": "26",
       "master": "31",
       "append": "33"
-    }
+    },
+    "lyricist": "ビートまりお×まろん、夕野ヨシミ (IOSYS)",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "とうほう☆ワンダーランド": {
     "wiki_id": "e3bbf22592",
@@ -6477,7 +8633,11 @@
       "expert": "26",
       "master": "31",
       "append": "32"
-    }
+    },
+    "lyricist": "ビートまりお×まろん",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": "初音ミク,KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "超ナイト・オブ・ナイツ": {
     "wiki_id": "f5c0e9693a",
@@ -6489,7 +8649,11 @@
       "expert": "27",
       "master": "33",
       "append": "36"
-    }
+    },
+    "lyricist": "-",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "虚無さん": {
     "wiki_id": "d4089b2340",
@@ -6501,7 +8665,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "¿?shimon",
+    "composer": "¿?shimon",
+    "sekai_singer": "朝比奈まふゆ,鏡音レン,宵崎奏,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "紗痲": {
     "wiki_id": "4c2f620d7e",
@@ -6513,7 +8681,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "煮ル果実",
+    "composer": "煮ル果実",
+    "sekai_singer": "鏡音レン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "失敗作少女": {
     "wiki_id": "0762f1a596",
@@ -6525,7 +8697,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": "MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "フィッシュアンドTips": {
     "wiki_id": "c4fb00296a",
@@ -6537,7 +8713,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ど〜ぱみん",
+    "composer": "ど〜ぱみん",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Connecting": {
     "wiki_id": "Connecting",
@@ -6549,7 +8729,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "エンヴィキャットウォーク": {
     "wiki_id": "fb098580fa",
@@ -6561,7 +8745,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "トーマ",
+    "composer": "トーマ",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "イレヴンス": {
     "wiki_id": "f42c3f3cee",
@@ -6573,7 +8761,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "ポリスピカデリー",
+    "composer": "ポリスピカデリー",
+    "sekai_singer": "桃井愛莉,MEIKO,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
   },
   "光線歌": {
     "wiki_id": "50883d0b48",
@@ -6585,7 +8777,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Guiano",
+    "composer": "Guiano",
+    "sekai_singer": "小豆沢こはね,初音ミク,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "テトリス": {
     "wiki_id": "c41eb18173",
@@ -6597,7 +8793,11 @@
       "expert": "25",
       "master": "29",
       "append": "29"
-    }
+    },
+    "lyricist": "柊マグネタイト",
+    "composer": "ロシア民謡",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "このふざけた素晴らしき世界は、僕の為にある": {
     "wiki_id": "c4dfe318dd",
@@ -6609,7 +8809,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "n.k",
+    "composer": "n.k",
+    "sekai_singer": "MEIKO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "モニタリング": {
     "wiki_id": "3121f90bb8",
@@ -6621,7 +8825,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "庭師のおはなしによると": {
     "wiki_id": "7510249460",
@@ -6633,7 +8841,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "いのうつはSA",
+    "composer": "いのうつはSA",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Twilight Melody": {
     "wiki_id": "00408eccac",
@@ -6645,7 +8857,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "CircusP",
+    "composer": "CircusP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "M@GICAL☆CURE! LOVE ♥ SHOT!": {
     "wiki_id": "e661bfe2b1",
@@ -6657,7 +8873,11 @@
       "expert": "28",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Sena Kiryuin & SAWTOWNE",
+    "composer": "SAWTOWNE",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Hello Builder": {
     "wiki_id": "ad5cae237b",
@@ -6669,7 +8889,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "鬱P",
+    "composer": "鬱P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "imaginary love story": {
     "wiki_id": "a761042d28",
@@ -6681,7 +8905,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Synthion",
+    "composer": "Synthion",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Intergalactic Bound": {
     "wiki_id": "d02eaf5857",
@@ -6693,7 +8921,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "CircusP",
+    "composer": "雄之助 / CircusP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "笑えたらえーやん！": {
     "wiki_id": "b05a84e84f",
@@ -6705,7 +8937,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "inno",
+    "composer": "inno",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アイリッド": {
     "wiki_id": "f8df21cd0f",
@@ -6717,7 +8953,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "sekai_singer": "神代類,巡音ルカ,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "透明なパレット": {
     "wiki_id": "624ff3940d",
@@ -6729,7 +8969,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "sekai_singer": "望月穂波,鏡音リン,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
   },
   "エクスプロウル": {
     "wiki_id": "2de950b367",
@@ -6741,7 +8985,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "晴いちばん",
+    "composer": "晴いちばん",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ありのままのストーリーを": {
     "wiki_id": "bce4c09ab7",
@@ -6753,7 +9001,11 @@
       "expert": "24",
       "master": "28",
       "append": "28"
-    }
+    },
+    "lyricist": "のぼる↑",
+    "composer": "のぼる↑",
+    "sekai_singer": "花里みのり,KAITO,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "生きる": {
     "wiki_id": "485de9ed97",
@@ -6765,7 +9017,11 @@
       "expert": "22",
       "master": "27",
       "append": "32"
-    }
+    },
+    "lyricist": "水野あつ",
+    "composer": "水野あつ",
+    "sekai_singer": "MEIKO,宵崎奏,暁山瑞希",
+    "detail_fetched": true
   },
   "花弁、それにまつわる音声": {
     "wiki_id": "bcea09e1d5",
@@ -6777,7 +9033,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "あばらや",
+    "composer": "あばらや",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "マリオネットダンサー": {
     "wiki_id": "23416f2aae",
@@ -6789,7 +9049,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ひらぎ",
+    "composer": "ひらぎ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Life Will Change": {
     "wiki_id": "1b098ad671",
@@ -6801,7 +9065,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Benjamin Franklin",
+    "composer": "目黒将司",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アクセラレイト": {
     "wiki_id": "110d184e17",
@@ -6813,7 +9081,11 @@
       "expert": "26",
       "master": "31",
       "append": "32"
-    }
+    },
+    "lyricist": "吉田夜世",
+    "composer": "吉田夜世",
+    "sekai_singer": "白石杏,巡音ルカ,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "Surges": {
     "wiki_id": "Surges",
@@ -6825,7 +9097,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "リリィララ": {
     "wiki_id": "e7154cd7c9",
@@ -6837,7 +9113,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ざんぎ",
+    "composer": "ざんぎ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "SAN値直葬": {
     "wiki_id": "4fd9083e2a",
@@ -6849,7 +9129,11 @@
       "expert": "28",
       "master": "33",
       "append": "36"
-    }
+    },
+    "lyricist": "STEAKA",
+    "composer": "STEAKA",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "飾って": {
     "wiki_id": "19d66a30e8",
@@ -6861,7 +9145,11 @@
       "expert": "22",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "大沼パセリ",
+    "composer": "大沼パセリ",
+    "sekai_singer": "暁山瑞希,鏡音レン,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
   },
   "ラストラス": {
     "wiki_id": "76bab7b45d",
@@ -6873,7 +9161,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "サヨナラ天国また来て地獄": {
     "wiki_id": "a8603fe373",
@@ -6885,7 +9177,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "john",
+    "composer": "john",
+    "sekai_singer": "天馬司,初音ミク,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "8.32": {
     "wiki_id": "8.32",
@@ -6897,7 +9193,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "sekai_singer": "鏡音レン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "あの夏が飽和する。": {
     "wiki_id": "7af54932f7",
@@ -6909,7 +9209,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "カンザキイオリ",
+    "composer": "カンザキイオリ",
+    "sekai_singer": "鏡音リン,鏡音レン,宵崎奏,朝比奈まふゆ",
+    "detail_fetched": true
   },
   "深海シティアンダーグラウンド": {
     "wiki_id": "0b57002136",
@@ -6921,7 +9225,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "田中B",
+    "composer": "田中B",
+    "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "ブラッドドール": {
     "wiki_id": "89196f3583",
@@ -6933,7 +9241,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "フユウ",
+    "composer": "フユウ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "偽物人間40号": {
     "wiki_id": "26a3cfb901",
@@ -6945,7 +9257,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "¿?shimon",
+    "composer": "¿?shimon",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "ペンタトニック": {
     "wiki_id": "56c90bff4b",
@@ -6957,7 +9273,11 @@
       "expert": "25",
       "master": "30",
       "append": "31"
-    }
+    },
+    "lyricist": "syudou・バルーン",
+    "composer": "syudou・バルーン",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
   },
   "おどりゃんせ": {
     "wiki_id": "70edd688b6",
@@ -6969,7 +9289,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "sekai_singer": "KAITO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "少女A": {
     "wiki_id": "b62d41c2f9",
@@ -6981,7 +9305,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "東京サマーセッション": {
     "wiki_id": "272d3ead1a",
@@ -6993,7 +9321,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Gom, shito",
+    "composer": "Gom, Oji",
+    "sekai_singer": "MEIKO,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ヴィーナス": {
     "wiki_id": "ce8ca937e7",
@@ -7005,7 +9337,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ナナホシ管弦楽団",
+    "composer": "岩見 陸",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ハウトゥー世界征服": {
     "wiki_id": "18d706d7dd",
@@ -7017,7 +9353,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Neru",
+    "composer": "Neru",
+    "sekai_singer": "鏡音リン,鏡音レン,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "げんてん": {
     "wiki_id": "ba14e37525",
@@ -7029,7 +9369,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "大漠波新",
+    "composer": "大漠波新",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "人マニア": {
     "wiki_id": "e0dd01df8e",
@@ -7041,7 +9385,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "原口沙輔",
+    "composer": "原口沙輔",
+    "sekai_singer": "KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "㋰責任集合体": {
     "wiki_id": "4fa0891045",
@@ -7053,7 +9401,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "マサラダ",
+    "composer": "マサラダ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ロストアンブレラ": {
     "wiki_id": "da9901f58d",
@@ -7065,7 +9417,11 @@
       "expert": "24",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "稲葉曇",
+    "composer": "稲葉曇",
+    "sekai_singer": "鏡音リン,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "ホワイトハッピー": {
     "wiki_id": "39c84577e0",
@@ -7077,7 +9433,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ネクラチューンサーカス": {
     "wiki_id": "2b6cf97b04",
@@ -7089,7 +9449,11 @@
       "expert": "31",
       "master": "34",
       "append": "37"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "カレシのジュード": {
     "wiki_id": "f599576bbc",
@@ -7101,7 +9465,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "パメラ": {
     "wiki_id": "9bfcbf72b5",
@@ -7113,7 +9481,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "スター": {
     "wiki_id": "c1b95f5ffb",
@@ -7125,7 +9497,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "大漠波新",
+    "composer": "大漠波新",
+    "sekai_singer": "星乃一歌,MEIKO,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "あなたの空が泣くのなら": {
     "wiki_id": "593e2a8b8e",
@@ -7137,7 +9513,11 @@
       "expert": "21",
       "master": "25",
       "append": "-"
-    }
+    },
+    "lyricist": "ユジー",
+    "composer": "ユジー",
+    "sekai_singer": "日野森雫,MEIKO,花里みのり,桐谷遥,桃井愛莉",
+    "detail_fetched": true
   },
   "アベリア": {
     "wiki_id": "b1d0256fed",
@@ -7149,7 +9529,11 @@
       "expert": "24",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "Aliey:S",
+    "composer": "Aliey:S",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ルマ": {
     "wiki_id": "ed160cc58c",
@@ -7161,7 +9545,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": "鏡音レン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ロケットサイダー": {
     "wiki_id": "39bf0278af",
@@ -7173,7 +9561,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "その絵の名前は": {
     "wiki_id": "a4a170b62b",
@@ -7185,7 +9577,11 @@
       "expert": "22",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "蝶々P",
+    "composer": "蝶々P",
+    "sekai_singer": "東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
   },
   "金時計": {
     "wiki_id": "765ac2348d",
@@ -7197,7 +9593,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "TakoyakiKZY",
+    "composer": "TakoyakiKZY",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "征け": {
     "wiki_id": "300450496e",
@@ -7209,7 +9609,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "せきこみごはん",
+    "composer": "せきこみごはん",
+    "sekai_singer": "草薙寧々,鏡音リン,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
   },
   "ファイター": {
     "wiki_id": "6824c2dc3c",
@@ -7221,7 +9625,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "jon-YAKITORY",
+    "composer": "jon-YAKITORY",
+    "sekai_singer": "東雲彰人,鏡音レン,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
   },
   "IMAWANOKIWA": {
     "wiki_id": "IMAWANOKIWA",
@@ -7233,7 +9641,11 @@
       "expert": "28",
       "master": "32",
       "append": "35"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "怪獣になりたい": {
     "wiki_id": "403f6f67f5",
@@ -7245,7 +9657,11 @@
       "expert": "32",
       "master": "35",
       "append": "38"
-    }
+    },
+    "lyricist": "Sakuzyo",
+    "composer": "Sakuzyo",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "0.0000034": {
     "wiki_id": "0.0000034",
@@ -7257,7 +9673,11 @@
       "expert": "31",
       "master": "34",
       "append": "37"
-    }
+    },
+    "lyricist": "むさぬりゆ",
+    "composer": "むさぬりゆ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "花結び": {
     "wiki_id": "75dafe5362",
@@ -7269,7 +9689,11 @@
       "expert": "26",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "栗山夕璃",
+    "composer": "栗山夕璃",
+    "sekai_singer": "天馬咲希,巡音ルカ,星乃一歌,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "電光刹歌": {
     "wiki_id": "495cced1bd",
@@ -7281,7 +9705,11 @@
       "expert": "28",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "かめりあ",
+    "composer": "かめりあ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ウィーアーピコピコハンマーズ!!!!": {
     "wiki_id": "4d422ae7e4",
@@ -7293,7 +9721,11 @@
       "expert": "27",
       "master": "32",
       "append": "-"
-    }
+    },
+    "lyricist": "cosMo@暴走P",
+    "composer": "cosMo@暴走P",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ジェットブラック": {
     "wiki_id": "04f24f4890",
@@ -7305,7 +9737,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "牛肉",
+    "composer": "雄之助",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "トレジャーガーデン": {
     "wiki_id": "df632071af",
@@ -7317,7 +9753,11 @@
       "expert": "28",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "Ponchi♪",
+    "composer": "Ponchi♪",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "最愛人生ランナー": {
     "wiki_id": "d41ceddb2a",
@@ -7329,7 +9769,11 @@
       "expert": "27",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "い～やい～やい～や": {
     "wiki_id": "52a4630a1c",
@@ -7341,7 +9785,11 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "Neru & z’5",
+    "composer": "Neru & z’5",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "ドリーム・キス": {
     "wiki_id": "f2dc4b851c",
@@ -7353,7 +9801,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "吐息.",
+    "composer": "吐息.",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Polar Star": {
     "wiki_id": "Polar Star",
@@ -7365,7 +9817,11 @@
       "expert": "24",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "烏屋茶房",
+    "composer": "烏屋茶房",
+    "sekai_singer": "桐谷遥,鏡音レン,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "ぼかろころしあむ": {
     "wiki_id": "ebaed7d9ed",
@@ -7377,7 +9833,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "DIVELA",
+    "composer": "DIVELA",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ヤンキーボーイ・ヤンキーガール": {
     "wiki_id": "2b5340ea10",
@@ -7389,7 +9849,11 @@
       "expert": "25",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "トーマ",
+    "composer": "トーマ",
+    "sekai_singer": "KAITO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
   },
   "魔法少女とチョコレゐト": {
     "wiki_id": "a43ea99356",
@@ -7401,7 +9865,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
   },
   "上弦の月": {
     "wiki_id": "39df3a2c8d",
@@ -7413,7 +9881,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "黒うさ",
+    "composer": "黒うさ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "惑星ループ": {
     "wiki_id": "c45324eac7",
@@ -7425,7 +9897,11 @@
       "expert": "24",
       "master": "29",
       "append": "28"
-    }
+    },
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "sekai_singer": "鏡音レン,天馬司,神代類",
+    "detail_fetched": true
   },
   "黒塗り世界宛て書簡": {
     "wiki_id": "8e63d0634f",
@@ -7437,7 +9913,11 @@
       "expert": "26",
       "master": "31",
       "append": "-"
-    }
+    },
+    "lyricist": "フロクロ",
+    "composer": "フロクロ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "君が飛び降りるのならば": {
     "wiki_id": "a76e108ebe",
@@ -7449,7 +9929,11 @@
       "expert": "27",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Sakurai",
+    "composer": "Omoi",
+    "sekai_singer": "MEIKO,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
   },
   "鎖の少女-Re Alive-": {
     "wiki_id": "bb233fc0ce",
@@ -7461,7 +9945,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "のぼる↑",
+    "composer": "のぼる↑",
+    "sekai_singer": "初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "Internet Junk Junkie": {
     "wiki_id": "9cb92909bf",
@@ -7473,7 +9961,11 @@
       "expert": "28",
       "master": "33",
       "append": "-"
-    }
+    },
+    "lyricist": "Capchii",
+    "composer": "Capchii",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "幸福刑": {
     "wiki_id": "bb874f3eab",
@@ -7485,7 +9977,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "LonePi",
+    "composer": "LonePi",
+    "sekai_singer": "宵崎奏,MEIKO,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
   },
   "透過する温度": {
     "wiki_id": "687d243020",
@@ -7497,7 +9993,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "ササノマリイ",
+    "composer": "ササノマリイ",
+    "sekai_singer": "青柳冬弥,KAITO,小豆沢こはね,白石杏,東雲彰人",
+    "detail_fetched": true
   },
   "好き！雪！本気マジック": {
     "wiki_id": "5c7822b047",
@@ -7509,7 +10009,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "Mitchie M",
+    "composer": "Mitchie M",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Snow Fairy Story": {
     "wiki_id": "dfc58ed0ae",
@@ -7521,7 +10025,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "雪がとける前に": {
     "wiki_id": "8d577ac9e6",
@@ -7533,7 +10041,11 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "スターナイトスノウ": {
     "wiki_id": "7fdd5db79a",
@@ -7545,7 +10057,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "n-buna、Orangestar",
+    "composer": "Orangestar",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "四角い地球を丸くする": {
     "wiki_id": "169fb5ed12",
@@ -7557,7 +10073,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "TOKOTOKO",
+    "composer": "TOKOTOKO",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アイ": {
     "wiki_id": "9531ff8444",
@@ -7569,7 +10089,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ぽかぽかの星": {
     "wiki_id": "d02778abfa",
@@ -7581,7 +10105,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "はるまきごはん",
+    "composer": "はるまきごはん",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Fondant Step": {
     "wiki_id": "bc8fc89c72",
@@ -7593,7 +10121,11 @@
       "expert": "23",
       "master": "26",
       "append": "-"
-    }
+    },
+    "lyricist": "Heavenz",
+    "composer": "Heavenz",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "SHIAWASE FOR YOU!": {
     "wiki_id": "9cd2fe5ab4",
@@ -7605,7 +10137,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "アリア": {
     "wiki_id": "70df6dcd97",
@@ -7617,7 +10153,11 @@
       "expert": "23",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "なちぴ",
+    "composer": "なちぴ",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "幕を下ろそう、パレードへ": {
     "wiki_id": "8dd83ca654",
@@ -7629,7 +10169,11 @@
       "expert": "25",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "海茶",
+    "composer": "海茶、多良レイト",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "Ribbon": {
     "wiki_id": "Ribbon",
@@ -7641,7 +10185,11 @@
       "expert": "23",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": "sabio/高村風太",
+    "composer": "sabio/高村風太",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "ハオ": {
     "wiki_id": "d4893e78c3",
@@ -7653,7 +10201,11 @@
       "expert": "25",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "このまんまでいこう": {
     "wiki_id": "6c77c5b553",
@@ -7665,7 +10217,11 @@
       "expert": "25",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ハヤシケイ",
+    "composer": "ハヤシケイ",
+    "sekai_singer": "日野森志歩,巡音ルカ,星乃一歌,天馬咲希,望月穂波",
+    "detail_fetched": true
   },
   "とびだせ！わんだぴょい": {
     "wiki_id": "9f081695f2",
@@ -7677,7 +10233,11 @@
       "expert": "24",
       "master": "29",
       "append": "-"
-    }
+    },
+    "lyricist": "なみぐる",
+    "composer": "なみぐる",
+    "sekai_singer": "鳳えむ,鏡音リン,天馬司,草薙寧々,神代類",
+    "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
@@ -7689,7 +10249,11 @@
       "expert": "24",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "ぷす(fromツユ)",
+    "composer": "ぷす(fromツユ)",
+    "sekai_singer": "神代類,初音ミク,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
   },
   "Chu! Future☆Express!": {
     "wiki_id": "b2f5bb1f6a",
@@ -7701,7 +10265,11 @@
       "expert": "26",
       "master": "30",
       "append": "-"
-    }
+    },
+    "lyricist": "Sena Kiryuin & SAWTOWNE",
+    "composer": "SAWTOWNE",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "New Worlds": {
     "wiki_id": "New Worlds",
@@ -7713,6 +10281,10 @@
       "expert": "23",
       "master": "28",
       "append": "-"
-    }
+    },
+    "lyricist": "Hiroyuki Orion",
+    "composer": "Dasu, Hiroyuki Orion",
+    "sekai_singer": null,
+    "detail_fetched": true
   }
 }
