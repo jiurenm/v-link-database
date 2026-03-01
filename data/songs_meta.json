@@ -10255,6 +10255,22 @@
     "sekai_singer": "鏡音レン,KAITO,桐谷遥,日野森雫",
     "detail_fetched": true
   },
+  "About me": {
+    "wiki_id": "About me",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "6",
+      "normal": "11",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "蝶々P",
+    "composer": "蝶々P",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
