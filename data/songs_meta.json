@@ -10271,6 +10271,22 @@
     "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "ラムネ": {
+    "wiki_id": "39189f1c12",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "8",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "sekai_singer": "鏡音レン,星乃一歌,望月穂波",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
