@@ -10287,6 +10287,38 @@
     "sekai_singer": "鏡音レン,星乃一歌,望月穂波",
     "detail_fetched": true
   },
+  "Catch the Wave": {
+    "wiki_id": "bebb5a1cdf",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "kz",
+    "composer": "kz",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "カラフルファンデーション": {
+    "wiki_id": "3a745088f4",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "sekai_singer": "桃井愛莉,KAITO,花里みのり,桐谷遥,日野森雫",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
