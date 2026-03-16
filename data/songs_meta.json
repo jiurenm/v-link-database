@@ -10319,6 +10319,54 @@
     "sekai_singer": "桃井愛莉,KAITO,花里みのり,桐谷遥,日野森雫",
     "detail_fetched": true
   },
+  "バイオレンストリガー": {
+    "wiki_id": "8f41c9b909",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "八王子P",
+    "composer": "八王子P",
+    "sekai_singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
+  "ラヴィ": {
+    "wiki_id": "e43fffaf49",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "sekai_singer": "鏡音レン,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
+  },
+  "アルカリレットウセイ": {
+    "wiki_id": "e60f212a31",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
