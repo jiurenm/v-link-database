@@ -10367,6 +10367,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "天藍のアイスへヴン": {
+    "wiki_id": "ec437cd26e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "20",
+      "expert": "28",
+      "master": "33",
+      "append": "-"
+    },
+    "lyricist": "いるかアイス",
+    "composer": "いるかアイス",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
