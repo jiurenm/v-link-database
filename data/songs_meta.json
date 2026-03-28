@@ -10383,6 +10383,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "告白": {
+    "wiki_id": "e1a2e50410",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "27"
+    },
+    "lyricist": "内緒のピアス",
+    "composer": "内緒のピアス",
+    "sekai_singer": "暁山瑞希,初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
