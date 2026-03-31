@@ -10399,6 +10399,38 @@
     "sekai_singer": "暁山瑞希,初音ミク,宵崎奏,朝比奈まふゆ,東雲絵名",
     "detail_fetched": true
   },
+  "傀儡のうつつ": {
+    "wiki_id": "8cd603e807",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "30"
+    },
+    "lyricist": "獅子志司",
+    "composer": "獅子志司",
+    "sekai_singer": "神代類,MEIKO,天馬司,鳳えむ,草薙寧々",
+    "detail_fetched": true
+  },
+  "ダイダイダイダイダイキライ": {
+    "wiki_id": "b17a60e2de",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "雨良 Amala",
+    "composer": "雨良 Amala",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
