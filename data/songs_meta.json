@@ -10367,8 +10367,8 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
-  "天藍のアイスへヴン": {
-    "wiki_id": "ec437cd26e",
+  "天藍のアイスヘヴン": {
+    "wiki_id": "90ee6a6aec",
     "group": "Virtual Singer",
     "difficulty": {
       "easy": "9",
@@ -10428,6 +10428,54 @@
     },
     "lyricist": "雨良 Amala",
     "composer": "雨良 Amala",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "ワンダーラスト": {
+    "wiki_id": "bb94e4e533",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "あいしていたのに": {
+    "wiki_id": "83972f5b57",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "10",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "フロイライン＝オジョウサマ": {
+    "wiki_id": "e0c96d4be7",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "20",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "nyanyannya（大天才P）",
+    "composer": "nyanyannya（大天才P）",
     "sekai_singer": null,
     "detail_fetched": true
   },
