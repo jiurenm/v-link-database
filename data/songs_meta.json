@@ -10479,6 +10479,38 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "Nyanyanyanyanyanyanya!": {
+    "wiki_id": "01e73bea3e",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "daniwellP",
+    "composer": "daniwellP",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "T氏の話を信じるな": {
+    "wiki_id": "6311183b14",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
