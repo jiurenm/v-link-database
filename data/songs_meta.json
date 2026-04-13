@@ -10511,6 +10511,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "ヘッジホッグ": {
+    "wiki_id": "a34dca9d92",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "Noz.",
+    "composer": "Noz.",
+    "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
