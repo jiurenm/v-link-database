@@ -10527,6 +10527,22 @@
     "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
     "detail_fetched": true
   },
+  "CRASH THE PARTY": {
+    "wiki_id": "c0ea41c541",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "Sena Kiryuin, monii, KIRA",
+    "composer": "KIRA, monii, Johnny R",
+    "sekai_singer": "白石杏,巡音ルカ,小豆沢こはね,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
