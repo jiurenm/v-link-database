@@ -10543,6 +10543,18 @@
     "sekai_singer": "白石杏,巡音ルカ,小豆沢こはね,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "Who?": {
+    "wiki_id": "",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    }
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
