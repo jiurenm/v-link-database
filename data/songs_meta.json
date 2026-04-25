@@ -10553,7 +10553,27 @@
       "expert": "24",
       "master": "27",
       "append": "-"
-    }
+    },
+    "lyricist": null,
+    "composer": null,
+    "sekai_singer": null,
+    "detail_fetched": null
+  },
+  "導火愛": {
+    "wiki_id": "7663d8c156",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "Tonbi",
+    "composer": "Tonbi",
+    "sekai_singer": null,
+    "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
