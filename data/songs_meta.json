@@ -10575,6 +10575,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "世界の歩き方": {
+    "wiki_id": "6ac81a2db4",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "sekai_singer": "星乃一歌,桐谷遥,鳳えむ,宵崎奏,初音ミク",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
