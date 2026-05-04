@@ -10591,6 +10591,22 @@
     "sekai_singer": "星乃一歌,桐谷遥,鳳えむ,宵崎奏,初音ミク",
     "detail_fetched": true
   },
+  "魔法少女幸福論": {
+    "wiki_id": "b2ccd9ebd5",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "トーマ",
+    "composer": "トーマ",
+    "sekai_singer": "MEIKO,鳳えむ,草薙寧々",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
