@@ -10607,6 +10607,22 @@
     "sekai_singer": "MEIKO,鳳えむ,草薙寧々",
     "detail_fetched": true
   },
+  "星に一番近い場所": {
+    "wiki_id": "1dd8d76bfd",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "TOKOTOKO",
+    "composer": "TOKOTOKO",
+    "sekai_singer": "望月穂波,鏡音レン,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
