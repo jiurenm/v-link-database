@@ -10623,6 +10623,22 @@
     "sekai_singer": "望月穂波,鏡音レン,星乃一歌,天馬咲希,日野森志歩",
     "detail_fetched": true
   },
+  "羽歌": {
+    "wiki_id": "350297bec3",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "30"
+    },
+    "lyricist": "遼遼",
+    "composer": "遼遼",
+    "sekai_singer": "小豆沢こはね,KAITO,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
