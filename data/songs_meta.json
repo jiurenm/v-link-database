@@ -1208,7 +1208,7 @@
       "hard": "18",
       "expert": "26",
       "master": "30",
-      "append": "-"
+      "append": "31"
     },
     "lyricist": "ユジー",
     "composer": "ユジー",
@@ -10653,6 +10653,22 @@
     "lyricist": "シンP",
     "composer": "シンP",
     "sekai_singer": "KAITO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
+  "あなたしか見えないの": {
+    "wiki_id": "88da6111b9",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "sekai_singer": "巡音ルカ,花里みのり,桐谷遥,桃井愛莉,日野森雫",
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
