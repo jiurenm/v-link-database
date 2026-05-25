@@ -10671,6 +10671,38 @@
     "sekai_singer": "巡音ルカ,花里みのり,桐谷遥,桃井愛莉,日野森雫",
     "detail_fetched": true
   },
+  "比較症候群": {
+    "wiki_id": "d6d9274375",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "葵木ゴウ",
+    "composer": "葵木ゴウ",
+    "sekai_singer": "KAITO,宵崎奏,東雲絵名",
+    "detail_fetched": true
+  },
+  "ストラタでまちあわせ": {
+    "wiki_id": "b8bb71c184",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "メキメキ地蔵",
+    "composer": "メキメキ地蔵",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
