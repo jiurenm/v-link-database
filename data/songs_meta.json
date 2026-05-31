@@ -3928,7 +3928,7 @@
       "hard": "18",
       "expert": "26",
       "master": "31",
-      "append": "-"
+      "append": "32"
     },
     "lyricist": "ピノキオピー",
     "composer": "ピノキオピー",
@@ -10701,6 +10701,22 @@
     "lyricist": "メキメキ地蔵",
     "composer": "メキメキ地蔵",
     "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "ドリーマーズビート": {
+    "wiki_id": "837dcddedf",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "40mP",
+    "composer": "40mP",
+    "sekai_singer": "日野森志歩,花里みのり,白石杏,天馬司,鏡音リン,鏡音レン",
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
