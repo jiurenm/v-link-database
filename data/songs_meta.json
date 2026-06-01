@@ -10719,6 +10719,22 @@
     "sekai_singer": "日野森志歩,花里みのり,白石杏,天馬司,鏡音リン,鏡音レン",
     "detail_fetched": true
   },
+  "プロポーズ": {
+    "wiki_id": "e6e7a542d4",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "内緒のピアス",
+    "composer": "内緒のピアス",
+    "sekai_singer": "巡音ルカ,朝比奈まふゆ,暁山瑞希",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
