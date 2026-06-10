@@ -10751,6 +10751,38 @@
     "sekai_singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
     "detail_fetched": true
   },
+  "いますぐ輪廻": {
+    "wiki_id": "05ef5bed49",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "なきそ",
+    "composer": "なきそ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "初音狂奏曲第01番「彗惺」": {
+    "wiki_id": "e936c32591",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    },
+    "lyricist": "湊貴大(流星P)",
+    "composer": "よみぃ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
