@@ -10783,6 +10783,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "永遠甚だしい": {
+    "wiki_id": "df5fa432a1",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "獅子志司",
+    "composer": "獅子志司",
+    "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
