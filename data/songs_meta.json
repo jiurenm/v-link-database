@@ -10799,6 +10799,22 @@
     "sekai_singer": "巡音ルカ,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "ひかりのあつめかた": {
+    "wiki_id": "cbe3157bff",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "まかろり",
+    "composer": "まかろり",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
