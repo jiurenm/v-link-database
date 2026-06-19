@@ -10815,6 +10815,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "旅に帰る": {
+    "wiki_id": "8e86041265",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "カンザキイオリ",
+    "composer": "カンザキイオリ",
+    "sekai_singer": "望月穂波,日野森雫,小豆沢こはね,朝比奈まふゆ,巡音ルカ",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
