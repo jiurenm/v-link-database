@@ -1416,7 +1416,7 @@
       "hard": "18",
       "expert": "24",
       "master": "29",
-      "append": "-"
+      "append": "30"
     },
     "lyricist": "Eve",
     "composer": "Eve",
@@ -2783,7 +2783,7 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
-  "ドーナツホール 2024*7": {
+  "ドーナツホール 2024*8": {
     "wiki_id": "4038a83616",
     "group": "Virtual Singer",
     "difficulty": {
@@ -10829,6 +10829,54 @@
     "lyricist": "カンザキイオリ",
     "composer": "カンザキイオリ",
     "sekai_singer": "望月穂波,日野森雫,小豆沢こはね,朝比奈まふゆ,巡音ルカ",
+    "detail_fetched": true
+  },
+  "オールイン・ワン": {
+    "wiki_id": "cb533c0c07",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "和田たけあき",
+    "composer": "和田たけあき",
+    "sekai_singer": "天馬司,鏡音レン,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
+  "SAIRAI": {
+    "wiki_id": "SAIRAI",
+    "group": "Other",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "-",
+    "composer": "Shinichi Kobayashi",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "CHAOS": {
+    "wiki_id": "CHAOS",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "14",
+      "hard": "21",
+      "expert": "27",
+      "master": "33",
+      "append": "35"
+    },
+    "lyricist": "-",
+    "composer": "Æsir",
+    "sekai_singer": null,
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
