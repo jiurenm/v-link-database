@@ -2783,7 +2783,7 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
-  "ドーナツホール 2024*8": {
+  "ドーナツホール 2024*7": {
     "wiki_id": "4038a83616",
     "group": "Virtual Singer",
     "difficulty": {
@@ -10876,6 +10876,70 @@
     },
     "lyricist": "-",
     "composer": "Æsir",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "Saika": {
+    "wiki_id": "Saika",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "-",
+    "composer": "RABPIT",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "99 Glooms": {
+    "wiki_id": "99 Glooms",
+    "group": "Other",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "-",
+    "composer": "Sta",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "ANiMA": {
+    "wiki_id": "ANiMA",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "29",
+      "master": "33",
+      "append": "36"
+    },
+    "lyricist": "-",
+    "composer": "xi",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "Masquerade": {
+    "wiki_id": "Masquerade",
+    "group": "Other",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "31"
+    },
+    "lyricist": "-",
+    "composer": "M2U",
     "sekai_singer": null,
     "detail_fetched": true
   },
