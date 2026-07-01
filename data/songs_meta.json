@@ -10943,6 +10943,38 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "Gimme more!": {
+    "wiki_id": "919ad37497",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "24",
+      "master": "28",
+      "append": "29"
+    },
+    "lyricist": "めろくる",
+    "composer": "めろくる",
+    "sekai_singer": "花里みのり,初音ミク,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
+  },
+  "天才ロック": {
+    "wiki_id": "4c5d8b785f",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "カラスヤサボウ",
+    "composer": "カラスヤサボウ",
+    "sekai_singer": "鏡音リン,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
