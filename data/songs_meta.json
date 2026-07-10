@@ -6632,7 +6632,7 @@
       "hard": "19",
       "expert": "26",
       "master": "29",
-      "append": "-"
+      "append": "32"
     },
     "lyricist": "なきゃむりゃ",
     "composer": "なきゃむりゃ",
@@ -10989,6 +10989,22 @@
     "lyricist": "マキシウキョウ",
     "composer": "マキシウキョウ",
     "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "光": {
+    "wiki_id": "光",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "水野あつ",
+    "composer": "水野あつ",
+    "sekai_singer": "東雲絵名,MEIKO,宵崎奏,朝比奈まふゆ,暁山瑞希",
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
