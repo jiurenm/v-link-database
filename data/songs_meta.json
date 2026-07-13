@@ -11007,6 +11007,22 @@
     "sekai_singer": "東雲絵名,MEIKO,宵崎奏,朝比奈まふゆ,暁山瑞希",
     "detail_fetched": true
   },
+  "ハナタバ": {
+    "wiki_id": "71736f8c22",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "17",
+      "expert": "25",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "MIMI",
+    "composer": "MIMI",
+    "sekai_singer": "MEIKO,小豆沢こはね,白石杏",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
