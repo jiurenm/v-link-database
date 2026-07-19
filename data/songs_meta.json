@@ -9775,8 +9775,8 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
-  "い～やい～やい～や": {
-    "wiki_id": "52a4630a1c",
+  "い〜やい〜やい〜や": {
+    "wiki_id": "cec230b643",
     "group": "ワンダーランズ×ショウタイム",
     "difficulty": {
       "easy": "6",
@@ -11021,6 +11021,22 @@
     "lyricist": "MIMI",
     "composer": "MIMI",
     "sekai_singer": "MEIKO,小豆沢こはね,白石杏",
+    "detail_fetched": true
+  },
+  "ラプス": {
+    "wiki_id": "d57308233c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "kr-Kuura",
+    "composer": "kr-Kuura",
+    "sekai_singer": null,
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
