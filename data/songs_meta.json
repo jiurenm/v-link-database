@@ -11039,6 +11039,38 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "アストロノーツ": {
+    "wiki_id": "770e776ee9",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "10",
+      "hard": "16",
+      "expert": "22",
+      "master": "25",
+      "append": "-"
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "シティライツ": {
+    "wiki_id": "23f665aa6f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "16",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
