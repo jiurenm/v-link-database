@@ -11071,6 +11071,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "ピッコーン！！": {
+    "wiki_id": "30a61e8647",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "椎名もた",
+    "composer": "椎名もた",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
