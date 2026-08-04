@@ -11119,6 +11119,22 @@
     "sekai_singer": "星乃一歌,鏡音リン,天馬咲希,望月穂波,日野森志歩",
     "detail_fetched": true
   },
+  "デロスサントス": {
+    "wiki_id": "6d4e48120f",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "山本",
+    "composer": "山本",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
