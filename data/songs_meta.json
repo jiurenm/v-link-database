@@ -1816,7 +1816,7 @@
       "hard": "19",
       "expert": "27",
       "master": "32",
-      "append": "-"
+      "append": "34"
     },
     "lyricist": "じん",
     "composer": "じん",
@@ -11132,6 +11132,22 @@
     },
     "lyricist": "山本",
     "composer": "山本",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "一億年恋してる": {
+    "wiki_id": "d7a772107c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "いのうつはSA",
+    "composer": "いのうつはSA",
     "sekai_singer": null,
     "detail_fetched": true
   },
