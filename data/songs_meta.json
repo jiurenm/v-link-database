@@ -11151,6 +11151,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "アディショナルメモリー": {
+    "wiki_id": "a7230dffa3",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "鏡音レン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
