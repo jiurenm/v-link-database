@@ -11199,6 +11199,54 @@
     "sekai_singer": "KAITO,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "空想フォレスト": {
+    "wiki_id": "589523f594",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "巡音ルカ,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
+  "アヤノの幸福理論": {
+    "wiki_id": "1f9b72ab08",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "じん",
+    "composer": "じん",
+    "sekai_singer": "MEIKO,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
+  },
+  "スターダストレイン": {
+    "wiki_id": "f50b3fac9a",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "17",
+      "expert": "24",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "STEAKA",
+    "composer": "STEAKA",
+    "sekai_singer": "桐谷遥,KAITO,花里みのり,桃井愛莉,日野森雫",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
