@@ -11247,6 +11247,22 @@
     "sekai_singer": "桐谷遥,KAITO,花里みのり,桃井愛莉,日野森雫",
     "detail_fetched": true
   },
+  "君に贈る未来": {
+    "wiki_id": "ceff9f731b",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "木瀬のん",
+    "composer": "木瀬のん",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
