@@ -11263,6 +11263,38 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "アンチサイノウ": {
+    "wiki_id": "88556d6c0e",
+    "group": "Other",
+    "difficulty": {
+      "easy": "9",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "sekai_singer": "桃井愛莉,東雲彰人,草薙寧々,東雲絵名,MEIKO",
+    "detail_fetched": true
+  },
+  "空に免じて": {
+    "wiki_id": "b69e3a1ceb",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "22",
+      "master": "26",
+      "append": "-"
+    },
+    "lyricist": "傘村トータ",
+    "composer": "傘村トータ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
