@@ -11295,6 +11295,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "shake it!": {
+    "wiki_id": "3bb696eab9",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "emon(Tes.)",
+    "composer": "emon(Tes.)",
+    "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
