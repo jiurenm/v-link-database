@@ -11311,6 +11311,22 @@
     "sekai_singer": "鏡音リン,花里みのり,桐谷遥,桃井愛莉,日野森雫",
     "detail_fetched": true
   },
+  "正解": {
+    "wiki_id": "0f30d22c7a",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "雨良 Amala",
+    "composer": "雨良 Amala",
+    "sekai_singer": "東雲彰人,鏡音リン,小豆沢こはね,白石杏,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
