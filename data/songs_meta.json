@@ -11327,6 +11327,22 @@
     "sekai_singer": "東雲彰人,鏡音リン,小豆沢こはね,白石杏,青柳冬弥",
     "detail_fetched": true
   },
+  "ヘレディティ": {
+    "wiki_id": "067dd1e3ea",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "サツキ",
+    "composer": "サツキ",
+    "sekai_singer": "草薙寧々,巡音ルカ,天馬司,鳳えむ,神代類",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
