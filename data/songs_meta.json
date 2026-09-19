@@ -11343,6 +11343,22 @@
     "sekai_singer": "草薙寧々,巡音ルカ,天馬司,鳳えむ,神代類",
     "detail_fetched": true
   },
+  "敗走": {
+    "wiki_id": "4a79db2ef0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "傘村トータ",
+    "composer": "傘村トータ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
