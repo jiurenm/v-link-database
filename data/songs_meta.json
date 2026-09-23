@@ -11359,6 +11359,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "こわれちゃった！！": {
+    "wiki_id": "d6278aaf58",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "9",
+      "normal": "15",
+      "hard": "23",
+      "expert": "31",
+      "master": "34",
+      "append": "37"
+    },
+    "lyricist": "タケノコ少年",
+    "composer": "タケノコ少年",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
