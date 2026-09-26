@@ -11375,6 +11375,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "きのせい": {
+    "wiki_id": "65ff1fb067",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "5",
+      "normal": "12",
+      "hard": "16",
+      "expert": "23",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "imie",
+    "composer": "imie",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
