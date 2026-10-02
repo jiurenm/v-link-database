@@ -11391,6 +11391,38 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "エメラルド": {
+    "wiki_id": "07d01abb90",
+    "group": "Other",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "30"
+    },
+    "lyricist": "キタニタツヤ",
+    "composer": "キタニタツヤ",
+    "sekai_singer": "星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏,初音ミク",
+    "detail_fetched": true
+  },
+  "オブソミート": {
+    "wiki_id": "d6cc7f4a9a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "サツキ",
+    "composer": "サツキ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
