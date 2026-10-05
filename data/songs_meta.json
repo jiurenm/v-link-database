@@ -11423,6 +11423,54 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "アブノーマリティ･ダンシンガール": {
+    "wiki_id": "5e8ad54469",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "19",
+      "expert": "29",
+      "master": "32",
+      "append": "-"
+    },
+    "lyricist": "ぐちり",
+    "composer": "ぐちり",
+    "sekai_singer": "鏡音リン,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+    "detail_fetched": true
+  },
+  "ラビットホール": {
+    "wiki_id": "613951b2d0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "19",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "LEMON MELON COOKIE": {
+    "wiki_id": "27e72ff804",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "TAK",
+    "composer": "TAK",
+    "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
