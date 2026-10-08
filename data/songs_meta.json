@@ -11471,6 +11471,38 @@
     "sekai_singer": "初音ミク,花里みのり,桐谷遥,桃井愛莉,日野森雫",
     "detail_fetched": true
   },
+  "ドゥーマー": {
+    "wiki_id": "ed6d25f84a",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "東京真中",
+    "composer": "東京真中",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "デーモンロード": {
+    "wiki_id": "578622728b",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "19",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "Kanaria",
+    "composer": "Kanaria",
+    "sekai_singer": "鏡音レン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
