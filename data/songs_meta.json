@@ -11503,6 +11503,70 @@
     "sekai_singer": "鏡音レン,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "推定ラブソング": {
+    "wiki_id": "a8e038278c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "12",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "あ子",
+    "composer": "あ子",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "アルティメットセンパイ": {
+    "wiki_id": "24a68da59d",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "ピノキオピー",
+    "composer": "ピノキオピー",
+    "sekai_singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
+  "ダーリン": {
+    "wiki_id": "218c1ab0e0",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "7",
+      "normal": "13",
+      "hard": "17",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "ハイドレンジア": {
+    "wiki_id": "ae08269af2",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "16",
+      "expert": "23",
+      "master": "28",
+      "append": "-"
+    },
+    "lyricist": "LonePi",
+    "composer": "LonePi",
+    "sekai_singer": "巡音ルカ,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
