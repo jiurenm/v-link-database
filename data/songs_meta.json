@@ -11567,6 +11567,38 @@
     "sekai_singer": "巡音ルカ,宵崎奏,朝比奈まふゆ,東雲絵名,暁山瑞希",
     "detail_fetched": true
   },
+  "at": {
+    "wiki_id": "at",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "21",
+      "expert": "29",
+      "master": "33",
+      "append": "36"
+    },
+    "lyricist": "黒魔",
+    "composer": "黒魔",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
+  "星、ときどき光": {
+    "wiki_id": "5b5227f9cc",
+    "group": "Leo/need",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "25",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "あばらや",
+    "composer": "あばらや",
+    "sekai_singer": "望月穂波,MEIKO,星乃一歌,天馬咲希,日野森志歩",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
