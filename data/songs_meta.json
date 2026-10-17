@@ -11599,6 +11599,22 @@
     "sekai_singer": "望月穂波,MEIKO,星乃一歌,天馬咲希,日野森志歩",
     "detail_fetched": true
   },
+  "Palette": {
+    "wiki_id": "Palette",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "17",
+      "expert": "26",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "ゆよゆっぺ・meola",
+    "composer": "ゆよゆっぺ・meola",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
