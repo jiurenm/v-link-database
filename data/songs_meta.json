@@ -11615,6 +11615,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "バカ通信": {
+    "wiki_id": "927f6b1262",
+    "group": "ワンダーランズ×ショウタイム",
+    "difficulty": {
+      "easy": "9",
+      "normal": "14",
+      "hard": "21",
+      "expert": "27",
+      "master": "31",
+      "append": "-"
+    },
+    "lyricist": "isonosuke",
+    "composer": "isonosuke",
+    "sekai_singer": "MEIKO,天馬司,鳳えむ,草薙寧々,神代類",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
