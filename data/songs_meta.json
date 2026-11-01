@@ -11647,6 +11647,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "ULTIM@TE☆BE∀M!!": {
+    "wiki_id": "a0b3a4ba8c",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "10",
+      "normal": "16",
+      "hard": "25",
+      "expert": "32",
+      "master": "35",
+      "append": "38"
+    },
+    "lyricist": "xi",
+    "composer": "xi",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
