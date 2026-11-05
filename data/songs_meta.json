@@ -11663,6 +11663,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "プレデター": {
+    "wiki_id": "efcad3fa10",
+    "group": "Vivid BAD SQUAD",
+    "difficulty": {
+      "easy": "5",
+      "normal": "13",
+      "hard": "18",
+      "expert": "25",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "遼遼",
+    "composer": "遼遼",
+    "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
