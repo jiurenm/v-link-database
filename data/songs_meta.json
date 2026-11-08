@@ -11679,6 +11679,22 @@
     "sekai_singer": "KAITO,東雲彰人,青柳冬弥",
     "detail_fetched": true
   },
+  "プシ": {
+    "wiki_id": "f2d0ef9975",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "13",
+      "hard": "21",
+      "expert": "27",
+      "master": "31",
+      "append": "34"
+    },
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
