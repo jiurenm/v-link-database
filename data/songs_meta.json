@@ -11695,6 +11695,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "星を探して♭♭": {
+    "wiki_id": "bec56795ab",
+    "group": "25時、ナイトコードで。",
+    "difficulty": {
+      "easy": "5",
+      "normal": "11",
+      "hard": "16",
+      "expert": "22",
+      "master": "27",
+      "append": "-"
+    },
+    "lyricist": "原口沙輔",
+    "composer": "原口沙輔",
+    "sekai_singer": "宵崎奏,巡音ルカ,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
