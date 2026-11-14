@@ -520,7 +520,7 @@
       "hard": "18",
       "expert": "26",
       "master": "30",
-      "append": "-"
+      "append": "31"
     },
     "lyricist": "カンザキイオリ",
     "composer": "カンザキイオリ",
@@ -11709,6 +11709,22 @@
     "lyricist": "原口沙輔",
     "composer": "原口沙輔",
     "sekai_singer": "宵崎奏,巡音ルカ,朝比奈まふゆ,東雲絵名,暁山瑞希",
+    "detail_fetched": true
+  },
+  "ノーモアフィクション": {
+    "wiki_id": "ecf88acc03",
+    "group": "MORE MORE JUMP！",
+    "difficulty": {
+      "easy": "7",
+      "normal": "12",
+      "hard": "18",
+      "expert": "24",
+      "master": "30",
+      "append": "-"
+    },
+    "lyricist": "晴いちばん",
+    "composer": "晴いちばん",
+    "sekai_singer": "日野森雫,鏡音リン,花里みのり,桐谷遥,桃井愛莉",
     "detail_fetched": true
   },
   "どんな結末がお望みだい？": {
