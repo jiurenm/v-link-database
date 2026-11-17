@@ -11727,6 +11727,22 @@
     "sekai_singer": "日野森雫,鏡音リン,花里みのり,桐谷遥,桃井愛莉",
     "detail_fetched": true
   },
+  "スロウライト": {
+    "wiki_id": "e0e475f6da",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "6",
+      "normal": "13",
+      "hard": "18",
+      "expert": "26",
+      "master": "29",
+      "append": "-"
+    },
+    "lyricist": "パンタレイ",
+    "composer": "パンタレイ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
