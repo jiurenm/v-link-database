@@ -11743,6 +11743,22 @@
     "sekai_singer": null,
     "detail_fetched": true
   },
+  "レグルス（REMIX）": {
+    "wiki_id": "f85cfe6242",
+    "group": "Virtual Singer",
+    "difficulty": {
+      "easy": "8",
+      "normal": "14",
+      "hard": "18",
+      "expert": "26",
+      "master": "32",
+      "append": "35"
+    },
+    "lyricist": "ゆうゆ",
+    "composer": "ゆうゆ",
+    "sekai_singer": null,
+    "detail_fetched": true
+  },
   "どんな結末がお望みだい？": {
     "wiki_id": "de408f6e84",
     "group": "ワンダーランズ×ショウタイム",
